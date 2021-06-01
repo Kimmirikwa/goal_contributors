@@ -10,6 +10,9 @@ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KH
 
 
 def get_soup(url):
+	"""
+	parses the soup object from the downloaded content
+	"""
 	page = requests.get(url, headers=headers)
 
 	return BeautifulSoup(page.content, 'html.parser')
