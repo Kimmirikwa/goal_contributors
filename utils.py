@@ -93,6 +93,7 @@ def get_scorers_df(players_stats_urls, league_name, league_table):
 	df = pd.DataFrame()
 	for player_stats_url in players_stats_urls:
 		url = home_url + player_stats_url['url']
+		print(url)
 		stats_soup = get_soup(url)
 		table_divs = stats_soup.findAll('div', {'class': 'box'})
 		stats_table = None
@@ -103,18 +104,21 @@ def get_scorers_df(players_stats_urls, league_name, league_table):
 			stats_table = table_div.find('table')
 			break
 
-		columns = ['player', 'opponent', 'opponent_position', 'goals', 'assits']
+		columns = ['player', 'team', 'team_position', 'opponent', 'opponent_position', 'goals', 'assists']
+		try:
+			tbody = stats_table.find('tbody')
+			rows = tbody.findAll('tr')
+			data = []
+			for row in rows:
+				cells = row.findAll('td')
+				if len(cells) < 13:
+					continue
+				team = cells[6].find('a').text.strip()
+				opponent = cells[6].find('a').text.strip()
+				data.append([player_stats_url['player'], team, league_table.index(team) + 1, opponent, league_table.index(team) + 1, cells[9].text, cells[10].text])
+		except Exception as e:
+			continue
 
-		#print(stats_table)
-		tbody = stats_table.find('tbody')
-		rows = tbody.findAll('tr')
-		data = []
-		for row in rows:
-			cells = row.findAll('td')
-			if len(cells) < 13:
-				continue
-			team = cells[6].find('a').text.strip()
-			data.append([player_stats_url['player'], team, league_table.index(team) + 1, cells[9].text, cells[10].text])
 
 		df = pd.concat([df, pd.DataFrame(data, columns=columns)])
 
