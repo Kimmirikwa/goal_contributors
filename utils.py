@@ -113,7 +113,7 @@ def get_scorers_df(players_stats_urls, league_name, league_table):
 				cells = row.findAll('td')
 				if len(cells) < 13:
 					continue
-				team = cells[6].find('a').text.strip()
+				team = cells[4].find('a').text.strip()
 				opponent = cells[6].find('a').text.strip()
 				data.append([player_stats_url['player'], team, league_table.index(team) + 1, opponent, league_table.index(team) + 1, cells[9].text, cells[10].text])
 		except Exception as e:
