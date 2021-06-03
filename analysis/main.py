@@ -38,6 +38,11 @@ if __name__ == "__main__":
 		data[data['opponent_position'] <= 4])
 	contributors_against_top_4_teams.to_csv("output/contributors_against_top_4_teams.csv", index=False)
 
+	# scorers or assisters against relegated
+	contributors_against_relegated_teams = utils.aggregate_goal_involvements(
+		data[data['opponent_position'] >= 18])
+	contributors_against_relegated_teams.to_csv("output/contributors_against_relegated_teams.csv", index=False)
+
 	# scorers or assisiters against 'the big 6'
 	contributors_against_the_big_6_teams = utils.aggregate_goal_involvements(
 		data[data.opponent.isin(BIG_6)])
