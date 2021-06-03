@@ -2,6 +2,8 @@ import pandas as pd
 
 import utils
 
+BIG_6 = ['Man City', 'Man Utd', 'Liverpool', 'Chelsea', 'Spurs', 'Arsenal']
+
 
 if __name__ == "__main__":
 	data = pd.read_csv("../data/premier_scorers.csv")
@@ -35,3 +37,9 @@ if __name__ == "__main__":
 	contributors_against_top_4_teams = utils.aggregate_goal_involvements(
 		data[data['opponent_position'] <= 4])
 	contributors_against_top_4_teams.to_csv("output/contributors_against_top_4_teams.csv", index=False)
+
+	# scorers or assisiters against 'the big 6'
+	contributors_against_the_big_6_teams = utils.aggregate_goal_involvements(
+		data[data.opponent.isin(BIG_6)])
+	contributors_against_the_big_6_teams.to_csv("output/contributors_against_the_big_6_teams.csv", index=False)
+
