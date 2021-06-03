@@ -19,7 +19,7 @@ LEAGUE_TABLES = {
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(description='Process leauge top scorers')
-	parser.add_argument('--league_link_name', default='premier', help='the name to use to get the league link')
+	parser.add_argument('--league_link_name', default='laliga', help='the name to use to get the league link')
 	args = parser.parse_args()
 	soup = utils.get_soup(home_url)
 

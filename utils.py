@@ -104,7 +104,7 @@ def get_scorers_df(players_stats_urls, league_name, league_table):
 			stats_table = table_div.find('table')
 			break
 
-		columns = ['player', 'team', 'team_position', 'opponent', 'opponent_position', 'goals', 'assists']
+		columns = ['match_day', 'date', 'venue', 'player', 'team', 'opponent', 'opponent_position', 'result', 'goals', 'assists', 'minutes_played']
 		try:
 			tbody = stats_table.find('tbody')
 			rows = tbody.findAll('tr')
@@ -113,9 +113,10 @@ def get_scorers_df(players_stats_urls, league_name, league_table):
 				cells = row.findAll('td')
 				if len(cells) < 13:
 					continue
-				team = cells[4].find('a').text.strip()
+				team = cells[3].find('img', alt=True)['alt']
 				opponent = cells[6].find('a').text.strip()
-				data.append([player_stats_url['player'], team, league_table.index(team) + 1, opponent, league_table.index(team) + 1, cells[9].text, cells[10].text])
+				data.append(
+					[cells[0].text.strip(), cells[1].text.strip(), cells[2].text.strip(), player_stats_url['player'], team, opponent, league_table.index(opponent) + 1, cells[7].text.strip(), cells[9].text.strip(), cells[10].text.strip(), cells[14].text.strip()])
 		except Exception as e:
 			continue
 
