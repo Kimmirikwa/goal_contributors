@@ -88,59 +88,11 @@ def get_players_stats_urls(stats_uris):
 	return players_stats_urls
 
 
-def get_goal_types(url, league):
-	goals_soup = get_soup(url)
-	tables = goals_soup.findAll('table')
-	goals_table = None
-
-	for table in tables:
-		thead = table.find('thead')
-		if not thead:
-			continue
-		ths = thead.findAll('th')
-		if ths[-1].text == 'Type of goal':
-			goals_table = table
-			break
-
-	season_row = goals_table.find("td", text="Season 20/21").parent
-	rows = season_row.find_all_next("tr")
-	league_goal_types = {}
-	opponent = None
-	venue = None
-	goal_number = None
-	for row in rows:
-		cells = row.findAll("td")
-		if row.parent != season_row.parent:
-			break
-		if not cells:
-			continue
-		if len(cells) == 4:
-			if current_league != league:
-				continue
-			goal_number += 1
-			league_goal_types["{}_{}_{}".format(
-				opponent, venue, goal_number)] = {
-				"final_score": final_score,
-				"minute": cells[-3].text.strip(),
-				"current_score": cells[-2].text.strip(),
-				"goal_type": cells[-1].text.strip()
-			}
-		elif cells[0].find('img')['title'].strip() == league:
-			current_league = cells[0].find('img')['title'].strip()
-			opponent = cells[6].text.split()[0]
-			venue = cells[2].text.strip()
-			goal_number = 1
-			final_score = cells[7].text.strip()
-			league_goal_types["{}_{}_{}".format(
-				opponent, venue, goal_number)] = {
-				"final_score": final_score,
-				"minute": cells[-3].text.strip(),
-				"current_score": cells[-2].text.strip(),
-				"goal_type": cells[-1].text.strip()
-			}
-		else:
-			current_league = cells[0].find('img')['title'].strip()
-	return league_goal_types
+def get_all_goals_urls(players_scorers_urls):
+	return [{
+		'player': url['player'],
+		'url': url['url'].replace("leistungsdaten", "alletore")
+		} for url in players_scorers_urls]
 
 
 def get_scorers_df(players_stats_urls, league_name, league_table):
@@ -179,3 +131,63 @@ def get_scorers_df(players_stats_urls, league_name, league_table):
 		df = pd.concat([df, pd.DataFrame(data, columns=columns)])
 
 	return df
+
+
+def get_goal_types(urls, league):
+	df = pd.DataFrame()
+	columns = ['league', 'player', 'team_venue_goal_number', 'opponent_position', 'final_score', 'minute', 'current_score', 'goal_type']
+	for url in urls:
+		goals_soup = get_soup(home_url + url['url'])
+		tables = goals_soup.findAll('table')
+		goals_table = None
+
+		for table in tables:
+			thead = table.find('thead')
+			if not thead:
+				continue
+			ths = thead.findAll('th')
+			if ths[-1].text == 'Type of goal':
+				goals_table = table
+				break
+
+		season_row = goals_table.find("td", text="Season 20/21").parent
+		rows = season_row.find_all_next("tr")
+		opponent = None
+		venue = None
+		goal_number = None
+		data = []
+		for row in rows:
+			try:
+				cells = row.findAll("td")
+				if row.parent != season_row.parent:
+					break
+				if not cells:
+					continue
+				if len(cells) == 4:
+					if current_league != league:
+						continue
+					goal_number += 1
+				elif cells[0].find('img')['title'].strip() == league:
+					opponent_and_position = cells[6].text.split()
+					opponent = " ".join(opponent_and_position[:-1])
+					opponent_position = opponent_and_position[-1]
+					for char in "(.)":
+						opponent_position = re.sub("\\{}".format(char), '', opponent_position)
+					venue = cells[2].text.strip()
+					goal_number = 1
+					final_score = cells[7].text.strip()
+				else:
+					current_league = cells[0].find('img')['title'].strip()
+					continue
+			except Exception as e:
+				continue
+			data.append([
+					league, url['player'], "{}_{}_{}".format(opponent, venue, goal_number), opponent_position, final_score, cells[-3].text.strip(), cells[-2].text.strip(), cells[-1].text.strip()])
+		df = pd.concat([df, pd.DataFrame(data, columns=columns)])
+
+	return df
+
+
+# df = get_goal_types([{"player": "Harry Kane", "url": "/harry-kane/alletore/spieler/132098"}], "Premier League")
+# print(df.head())
+

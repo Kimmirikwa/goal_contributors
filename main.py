@@ -17,9 +17,20 @@ LEAGUE_TABLES = {
 	"bundesliga": "Bundesliga"
 }
 
+
+def get_stats_function(stats):
+	functions = {
+		'scorers': utils.get_scorers_df,
+		'all_goals': utils.get_goal_types
+	}
+
+	return functions[stats]
+
+
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(description='Process leauge top scorers')
-	parser.add_argument('--league_link_name', default='laliga', help='the name to use to get the league link')
+	parser.add_argument('--league_link_name', default='premier', help='the name to use to get the league link')
+	parser.add_argument('--stats', default='all_goals', help="the statistics to get")
 	args = parser.parse_args()
 	soup = utils.get_soup(home_url)
 
@@ -32,9 +43,10 @@ if __name__ == "__main__":
 	stats_soup = utils.get_soup(stats_url)
 	stats_uris = utils.get_stats_uris(stats_soup)
 
-	players_stats_urls = utils.get_players_stats_urls(stats_uris)
+	players_scorers_urls = utils.get_players_stats_urls(stats_uris)
+	players_all_goals_urls = utils.get_all_goals_urls(players_scorers_urls)
 
-	df = utils.get_scorers_df(players_stats_urls, LEAGUE_TABLES[args.league_link_name], league_table)
-
-	df.fillna(0, inplace=True)
-	df.to_csv("data/{}_scorers.csv".format(args.league_link_name), index=False)
+	stats_function = get_stats_function(args.stats)
+	league_name = LEAGUE_TABLES[args.league_link_name]
+	df = stats_function(players_all_goals_urls, LEAGUE_TABLES[args.league_link_name])
+	df.to_csv("data/{}_{}.csv".format(league_name, args.stats), index=False)
