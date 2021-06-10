@@ -48,44 +48,47 @@ def get_league_table(league_soup):
 	return [team_row.findAll('td')[2].text.strip() for team_row in team_rows]
 
 
-def get_stats_uris(stats_soup):
-	print("Getting the league stats")
-	li_tags = stats_soup.findAll('li', {'class': 'page'})
-	stats_uris = [li_tag.find('a')['href'] for li_tag in li_tags]
-	return stats_uris
+def get_player_scorers_uris(stats_soup):
+	scorers_urls = []
+	while stats_soup:
+		scorers_urls.extend(get_scorers_url_from_page(stats_soup))
+		next_element_li_tag = stats_soup.find('li', {'title': "Go to next page"})
+		if next_element_li_tag:
+			stats_url = home_url + next_element_li_tag.find('a')['href']
+			stats_soup = get_soup(stats_url)
+		else:
+			stats_soup = None
+
+	return scorers_urls
 
 
-def get_players_stats_urls(stats_uris):
-	print("Getting the player stats url")
-	players_stats_urls = []
-	for stats_uri in stats_uris:
-		stats_url = home_url + stats_uri
-		stats_soup = get_soup(stats_url)
+def get_scorers_url_from_page(stats_soup):
+	scorers_urls = []
+	tables = stats_soup.findAll('table')
+	scorers_table = None
 
-		tables = stats_soup.findAll('table')
-		scorers_table = None
+	for table in tables:
+		thead = table.find('thead')
+		if not thead:
+			continue
+		ths = thead.findAll('th')
+		if len(ths) == 7:
+			scorers_table = table
+			break
 
-		for table in tables:
-			thead = table.find('thead')
-			if not thead:
-				continue
-			ths = thead.findAll('th')
-			if len(ths) == 7:
-				scorers_table = table
-				break
+	tbody = scorers_table.find('tbody')
+	scorer_rows = tbody.findAll('tr', {"class": re.compile(r'(odd)|(even)')})
+	for scorer_row in scorer_rows:
+		player = scorer_row.find('td', {'class': 'hauptlink'})
+		player_url = home_url + player.find('a')['href']
+		player_soup = get_soup(player_url)
+		player_stats_url = player_soup.find('a', text='View full stats')['href']
+		scorers_urls.append({
+			'player': player.text.strip(),
+			'url': player_stats_url
+			})
 
-		tbody = scorers_table.find('tbody')
-		scorer_rows = tbody.findAll('tr', {"class": re.compile(r'(odd)|(even)')})
-		for scorer_row in scorer_rows:
-			player = scorer_row.find('td', {'class': 'hauptlink'})
-			player_url = home_url + player.find('a')['href']
-			player_soup = get_soup(player_url)
-			player_stats_url = player_soup.find('a', text='View full stats')['href']
-			players_stats_urls.append({
-				'player': player.text.strip(),
-				'url': player_stats_url
-				})
-	return players_stats_urls
+	return scorers_urls
 
 
 def get_all_goals_urls(players_scorers_urls):

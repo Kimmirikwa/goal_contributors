@@ -41,9 +41,9 @@ if __name__ == "__main__":
 
 	stats_url = home_url + league_soup.find('a', title="View stats")['href']
 	stats_soup = utils.get_soup(stats_url)
-	stats_uris = utils.get_stats_uris(stats_soup)
+	scorers_uris = utils.get_player_scorers_uris(stats_soup)
 
-	players_scorers_urls = utils.get_players_stats_urls(stats_uris)
+	players_scorers_urls = utils.get_players_stats_urls(scorers_uris)
 	players_all_goals_urls = utils.get_all_goals_urls(players_scorers_urls)
 
 	stats_function = get_stats_function(args.stats)
