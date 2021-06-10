@@ -30,7 +30,7 @@ def get_stats_function(stats):
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(description='Process leauge top scorers')
 	parser.add_argument('--league_link_name', default='premier', help='the name to use to get the league link')
-	parser.add_argument('--stats', default='all_goals', help="the statistics to get")
+	parser.add_argument('--stats', default='scorers', help="the statistics to get")
 	args = parser.parse_args()
 	soup = utils.get_soup(home_url)
 
@@ -42,11 +42,10 @@ if __name__ == "__main__":
 	stats_url = home_url + league_soup.find('a', title="View stats")['href']
 	stats_soup = utils.get_soup(stats_url)
 	scorers_uris = utils.get_player_scorers_uris(stats_soup)
-
-	players_scorers_urls = utils.get_players_stats_urls(scorers_uris)
-	players_all_goals_urls = utils.get_all_goals_urls(players_scorers_urls)
+	players_all_goals_urls = utils.get_all_goals_urls(scorers_uris)
 
 	stats_function = get_stats_function(args.stats)
 	league_name = LEAGUE_TABLES[args.league_link_name]
-	df = stats_function(players_all_goals_urls, LEAGUE_TABLES[args.league_link_name])
+	stats_uris = scorers_uris if args.stats == 'scorers' else players_all_goals_urls
+	df = stats_function(stats_uris, LEAGUE_TABLES[args.league_link_name], league_table)
 	df.to_csv("data/{}_{}.csv".format(league_name, args.stats), index=False)

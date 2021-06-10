@@ -1,0 +1,1012 @@
+league,player,team_venue_goal_number,opponent_position,final_score,minute,current_score,goal_type
+Serie A,Cristiano Ronaldo,Sampdoria_H_1,9,3:0,88',3:0,Right-footed shot
+Serie A,Cristiano Ronaldo,AS Roma_A_1,19,2:2,44',1:1,Penalty
+Serie A,Cristiano Ronaldo,Spezia Calcio_A_1,14,1:4,59',1:2,Right-footed shot
+Serie A,Cristiano Ronaldo,Lazio_A_1,10,1:1,15',0:1,Right-footed shot
+Serie A,Cristiano Ronaldo,Cagliari Calcio_H_1,10,2:0,38',1:0,Right-footed shot
+Serie A,Cristiano Ronaldo,Genoa_A_1,19,1:3,78',1:2,Penalty
+Serie A,Cristiano Ronaldo,Parma_A_1,14,0:4,26',0:2,Header
+Serie A,Cristiano Ronaldo,Udinese Calcio_H_1,12,4:1,31',1:0,Right-footed shot
+Serie A,Cristiano Ronaldo,Sassuolo_H_1,6,3:1,90'+2,3:1,Right-footed shot
+Serie A,Cristiano Ronaldo,AS Roma_H_1,4,2:0,13',1:0,Left-footed shot
+Serie A,Cristiano Ronaldo,Crotone_H_1,20,3:0,38',1:0,Header
+Serie A,Cristiano Ronaldo,Hellas Verona_A_1,9,1:1,49',0:1,Right-footed shot
+Serie A,Cristiano Ronaldo,Spezia Calcio_H_1,15,3:0,89',3:0,Counter attack goal
+Serie A,Cristiano Ronaldo,Cagliari Calcio_A_1,18,1:3,10',0:1,Header
+Serie A,Cristiano Ronaldo,Torino_A_1,17,2:2,79',2:2,Header
+Serie A,Cristiano Ronaldo,SSC Napoli_H_1,1,2:1,13',1:0,Right-footed shot
+Serie A,Cristiano Ronaldo,Udinese Calcio_A_1,11,1:2,83',1:1,Penalty
+Serie A,Cristiano Ronaldo,Sassuolo_A_1,8,1:3,45',0:2,Left-footed shot
+Serie A,Cristiano Ronaldo,Inter_H_1,1,3:2,24',1:0,Penalty rebound
+Serie A,Romelu Lukaku,Fiorentina_H_1,9,4:3,87',3:3,Right-footed shot
+Serie A,Romelu Lukaku,Benevento_A_1,18,2:5,1',0:1,Right-footed shot
+Serie A,Romelu Lukaku,AC Milan_H_1,2,1:2,29',1:2,Left-footed shot
+Serie A,Romelu Lukaku,Genoa_A_1,11,0:2,64',0:1,Left-footed shot
+Serie A,Romelu Lukaku,Torino_H_1,17,4:2,67',2:2,Left-footed shot
+Serie A,Romelu Lukaku,Bologna_H_1,10,3:1,16',1:0,Left-footed shot
+Serie A,Romelu Lukaku,Cagliari Calcio_A_1,11,1:3,90'+4,1:3,Counter attack goal
+Serie A,Romelu Lukaku,SSC Napoli_H_1,2,1:0,73',1:0,Penalty
+Serie A,Romelu Lukaku,Spezia Calcio_H_1,16,2:1,71',2:0,Penalty
+Serie A,Romelu Lukaku,Crotone_H_1,19,6:2,64',4:2,Left-footed shot
+Serie A,Romelu Lukaku,Benevento_H_1,11,4:0,67',3:0,Left-footed shot
+Serie A,Romelu Lukaku,Lazio_H_1,4,3:1,22',1:0,Penalty
+Serie A,Romelu Lukaku,AC Milan_A_1,2,0:3,66',0:3,Solo run
+Serie A,Romelu Lukaku,Genoa_H_1,11,3:0,1',1:0,Counter attack goal
+Serie A,Romelu Lukaku,Torino_A_1,17,1:2,62',0:1,Penalty
+Serie A,Romelu Lukaku,Bologna_A_1,11,0:1,31',0:1,Right-footed shot
+Serie A,Romelu Lukaku,Sassuolo_H_1,8,2:1,10',1:0,Header
+Serie A,Romelu Lukaku,AS Roma_H_1,7,3:1,90',3:1,Counter attack goal
+Serie A,Romelu Lukaku,Juventus_A_1,5,3:2,35',1:1,Penalty
+Serie A,Romelu Lukaku,Udinese Calcio_H_1,12,5:1,71',5:0,Tap-in
+Serie A,Luis Muriel,Torino_A_1,12,2:4,21',1:2,Right-footed shot
+Serie A,Luis Muriel,Cagliari Calcio_H_1,14,5:2,7',1:0,Counter attack goal
+Serie A,Luis Muriel,Crotone_A_1,20,1:2,26',0:1,Right-footed shot
+Serie A,Luis Muriel,AS Roma_H_1,5,4:1,72',3:1,Left-footed shot
+Serie A,Luis Muriel,Bologna_A_1,13,2:2,22',0:1,Penalty
+Serie A,Luis Muriel,Sassuolo_H_1,5,5:1,67',5:0,Right-footed shot
+Serie A,Luis Muriel,Parma_H_1,16,3:0,15',1:0,Left-footed shot
+Serie A,Luis Muriel,Benevento_A_1,10,1:4,86',1:4,Right-footed shot
+Serie A,Luis Muriel,Udinese Calcio_A_1,14,1:1,44',1:1,Right-footed shot
+Serie A,Luis Muriel,Torino_H_1,18,3:3,21',3:0,Tap-in
+Serie A,Luis Muriel,Cagliari Calcio_A_1,18,0:1,90',0:1,Right-footed shot
+Serie A,Luis Muriel,SSC Napoli_H_1,6,4:2,71',3:1,Left-footed shot
+Serie A,Luis Muriel,Crotone_H_1,20,5:1,50',3:1,Left-footed shot
+Serie A,Luis Muriel,Spezia Calcio_H_1,14,3:1,55',2:0,Right-footed shot
+Serie A,Luis Muriel,Udinese Calcio_H_1,12,3:2,19',1:0,Left-footed shot
+Serie A,Luis Muriel,Bologna_H_1,11,5:0,44',2:0,Penalty
+Serie A,Luis Muriel,Parma_A_1,19,2:5,77',0:3,Right-footed shot
+Serie A,Luis Muriel,Benevento_H_1,18,2:0,22',1:0,Left-footed shot
+Serie A,Dusan Vlahovic,Sampdoria_H_1,18,1:2,72',1:1,Left-footed shot
+Serie A,Dusan Vlahovic,Sassuolo_H_1,5,1:1,35',1:1,Penalty
+Serie A,Dusan Vlahovic,Hellas Verona_H_1,7,1:1,19',1:1,Penalty
+Serie A,Dusan Vlahovic,Juventus_A_1,3,0:3,3',0:1,Counter attack goal
+Serie A,Dusan Vlahovic,Lazio_A_1,9,2:1,88',2:1,Penalty
+Serie A,Dusan Vlahovic,Cagliari Calcio_H_1,16,1:0,72',1:0,Left-footed shot
+Serie A,Dusan Vlahovic,Crotone_H_1,20,2:1,32',2:0,Left-footed shot
+Serie A,Dusan Vlahovic,Sampdoria_A_1,10,2:1,37',1:1,Header
+Serie A,Dusan Vlahovic,Spezia Calcio_H_1,12,3:0,48',1:0,Left-footed shot
+Serie A,Dusan Vlahovic,Benevento_A_1,16,1:4,8',0:1,Left-footed shot
+Serie A,Dusan Vlahovic,Genoa_A_1,13,1:1,23',1:1,Left-footed shot
+Serie A,Dusan Vlahovic,Atalanta BC_H_1,4,2:3,57',1:2,Left-footed shot
+Serie A,Dusan Vlahovic,Hellas Verona_A_1,9,1:2,45'+2,0:1,Penalty
+Serie A,Dusan Vlahovic,Juventus_H_1,4,1:1,29',1:0,Penalty
+Serie A,Dusan Vlahovic,Bologna_A_1,12,3:3,21',0:1,Penalty
+Serie A,Dusan Vlahovic,Lazio_H_1,6,2:0,32',1:0,Left-footed shot
+Serie A,Ciro Immobile,Cagliari Calcio_A_1,10,0:2,74',0:2,Right-footed shot
+Serie A,Ciro Immobile,Bologna_H_1,17,2:1,76',2:0,Header
+Serie A,Ciro Immobile,Torino_A_1,16,3:4,90'+5,3:3,Penalty
+Serie A,Ciro Immobile,Crotone_A_1,20,0:2,21',0:1,Header
+Serie A,Ciro Immobile,Udinese Calcio_H_1,16,1:3,74',1:3,Penalty
+Serie A,Ciro Immobile,Spezia Calcio_A_1,13,1:2,15',0:1,Right-footed shot
+Serie A,Ciro Immobile,Benevento_A_1,13,1:1,25',0:1,Right-footed shot
+Serie A,Ciro Immobile,SSC Napoli_H_1,4,2:0,9',1:0,Header
+Serie A,Ciro Immobile,AC Milan_A_1,1,3:2,59',2:2,Left-footed shot
+Serie A,Ciro Immobile,Genoa_A_1,18,1:1,15',0:1,Penalty
+Serie A,Ciro Immobile,Fiorentina_H_1,14,2:1,75',2:0,Right-footed shot
+Serie A,Ciro Immobile,AS Roma_H_1,4,3:0,14',1:0,Right-footed shot
+Serie A,Ciro Immobile,Sassuolo_H_1,8,2:1,71',2:1,Left-footed shot
+Serie A,Ciro Immobile,Cagliari Calcio_H_1,17,1:0,61',1:0,Left-footed shot
+Serie A,Ciro Immobile,Benevento_H_1,16,5:3,20',2:0,Right-footed shot
+Serie A,Ciro Immobile,SSC Napoli_A_1,5,5:2,70',4:1,Right-footed shot
+Serie A,Ciro Immobile,AC Milan_H_1,2,3:0,87',3:0,Right-footed shot
+Serie A,Ciro Immobile,Genoa_H_1,13,4:3,43',2:0,Penalty
+Serie A,Ciro Immobile,Parma_H_1,19,1:0,90'+5,1:0,Right-footed shot
+Serie A,Simy,Sassuolo_A_1,7,4:1,49',1:1,Penalty
+Serie A,Simy,Juventus_H_1,5,1:1,12',1:0,Penalty
+Serie A,Simy,Atalanta BC_H_1,7,1:2,40',1:2,Right-footed shot
+Serie A,Simy,Sampdoria_A_1,11,3:1,45'+1,2:1,Penalty
+Serie A,Simy,Benevento_H_1,10,4:1,29',2:0,Counter attack goal
+Serie A,Simy,Fiorentina_A_1,13,2:1,66',2:1,Header
+Serie A,Simy,Atalanta BC_A_1,4,5:1,23',1:1,Right-footed shot
+Serie A,Simy,Torino_H_1,17,4:2,27',1:0,Penalty
+Serie A,Simy,Lazio_A_1,7,3:2,29',1:1,Right-footed shot
+Serie A,Simy,Bologna_H_1,12,2:3,40',2:0,Penalty
+Serie A,Simy,SSC Napoli_A_1,5,4:3,25',2:1,Right-footed shot
+Serie A,Simy,Spezia Calcio_A_1,16,3:2,78',1:2,Tap-in
+Serie A,Simy,Udinese Calcio_H_1,12,1:2,68',1:1,Penalty
+Serie A,Simy,Parma_A_1,19,3:4,42',1:2,Right-footed shot
+Serie A,Simy,Benevento_A_1,18,1:1,90'+3,1:1,Right-footed shot
+Serie A,Lorenzo Insigne,Parma_A_1,20,0:2,77',0:2,Right-footed shot
+Serie A,Lorenzo Insigne,Benevento_A_1,9,1:2,60',1:1,Left-footed shot
+Serie A,Lorenzo Insigne,AS Roma_H_1,3,4:0,30',1:0,Direct free kick
+Serie A,Lorenzo Insigne,Crotone_A_1,20,0:4,31',0:1,Right-footed shot
+Serie A,Lorenzo Insigne,Torino_H_1,18,1:1,90'+2,1:1,Right-footed shot
+Serie A,Lorenzo Insigne,Cagliari Calcio_A_1,15,1:4,86',1:4,Penalty
+Serie A,Lorenzo Insigne,Udinese Calcio_A_1,12,1:2,15',0:1,Penalty
+Serie A,Lorenzo Insigne,Fiorentina_H_1,12,6:0,5',1:0,Right-footed shot
+Serie A,Lorenzo Insigne,Juventus_H_1,3,1:0,31',1:0,Penalty
+Serie A,Lorenzo Insigne,Sassuolo_A_1,8,3:3,90',2:3,Penalty
+Serie A,Lorenzo Insigne,Bologna_H_1,12,3:1,8',1:0,Right-footed shot
+Serie A,Lorenzo Insigne,Crotone_H_1,20,4:3,19',1:0,Right-footed shot
+Serie A,Lorenzo Insigne,Juventus_A_1,6,2:1,90',2:1,Penalty
+Serie A,Lorenzo Insigne,Lazio_H_1,6,5:2,7',1:0,Penalty
+Serie A,Lorenzo Insigne,Udinese Calcio_H_1,11,5:1,90'+1,5:1,Right-footed shot
+Serie A,Lorenzo Insigne,Fiorentina_A_1,13,0:2,56',0:1,Penalty rebound
+Serie A,Lautaro Martínez,Fiorentina_H_1,9,4:3,45'+2,1:1,Counter attack goal
+Serie A,Lautaro Martínez,Benevento_A_1,18,2:5,71',1:5,Right-footed shot
+Serie A,Lautaro Martínez,Lazio_A_1,10,1:1,30',0:1,Right-footed shot
+Serie A,Lautaro Martínez,Atalanta BC_A_1,5,1:1,58',0:1,Header
+Serie A,Lautaro Martínez,Torino_H_1,17,4:2,90',4:2,Right-footed shot
+Serie A,Lautaro Martínez,Hellas Verona_A_1,9,1:2,51',0:1,Right-footed shot
+Serie A,Lautaro Martínez,Crotone_H_1,19,6:2,20',1:1,Right-footed shot
+Serie A,Lautaro Martínez,Benevento_H_1,11,4:0,57',2:0,Left-footed shot
+Serie A,Lautaro Martínez,Lazio_H_1,4,3:1,64',3:1,Right-footed shot
+Serie A,Lautaro Martínez,AC Milan_A_1,2,0:3,5',0:1,Header
+Serie A,Lautaro Martínez,Torino_A_1,17,1:2,85',1:2,Header
+Serie A,Lautaro Martínez,Sassuolo_H_1,8,2:1,67',2:0,Counter attack goal
+Serie A,Lautaro Martínez,Sampdoria_H_1,9,5:1,70',5:1,Penalty
+Serie A,Lautaro Martínez,Udinese Calcio_H_1,12,5:1,55',3:0,Penalty
+Serie A,Domenico Berardi,Spezia Calcio_A_1,8,1:4,64',1:2,Penalty
+Serie A,Domenico Berardi,Crotone_H_1,19,4:1,19',1:0,Left-footed shot
+Serie A,Domenico Berardi,Bologna_A_1,12,3:4,18',1:1,Left-footed shot
+Serie A,Domenico Berardi,Hellas Verona_A_1,8,0:2,75',0:2,Left-footed shot
+Serie A,Domenico Berardi,Benevento_H_1,13,1:0,8',1:0,Penalty
+Serie A,Domenico Berardi,AC Milan_H_1,1,1:2,89',1:2,Direct free kick
+Serie A,Domenico Berardi,Sampdoria_A_1,10,2:3,58',1:3,Left-footed shot
+Serie A,Domenico Berardi,Crotone_A_1,20,1:2,14',0:1,Left-footed shot
+Serie A,Domenico Berardi,SSC Napoli_H_1,7,3:3,45'+1,2:1,Penalty
+Serie A,Domenico Berardi,Torino_A_1,17,3:2,6',0:1,Left-footed shot
+Serie A,Domenico Berardi,Fiorentina_H_1,15,3:1,59',1:1,Penalty
+Serie A,Domenico Berardi,Sampdoria_H_1,9,1:0,69',1:0,Left-footed shot
+Serie A,Domenico Berardi,Atalanta BC_H_1,2,1:1,52',1:1,Penalty
+Serie A,Domenico Berardi,Genoa_A_1,13,1:2,66',0:2,Left-footed shot
+Serie A,Domenico Berardi,Lazio_H_1,6,2:0,78',2:0,Penalty
+Serie A,João Pedro,Atalanta BC_A_1,2,5:2,52',4:2,Counter attack goal
+Serie A,João Pedro,Torino_A_1,14,2:3,12',1:1,Right-footed shot
+Serie A,João Pedro,Crotone_H_1,20,4:2,84',4:2,Right-footed shot
+Serie A,João Pedro,Bologna_A_1,18,3:2,15',0:1,Right-footed shot
+Serie A,João Pedro,Sampdoria_H_1,9,2:0,48',1:0,Penalty
+Serie A,João Pedro,Spezia Calcio_H_1,12,2:2,52',1:1,Right-footed shot
+Serie A,João Pedro,AS Roma_A_1,5,3:2,59',1:1,Right-footed shot
+Serie A,João Pedro,SSC Napoli_H_1,6,1:4,60',1:1,Right-footed shot
+Serie A,João Pedro,Benevento_H_1,10,1:2,20',1:0,Right-footed shot
+Serie A,João Pedro,Sassuolo_H_1,8,1:1,75',1:0,Header
+Serie A,João Pedro,Crotone_A_1,20,0:2,60',0:2,Penalty
+Serie A,João Pedro,Sampdoria_A_1,10,2:2,11',0:1,Right-footed shot
+Serie A,João Pedro,Udinese Calcio_A_1,12,0:1,55',0:1,Penalty
+Serie A,João Pedro,AS Roma_H_1,7,3:2,64',3:1,Header
+Serie A,João Pedro,Benevento_A_1,18,1:3,90'+3,1:3,Right-footed shot
+Serie A,Duván Zapata,Cagliari Calcio_H_1,14,5:2,42',4:1,Right-footed shot
+Serie A,Duván Zapata,Sampdoria_H_1,10,1:3,80',1:2,Penalty
+Serie A,Duván Zapata,AS Roma_H_1,5,4:1,59',1:1,Right-footed shot
+Serie A,Duván Zapata,Sassuolo_H_1,5,5:1,11',1:0,Right-footed shot
+Serie A,Duván Zapata,Parma_H_1,16,3:0,48',2:0,Left-footed shot
+Serie A,Duván Zapata,Benevento_A_1,10,1:4,71',1:3,Counter attack goal
+Serie A,Duván Zapata,AC Milan_A_1,1,0:3,77',0:3,Left-footed shot
+Serie A,Duván Zapata,SSC Napoli_H_1,6,4:2,52',1:0,Header
+Serie A,Duván Zapata,Hellas Verona_A_1,9,0:2,42',0:2,Right-footed shot
+Serie A,Duván Zapata,Udinese Calcio_H_1,12,3:2,61',3:1,Right-footed shot
+Serie A,Duván Zapata,Fiorentina_A_1,14,2:3,13',0:1,Header
+Serie A,Duván Zapata,Bologna_H_1,11,5:0,59',4:0,Right-footed shot
+Serie A,Duván Zapata,Genoa_A_1,14,3:4,9',0:1,Tap-in
+Serie A,Zlatan Ibrahimovic,Bologna_H_1,12,2:0,35',1:0,Header
+Serie A,Zlatan Ibrahimovic,Inter_A_1,4,1:2,13',0:1,Penalty rebound
+Serie A,Zlatan Ibrahimovic,AS Roma_H_1,8,3:3,2',1:0,Right-footed shot
+Serie A,Zlatan Ibrahimovic,Udinese Calcio_A_1,19,1:2,83',1:2,Right-footed shot
+Serie A,Zlatan Ibrahimovic,Hellas Verona_H_1,7,2:2,90'+3,2:2,Header
+Serie A,Zlatan Ibrahimovic,SSC Napoli_A_1,3,1:3,20',0:1,Header
+Serie A,Zlatan Ibrahimovic,Cagliari Calcio_A_1,16,0:2,7',0:1,Penalty
+Serie A,Zlatan Ibrahimovic,Crotone_H_1,20,4:0,30',1:0,Right-footed shot
+Serie A,Zlatan Ibrahimovic,Fiorentina_A_1,13,2:3,9',0:1,Left-footed shot
+Serie A,Henrikh Mkhitaryan,Genoa_A_1,15,1:3,45'+2,0:1,Header
+Serie A,Henrikh Mkhitaryan,Parma_H_1,16,3:0,32',2:0,Long distance kick
+Serie A,Henrikh Mkhitaryan,Bologna_A_1,10,1:5,44',1:5,Right-footed shot
+Serie A,Henrikh Mkhitaryan,Torino_H_1,18,3:1,27',1:0,Right-footed shot
+Serie A,Henrikh Mkhitaryan,Crotone_A_1,20,1:3,35',0:3,Penalty
+Serie A,Henrikh Mkhitaryan,Hellas Verona_H_1,9,3:1,22',2:0,Right-footed shot
+Serie A,Henrikh Mkhitaryan,Crotone_H_1,20,5:0,78',4:0,Left-footed shot
+Serie A,Henrikh Mkhitaryan,Inter_A_1,1,3:1,31',2:1,Right-footed shot
+Serie A,Henrikh Mkhitaryan,Lazio_H_1,6,2:0,42',1:0,Right-footed shot
+Serie A,Henrikh Mkhitaryan,Spezia Calcio_A_1,15,2:2,85',2:2,Right-footed shot
+Serie A,Andrea Belotti,Atalanta BC_H_1,2,2:4,11',1:0,Left-footed shot
+Serie A,Andrea Belotti,Cagliari Calcio_H_1,18,2:3,4',1:0,Penalty
+Serie A,Andrea Belotti,Sassuolo_A_1,2,3:3,77',1:2,Right-footed shot
+Serie A,Andrea Belotti,Lazio_H_1,11,3:4,24',2:1,Penalty
+Serie A,Andrea Belotti,Sampdoria_H_1,11,2:2,25',1:0,Right-footed shot
+Serie A,Andrea Belotti,Udinese Calcio_H_1,12,2:3,66',1:2,Left-footed shot
+Serie A,Andrea Belotti,AS Roma_A_1,6,3:1,73',3:1,Right-footed shot
+Serie A,Andrea Belotti,Fiorentina_H_1,12,1:1,88',1:1,Left-footed shot
+Serie A,Andrea Belotti,Atalanta BC_A_1,7,3:3,42',3:1,Penalty rebound
+Serie A,Andrea Belotti,Udinese Calcio_A_1,12,0:1,61',0:1,Penalty
+Serie A,Andrea Belotti,Spezia Calcio_A_1,17,4:1,54',2:1,Penalty
+Serie A,Franck Kessié,Crotone_A_1,17,0:2,45'+2,0:1,Penalty
+Serie A,Franck Kessié,Udinese Calcio_A_1,19,1:2,18',0:1,Right-footed shot
+Serie A,Franck Kessié,Fiorentina_H_1,15,2:0,28',2:0,Penalty
+Serie A,Franck Kessié,Sampdoria_A_1,12,1:2,45',0:1,Penalty
+Serie A,Franck Kessié,Benevento_A_1,10,0:2,15',0:1,Penalty
+Serie A,Franck Kessié,Torino_H_1,17,2:0,36',2:0,Penalty
+Serie A,Franck Kessié,Bologna_A_1,13,1:2,55',0:2,Penalty
+Serie A,Franck Kessié,AS Roma_A_1,4,1:2,42',0:1,Penalty
+Serie A,Franck Kessié,Udinese Calcio_H_1,11,1:1,90'+7,1:1,Penalty
+Serie A,Franck Kessié,Parma_A_1,19,1:3,44',0:2,Right-footed shot
+Serie A,Franck Kessié,Torino_A_1,14,0:7,26',0:2,Penalty
+Serie A,Franck Kessié,Atalanta BC_A_1,2,0:2,43',0:1,Penalty
+Serie A,Fabio Quagliarella,Benevento_H_1,16,2:3,8',1:0,Right-footed shot
+Serie A,Fabio Quagliarella,Fiorentina_A_1,9,1:2,42',0:1,Penalty
+Serie A,Fabio Quagliarella,Lazio_H_1,9,3:0,32',1:0,Header
+Serie A,Fabio Quagliarella,Atalanta BC_A_1,4,1:3,13',0:1,Counter attack goal
+Serie A,Fabio Quagliarella,Torino_A_1,18,2:2,63',1:2,Right-footed shot
+Serie A,Fabio Quagliarella,Crotone_H_1,20,3:1,65',3:1,Header
+Serie A,Fabio Quagliarella,Sassuolo_H_1,6,2:3,55',1:1,Right-footed shot
+Serie A,Fabio Quagliarella,Fiorentina_H_1,15,2:1,71',2:1,Left-footed shot
+Serie A,Fabio Quagliarella,Bologna_A_1,12,3:1,37',1:1,Right-footed shot
+Serie A,Fabio Quagliarella,AC Milan_A_1,2,1:1,57',0:1,Right-footed shot
+Serie A,Fabio Quagliarella,Crotone_A_1,20,0:1,53',0:1,Right-footed shot
+Serie A,Fabio Quagliarella,Udinese Calcio_A_1,11,0:1,88',0:1,Penalty
+Serie A,Fabio Quagliarella,Parma_H_1,20,3:0,20',1:0,Right-footed shot
+Serie A,Álvaro Morata,Crotone_A_1,20,1:1,21',1:1,Left-footed shot
+Serie A,Álvaro Morata,Spezia Calcio_A_1,14,1:4,14',0:1,Right-footed shot
+Serie A,Álvaro Morata,Benevento_A_1,13,1:1,21',0:1,Left-footed shot
+Serie A,Álvaro Morata,Parma_A_1,14,0:4,85',0:4,Header
+Serie A,Álvaro Morata,Spezia Calcio_H_1,15,3:0,62',1:0,Left-footed shot
+Serie A,Álvaro Morata,Lazio_H_1,6,3:1,57',2:1,Counter attack goal
+Serie A,Álvaro Morata,Genoa_H_1,13,3:1,22',2:0,Left-footed shot
+Serie A,Álvaro Morata,Fiorentina_A_1,13,1:1,46',1:1,Left-footed shot
+Serie A,Álvaro Morata,Bologna_A_1,11,1:4,29',0:2,Header
+Serie A,Francesco Caputo,Spezia Calcio_A_1,8,1:4,76',1:4,
+Serie A,Francesco Caputo,Crotone_H_1,19,4:1,58',2:1,Penalty
+Serie A,Francesco Caputo,Bologna_A_1,12,3:4,70',3:3,Header
+Serie A,Francesco Caputo,Torino_H_1,16,3:3,85',3:3,Header
+Serie A,Francesco Caputo,Sampdoria_A_1,10,2:3,56',1:2,Tap-in
+Serie A,Francesco Caputo,Lazio_A_1,7,2:1,6',0:1,Left-footed shot
+Serie A,Francesco Caputo,Spezia Calcio_H_1,16,1:2,25',1:0,Right-footed shot
+Serie A,Francesco Caputo,Crotone_A_1,20,1:2,49',1:2,Penalty
+Serie A,Francesco Caputo,Bologna_H_1,15,1:1,52',1:1,Left-footed shot
+Serie A,Francesco Caputo,SSC Napoli_H_1,7,3:3,90'+5,3:3,Penalty
+Serie A,Ante Rebic,Lazio_H_1,8,3:2,10',1:0,Header
+Serie A,Ante Rebic,Bologna_A_1,13,1:2,26',0:1,Penalty rebound
+Serie A,Ante Rebic,Crotone_H_1,20,4:0,69',3:0,Header
+Serie A,Ante Rebic,AS Roma_A_1,4,1:2,58',1:2,Left-footed shot
+Serie A,Ante Rebic,Parma_A_1,19,1:3,8',0:1,Right-footed shot
+Serie A,Ante Rebic,Genoa_H_1,13,2:1,13',1:0,Left-footed shot
+Serie A,Ante Rebic,Juventus_A_1,3,0:3,78',0:2,Right-footed shot
+Serie A,Ante Rebic,Torino_A_1,14,0:7,67',0:5,Right-footed shot
+Serie A,Robin Gosens,Lazio_A_1,6,1:4,10',0:1,Left-footed shot
+Serie A,Robin Gosens,Fiorentina_H_1,17,3:0,44',1:0,Left-footed shot
+Serie A,Robin Gosens,AS Roma_H_1,5,4:1,70',2:1,Header
+Serie A,Robin Gosens,Sassuolo_H_1,5,5:1,57',4:0,Right-footed shot
+Serie A,Robin Gosens,Parma_H_1,16,3:0,61',3:0,Left-footed shot
+Serie A,Robin Gosens,Torino_H_1,18,3:3,19',2:0,Right-footed shot
+Serie A,Robin Gosens,SSC Napoli_H_1,6,4:2,64',2:1,Left-footed shot
+Serie A,Robin Gosens,Sampdoria_A_1,10,0:2,70',0:2,Left-footed shot
+Serie A,Robin Gosens,Crotone_H_1,20,5:1,12',1:0,Header
+Serie A,Robin Gosens,Sassuolo_A_1,8,1:1,32',0:1,Left-footed shot
+Serie A,Robin Gosens,Genoa_A_1,14,3:4,44',0:3,Header
+Serie A,Hirving Lozano,Genoa_H_1,3,6:0,10',1:0,Right-footed shot
+Serie A,Hirving Lozano,Atalanta BC_H_1,1,4:1,23',1:0,Left-footed shot
+Serie A,Hirving Lozano,Crotone_A_1,20,0:4,58',0:2,Left-footed shot
+Serie A,Hirving Lozano,Sampdoria_H_1,14,2:1,53',1:1,Header
+Serie A,Hirving Lozano,Cagliari Calcio_A_1,15,1:4,74',1:3,Right-footed shot
+Serie A,Hirving Lozano,Fiorentina_H_1,12,6:0,38',3:0,Right-footed shot
+Serie A,Hirving Lozano,Hellas Verona_A_1,9,3:1,1',0:1,Right-footed shot
+Serie A,Hirving Lozano,Spezia Calcio_A_1,16,1:4,79',1:4,Right-footed shot
+Serie A,Hirving Lozano,Udinese Calcio_H_1,11,5:1,56',3:1,Right-footed shot
+Serie A,M'Bala Nzola,Benevento_A_1,13,0:3,65',0:2,Right-footed shot
+Serie A,M'Bala Nzola,Cagliari Calcio_A_1,10,2:2,90'+4,2:2,Penalty
+Serie A,M'Bala Nzola,Lazio_H_1,9,1:2,64',1:2,Right-footed shot
+Serie A,M'Bala Nzola,Bologna_H_1,11,2:2,19',1:0,Left-footed shot
+Serie A,M'Bala Nzola,Genoa_H_1,19,1:2,10',1:0,Left-footed shot
+Serie A,M'Bala Nzola,SSC Napoli_A_1,5,1:2,68',1:1,Penalty
+Serie A,M'Bala Nzola,Sampdoria_H_1,11,2:1,61',2:1,Penalty
+Serie A,M'Bala Nzola,Torino_H_1,16,4:1,41',2:0,Penalty
+Serie A,Mattia Destro,Crotone_H_1,19,4:1,6',1:0,Right-footed shot
+Serie A,Mattia Destro,AC Milan_H_1,1,2:2,47',1:0,Tap-in
+Serie A,Mattia Destro,Spezia Calcio_A_1,17,1:2,15',1:1,Right-footed shot
+Serie A,Mattia Destro,Lazio_H_1,8,1:1,58',1:1,Counter attack goal
+Serie A,Mattia Destro,Bologna_H_1,13,2:0,55',2:0,Right-footed shot
+Serie A,Mattia Destro,Cagliari Calcio_H_1,17,1:0,10',1:0,Right-footed shot
+Serie A,Mattia Destro,Crotone_A_1,20,0:3,24',0:1,Right-footed shot
+Serie A,Mattia Destro,Fiorentina_H_1,14,1:1,13',1:0,Right-footed shot
+Serie A,Mattia Destro,AC Milan_A_1,2,2:1,37',1:1,Header
+Serie A,Borja Mayoral,Parma_H_1,16,3:0,28',1:0,Left-footed shot
+Serie A,Borja Mayoral,Crotone_A_1,20,1:3,8',0:1,Tap-in
+Serie A,Borja Mayoral,Spezia Calcio_H_1,14,4:3,17',1:0,Right-footed shot
+Serie A,Borja Mayoral,Hellas Verona_H_1,9,3:1,29',3:0,Tap-in
+Serie A,Borja Mayoral,Bologna_H_1,11,1:0,44',1:0,Right-footed shot
+Serie A,Borja Mayoral,Torino_A_1,17,3:1,3',0:1,Right-footed shot
+Serie A,Borja Mayoral,Crotone_H_1,20,5:0,47',1:0,Left-footed shot
+Serie A,Victor Osimhen,Atalanta BC_H_1,1,4:1,43',4:0,Right-footed shot
+Serie A,Victor Osimhen,Bologna_A_1,14,0:1,23',0:1,Header
+Serie A,Victor Osimhen,Bologna_H_1,12,3:1,65',2:0,Counter attack goal
+Serie A,Victor Osimhen,Crotone_H_1,20,4:3,22',2:0,Right-footed shot
+Serie A,Victor Osimhen,Sampdoria_A_1,10,0:2,87',0:2,Counter attack goal
+Serie A,Victor Osimhen,Lazio_H_1,6,5:2,80',5:2,Right-footed shot
+Serie A,Victor Osimhen,Torino_A_1,16,0:2,13',0:2,Counter attack goal
+Serie A,Victor Osimhen,Cagliari Calcio_H_1,18,1:1,13',1:0,Left-footed shot
+Serie A,Victor Osimhen,Spezia Calcio_A_1,16,1:4,23',0:2,Counter attack goal
+Serie A,Jordan Veretout,Juventus_H_1,5,2:2,31',1:0,Penalty
+Serie A,Jordan Veretout,Benevento_H_1,8,5:2,69',3:2,Penalty
+Serie A,Jordan Veretout,AC Milan_A_1,1,3:3,71',2:2,Penalty
+Serie A,Jordan Veretout,Bologna_A_1,10,1:5,35',1:4,Right-footed shot
+Serie A,Jordan Veretout,Torino_H_1,18,3:1,43',2:0,Penalty
+Serie A,Jordan Veretout,Cagliari Calcio_H_1,14,3:2,11',1:0,Right-footed shot
+Serie A,Jordan Veretout,Udinese Calcio_H_1,11,3:0,5',1:0,Header
+Serie A,Jordan Veretout,AC Milan_H_1,2,1:2,50',1:1,Right-footed shot
+Serie A,Rodrigo de Paul,AC Milan_H_1,1,1:2,48',1:1,Penalty
+Serie A,Rodrigo de Paul,Genoa_H_1,18,1:0,34',1:0,Right-footed shot
+Serie A,Rodrigo de Paul,Torino_A_1,18,2:3,54',0:2,Right-footed shot
+Serie A,Rodrigo de Paul,Sampdoria_A_1,11,2:1,55',0:1,Right-footed shot
+Serie A,Rodrigo de Paul,Spezia Calcio_A_1,14,0:1,52',0:1,Penalty
+Serie A,Rodrigo de Paul,Genoa_A_1,13,1:1,30',1:1,Penalty
+Serie A,Rodrigo de Paul,Crotone_A_1,20,1:2,41',0:1,Right-footed shot
+Serie A,Rodrigo de Paul,Bologna_H_1,12,1:1,23',1:0,Right-footed shot
+Serie A,Federico Chiesa,Inter_A_1,1,4:3,63',2:3,Counter attack goal
+Serie A,Federico Chiesa,Atalanta BC_H_1,8,1:1,29',1:0,Right-footed shot
+Serie A,Federico Chiesa,Udinese Calcio_H_1,12,4:1,49',2:0,Counter attack goal
+Serie A,Federico Chiesa,AC Milan_A_1,1,1:3,18',0:1,Right-footed shot
+Serie A,Federico Chiesa,Sampdoria_A_1,10,0:2,20',0:1,Right-footed shot
+Serie A,Federico Chiesa,Spezia Calcio_H_1,15,3:0,71',2:0,Right-footed shot
+Serie A,Federico Chiesa,Torino_A_1,17,2:2,13',0:1,Left-footed shot
+Serie A,Federico Chiesa,Bologna_A_1,11,1:4,6',0:1,Left-footed shot
+Serie A,Dries Mertens,Parma_A_1,20,0:2,63',0:1,Right-footed shot
+Serie A,Dries Mertens,Genoa_H_1,3,6:0,57',3:0,Right-footed shot
+Serie A,Dries Mertens,AC Milan_H_1,1,1:3,63',1:2,Right-footed shot
+Serie A,Dries Mertens,AS Roma_H_1,3,4:0,81',3:0,Right-footed shot
+Serie A,Dries Mertens,Benevento_H_1,12,2:0,34',1:0,Right-footed shot
+Serie A,Dries Mertens,AS Roma_A_1,6,0:2,27',0:1,Direct free kick
+Serie A,Dries Mertens,Crotone_H_1,20,4:3,34',3:1,Direct free kick
+Serie A,Dries Mertens,Lazio_H_1,6,5:2,65',4:0,Right-footed shot
+Serie A,Roberto Soriano,Parma_H_1,14,4:1,16',1:0,Header
+Serie A,Roberto Soriano,Sassuolo_H_1,3,3:4,9',1:0,Left-footed shot
+Serie A,Roberto Soriano,Cagliari Calcio_H_1,12,3:2,52',2:2,Right-footed shot
+Serie A,Roberto Soriano,Crotone_H_1,20,1:0,45'+2,1:0,Header
+Serie A,Roberto Soriano,Torino_A_1,19,1:1,78',1:1,Right-footed shot
+Serie A,Roberto Soriano,Sassuolo_A_1,8,1:1,17',0:1,Left-footed shot
+Serie A,Roberto Soriano,SSC Napoli_A_1,7,3:1,73',2:1,Right-footed shot
+Serie A,Roberto Soriano,Sampdoria_H_1,10,3:1,70',3:1,Counter attack goal
+Serie A,Matteo Politano,Genoa_H_1,3,6:0,72',6:0,Left-footed shot
+Serie A,Matteo Politano,Atalanta BC_H_1,1,4:1,30',3:0,Left-footed shot
+Serie A,Matteo Politano,AS Roma_H_1,3,4:0,86',4:0,Left-footed shot
+Serie A,Matteo Politano,Fiorentina_H_1,12,6:0,89',6:0,Solo run
+Serie A,Matteo Politano,Parma_H_1,19,2:0,82',2:0,Left-footed shot
+Serie A,Matteo Politano,Genoa_A_1,14,2:1,79',2:1,Left-footed shot
+Serie A,Matteo Politano,Benevento_H_1,12,2:0,66',2:0,Tap-in
+Serie A,Matteo Politano,AC Milan_A_1,2,0:1,49',0:1,Right-footed shot
+Serie A,Matteo Politano,Lazio_H_1,6,5:2,12',2:0,Left-footed shot
+Serie A,Junior Messias,Cagliari Calcio_A_1,15,4:2,21',0:1,Left-footed shot
+Serie A,Junior Messias,Spezia Calcio_H_1,15,4:1,7',1:0,Counter attack goal
+Serie A,Junior Messias,Parma_H_1,15,2:1,24',1:0,Right-footed shot
+Serie A,Junior Messias,Hellas Verona_A_1,9,2:1,55',2:1,
+Serie A,Junior Messias,Bologna_H_1,12,2:3,32',1:0,Direct free kick
+Serie A,Junior Messias,SSC Napoli_A_1,5,4:3,59',3:3,Left-footed shot
+Serie A,Junior Messias,Hellas Verona_H_1,10,2:1,75',2:0,Left-footed shot
+Serie A,Luis Alberto,Bologna_H_1,17,2:1,54',1:0,Solo run
+Serie A,Luis Alberto,SSC Napoli_H_1,4,2:0,56',2:0,Right-footed shot
+Serie A,Luis Alberto,AC Milan_A_1,1,3:2,27',2:1,Penalty rebound
+Serie A,Luis Alberto,Parma_A_1,18,0:2,55',0:1,Right-footed shot
+Serie A,Luis Alberto,AS Roma_H_1,4,3:0,23',2:0,Right-footed shot
+Serie A,Luis Alberto,Sampdoria_H_1,10,1:0,24',1:0,Deflected shot on goal
+Serie A,Luis Alberto,Crotone_H_1,20,3:2,39',2:1,Right-footed shot
+Serie A,Luis Alberto,Genoa_H_1,13,4:3,48',3:1,Right-footed shot
+Serie A,Ruslan Malinovskyi,Fiorentina_H_1,17,3:0,55',2:0,Direct free kick
+Serie A,Ruslan Malinovskyi,Sampdoria_A_1,10,0:2,40',0:1,Left-footed shot
+Serie A,Ruslan Malinovskyi,Hellas Verona_A_1,9,0:2,33',0:1,Penalty
+Serie A,Ruslan Malinovskyi,Juventus_H_1,3,1:0,87',1:0,Left-footed shot
+Serie A,Ruslan Malinovskyi,AS Roma_A_1,7,1:1,26',0:1,Left-footed shot
+Serie A,Ruslan Malinovskyi,Bologna_H_1,11,5:0,22',1:0,Left-footed shot
+Serie A,Ruslan Malinovskyi,Parma_A_1,19,2:5,12',0:1,Left-footed shot
+Serie A,Ruslan Malinovskyi,Genoa_A_1,14,3:4,26',0:2,Tap-in
+Serie A,Piotr Zielinski,Genoa_H_1,3,6:0,46',2:0,Right-footed shot
+Serie A,Piotr Zielinski,Cagliari Calcio_A_1,15,1:4,25',0:1,Left-footed shot
+Serie A,Piotr Zielinski,Fiorentina_H_1,12,6:0,45',4:0,Right-footed shot
+Serie A,Piotr Zielinski,Atalanta BC_A_1,7,4:2,58',1:1,Right-footed shot
+Serie A,Piotr Zielinski,Sassuolo_A_1,8,3:3,38',1:1,Left-footed shot
+Serie A,Piotr Zielinski,Spezia Calcio_A_1,16,1:4,15',0:1,Right-footed shot
+Serie A,Piotr Zielinski,Udinese Calcio_H_1,11,5:1,28',1:0,Left-footed shot
+Serie A,Musa Barrow,Cagliari Calcio_H_1,12,3:2,45',1:1,Right-footed shot
+Serie A,Musa Barrow,Spezia Calcio_A_1,16,2:2,90'+2,2:2,Right-footed shot
+Serie A,Musa Barrow,Parma_A_1,19,0:3,15',0:1,Header
+Serie A,Musa Barrow,Sampdoria_H_1,10,3:1,27',1:0,Header
+Serie A,Musa Barrow,Spezia Calcio_H_1,14,4:1,18',2:0,Right-footed shot
+Serie A,Musa Barrow,Torino_H_1,15,1:1,25',1:0,Counter attack goal
+Serie A,Sergej Milinković-Savić,Inter_H_1,3,1:1,55',1:1,Header
+Serie A,Sergej Milinković-Savić,Torino_A_1,16,3:4,48',2:2,Direct free kick
+Serie A,Sergej Milinković-Savić,Spezia Calcio_A_1,13,1:2,33',0:2,Direct free kick
+Serie A,Sergej Milinković-Savić,Sassuolo_H_1,8,2:1,25',1:1,Header
+Serie A,Sergej Milinković-Savić,Inter_A_1,2,3:1,61',2:1,Direct free kick
+Serie A,Sergej Milinković-Savić,Crotone_H_1,20,3:2,14',1:0,Right-footed shot
+Serie A,Sergej Milinković-Savić,Hellas Verona_A_1,8,0:1,90'+2,0:1,Header
+Serie A,Sergej Milinković-Savić,SSC Napoli_A_1,5,5:2,74',4:2,Direct free kick
+Serie A,Gianluca Lapadula,Bologna_H_1,8,1:0,66',1:0,Left-footed shot
+Serie A,Gianluca Lapadula,AS Roma_A_1,10,5:2,55',2:2,Penalty rebound
+Serie A,Gianluca Lapadula,Hellas Verona_A_1,8,3:1,56',1:1,Right-footed shot
+Serie A,Gianluca Lapadula,Torino_H_1,18,2:2,49',2:0,Deflected shot on goal
+Serie A,Gianluca Lapadula,Genoa_A_1,13,2:2,15',1:2,Left-footed shot
+Serie A,Gianluca Lapadula,Udinese Calcio_H_1,12,2:4,83',2:4,Right-footed shot
+Serie A,Gianluca Lapadula,Cagliari Calcio_H_1,17,1:3,16',1:1,Right-footed shot
+Serie A,Gianluca Lapadula,Crotone_H_1,19,1:1,13',1:0,Right-footed shot
+Serie A,Joaquín Correa,Crotone_A_1,20,0:2,58',0:2,Left-footed shot
+Serie A,Joaquín Correa,Atalanta BC_A_1,5,1:3,51',0:2,Left-footed shot
+Serie A,Joaquín Correa,Juventus_A_1,3,3:1,14',0:1,Solo run
+Serie A,Joaquín Correa,Benevento_H_1,16,5:3,36',3:0,Penalty
+Serie A,Joaquín Correa,AC Milan_H_1,2,3:0,2',1:0,Left-footed shot
+Serie A,Joaquín Correa,Genoa_H_1,13,4:3,30',1:0,Right-footed shot
+Serie A,Gianluca Scamacca,Sampdoria_A_1,6,1:1,28',1:1,Right-footed shot
+Serie A,Gianluca Scamacca,Torino_H_1,16,1:2,90'+4,1:2,Right-footed shot
+Serie A,Gianluca Scamacca,Parma_A_1,19,1:2,50',1:1,Right-footed shot
+Serie A,Gianluca Scamacca,Juventus_A_1,3,3:1,49',2:1,Header
+Serie A,Gianluca Scamacca,Spezia Calcio_H_1,15,2:0,62',1:0,Right-footed shot
+Serie A,Gianluca Scamacca,Lazio_A_1,6,4:3,80',4:2,Penalty
+Serie A,Gianluca Scamacca,Bologna_A_1,12,0:2,61',0:2,Penalty
+Serie A,Eldor Shomurodov,Parma_H_1,17,1:2,50',1:2,Right-footed shot
+Serie A,Eldor Shomurodov,Sassuolo_A_1,7,2:1,64',1:1,Header
+Serie A,Eldor Shomurodov,Hellas Verona_H_1,9,2:2,48',1:1,Right-footed shot
+Serie A,Eldor Shomurodov,Spezia Calcio_H_1,15,2:0,86',2:0,Counter attack goal
+Serie A,Eldor Shomurodov,Lazio_A_1,6,4:3,81',4:3,Left-footed shot
+Serie A,Eldor Shomurodov,Atalanta BC_H_1,2,3:4,48',1:3,Solo run
+Serie A,Eldor Shomurodov,Cagliari Calcio_A_1,16,0:1,15',0:1,Counter attack goal
+Serie A,Felipe Caicedo,Atalanta BC_H_1,3,1:4,57',1:3,Left-footed shot
+Serie A,Felipe Caicedo,Torino_A_1,16,3:4,90'+8,3:4,Right-footed shot
+Serie A,Felipe Caicedo,Juventus_H_1,4,1:1,90'+5,1:1,Right-footed shot
+Serie A,Felipe Caicedo,Hellas Verona_H_1,8,1:2,56',1:1,Left-footed shot
+Serie A,Felipe Caicedo,Fiorentina_H_1,14,2:1,5',1:0,Right-footed shot
+Serie A,Felipe Caicedo,Parma_A_1,18,0:2,67',0:2,Left-footed shot
+Serie A,Felipe Caicedo,Crotone_H_1,20,3:2,84',3:2,Right-footed shot
+Serie A,Felipe Caicedo,Spezia Calcio_H_1,15,2:1,88',2:1,Penalty
+Serie A,Achraf Hakimi,Benevento_A_1,18,2:5,42',1:4,Right-footed shot
+Serie A,Achraf Hakimi,Bologna_H_1,10,3:1,45',2:0,Left-footed shot
+Serie A,Achraf Hakimi,Spezia Calcio_H_1,16,2:1,51',1:0,Right-footed shot
+Serie A,Achraf Hakimi,Crotone_H_1,19,6:2,87',6:2,Left-footed shot
+Serie A,Achraf Hakimi,AS Roma_A_1,4,2:2,63',1:2,Left-footed shot
+Serie A,Achraf Hakimi,Crotone_A_1,20,0:2,90'+2,0:2,Counter attack goal
+Serie A,Alexis Sánchez,Torino_H_1,17,4:2,64',1:2,Right-footed shot
+Serie A,Alexis Sánchez,Sassuolo_A_1,2,0:3,4',0:1,Right-footed shot
+Serie A,Alexis Sánchez,Genoa_H_1,11,3:0,77',3:0,Header
+Serie A,Alexis Sánchez,Parma_A_1,19,1:2,54',0:1,Left-footed shot
+Serie A,Alexis Sánchez,Sampdoria_H_1,9,5:1,26',2:0,Right-footed shot
+Serie A,Lorenzo Pellegrini,Bologna_A_1,10,1:5,15',0:3,Right-footed shot
+Serie A,Lorenzo Pellegrini,Torino_H_1,18,3:1,68',3:0,Left-footed shot
+Serie A,Lorenzo Pellegrini,Inter_H_1,2,2:2,17',1:0,Right-footed shot
+Serie A,Lorenzo Pellegrini,Spezia Calcio_H_1,14,4:3,90'+2,4:3,Right-footed shot
+Serie A,Lorenzo Pellegrini,Sassuolo_A_1,8,2:2,26',0:1,Penalty
+Serie A,Lorenzo Pellegrini,Crotone_H_1,20,5:0,70',2:0,Right-footed shot
+Serie A,Theo Hernández,Spezia Calcio_H_1,11,3:0,76',2:0,Counter attack goal
+Serie A,Theo Hernández,Parma_H_1,16,2:2,58',1:2,Header
+Serie A,Theo Hernández,Lazio_H_1,8,3:2,90'+2,3:2,Header
+Serie A,Theo Hernández,Benevento_H_1,17,2:0,60',2:0,Left-footed shot
+Serie A,Theo Hernández,Torino_A_1,14,0:7,19',0:1,Left-footed shot
+Serie A,Riccardo Orsolini,Sassuolo_H_1,3,3:4,60',3:1,Solo run
+Serie A,Riccardo Orsolini,Sampdoria_A_1,11,1:2,52',1:2,Header
+Serie A,Riccardo Orsolini,Hellas Verona_H_1,9,1:0,18',1:0,Penalty
+Serie A,Riccardo Orsolini,Parma_A_1,19,0:3,90'+2,0:3,Counter attack goal
+Serie A,Riccardo Orsolini,Spezia Calcio_H_1,14,4:1,12',1:0,Penalty
+Serie A,Riccardo Orsolini,Udinese Calcio_A_1,11,1:1,82',1:1,Penalty
+Serie A,Riccardo Orsolini,Juventus_H_1,5,1:4,85',1:4,Right-footed shot
+Serie A,Edin Dzeko,Benevento_H_1,8,5:2,35',2:1,Right-footed shot
+Serie A,Edin Dzeko,AC Milan_A_1,1,3:3,14',1:1,Header
+Serie A,Edin Dzeko,Bologna_A_1,10,1:5,10',0:2,Left-footed shot
+Serie A,Edin Dzeko,Atalanta BC_A_1,8,4:1,3',0:1,Left-footed shot
+Serie A,Edin Dzeko,Cagliari Calcio_H_1,14,3:2,71',2:1,Right-footed shot
+Serie A,Edin Dzeko,Sampdoria_H_1,11,1:0,72',1:0,Right-footed shot
+Serie A,Antonin Barak,Benevento_H_1,13,3:1,17',1:0,Left-footed shot
+Serie A,Antonin Barak,AC Milan_A_1,1,2:2,6',0:1,Tap-in
+Serie A,Antonin Barak,SSC Napoli_H_1,4,3:1,62',2:1,Left-footed shot
+Serie A,Antonin Barak,Parma_H_1,19,2:1,61',2:1,Header
+Serie A,Antonin Barak,Juventus_H_1,3,1:1,77',1:1,Header
+Serie A,Antonin Barak,Cagliari Calcio_A_1,18,0:2,54',0:1,Left-footed shot
+Serie A,Hernani,Bologna_A_1,13,4:1,67',3:1,Left-footed shot
+Serie A,Hernani,Udinese Calcio_A_1,19,3:2,26',0:1,Right-footed shot
+Serie A,Hernani,AC Milan_A_1,1,2:2,13',0:1,Right-footed shot
+Serie A,Hernani,Spezia Calcio_A_1,16,2:2,25',0:2,Right-footed shot
+Serie A,Hernani,Inter_H_1,1,1:2,71',1:2,Right-footed shot
+Serie A,Hernani,AS Roma_H_1,4,2:0,55',2:0,Penalty
+Serie A,Hernani,Crotone_H_1,20,3:4,29',1:1,Header
+Serie A,Goran Pandev,Crotone_H_1,19,4:1,9',2:0,Left-footed shot
+Serie A,Goran Pandev,SSC Napoli_H_1,6,2:1,11',1:0,Left-footed shot
+Serie A,Goran Pandev,Udinese Calcio_H_1,11,1:1,8',1:0,Left-footed shot
+Serie A,Goran Pandev,Benevento_H_1,17,2:2,11',1:1,Left-footed shot
+Serie A,Goran Pandev,Atalanta BC_H_1,2,3:4,67',2:4,Penalty
+Serie A,Juraj Kucka,Spezia Calcio_H_1,14,2:2,90'+2,2:2,Penalty
+Serie A,Juraj Kucka,Crotone_A_1,20,2:1,57',2:1,Header
+Serie A,Juraj Kucka,Sassuolo_A_1,7,1:1,37',0:1,Header
+Serie A,Juraj Kucka,Hellas Verona_A_1,9,2:1,8',0:1,Penalty
+Serie A,Juraj Kucka,Udinese Calcio_H_1,14,2:2,32',2:0,Penalty
+Serie A,Juraj Kucka,Fiorentina_A_1,14,3:3,32',1:1,Penalty
+Serie A,Juraj Kucka,Cagliari Calcio_A_1,18,4:3,31',0:2,Left-footed shot
+Serie A,Keita Baldé,Sassuolo_H_1,6,2:3,84',2:3,Right-footed shot
+Serie A,Keita Baldé,Inter_H_1,2,2:1,38',2:0,Right-footed shot
+Serie A,Keita Baldé,Parma_A_1,19,0:2,34',0:2,Left-footed shot
+Serie A,Keita Baldé,Benevento_A_1,11,1:1,80',1:1,Right-footed shot
+Serie A,Keita Baldé,Fiorentina_H_1,15,2:1,31',1:0,Header
+Serie A,Keita Baldé,Inter_A_1,1,5:1,35',2:1,Right-footed shot
+Serie A,Keita Baldé,Spezia Calcio_H_1,17,2:2,80',2:2,Left-footed shot
+Serie A,Josip Ilicic,AS Roma_H_1,5,4:1,85',4:1,Left-footed shot
+Serie A,Josip Ilicic,Benevento_A_1,10,1:4,30',0:1,Left-footed shot
+Serie A,Josip Ilicic,AC Milan_A_1,1,0:3,53',0:2,Penalty
+Serie A,Josip Ilicic,Torino_H_1,18,3:3,14',1:0,Right-footed shot
+Serie A,Josip Ilicic,Crotone_H_1,20,5:1,58',4:1,Left-footed shot
+Serie A,Josip Ilicic,Fiorentina_A_1,14,2:3,70',2:3,Penalty
+Serie A,Rafael Leão,Spezia Calcio_H_1,11,3:0,57',1:0,Right-footed shot
+Serie A,Rafael Leão,Sassuolo_A_1,6,1:2,1',0:1,Right-footed shot
+Serie A,Rafael Leão,Benevento_A_1,10,0:2,49',0:2,Right-footed shot
+Serie A,Rafael Leão,Torino_H_1,17,2:0,25',1:0,Right-footed shot
+Serie A,Rafael Leão,Parma_A_1,19,1:3,90'+4,1:3,Counter attack goal
+Serie A,Jakub Jankto,Atalanta BC_A_1,4,1:3,90'+2,1:3,Counter attack goal
+Serie A,Jakub Jankto,Genoa_H_1,17,1:1,23',1:0,Left-footed shot
+Serie A,Jakub Jankto,SSC Napoli_A_1,2,2:1,20',0:1,Left-footed shot
+Serie A,Jakub Jankto,Crotone_H_1,20,3:1,36',2:0,Left-footed shot
+Serie A,Jakub Jankto,Hellas Verona_H_1,9,3:1,46',1:1,Left-footed shot
+Serie A,Jakub Jankto,AS Roma_H_1,7,2:0,65',2:0,Left-footed shot
+Serie A,Giacomo Raspadori,Genoa_H_1,18,2:1,83',2:1,Header
+Serie A,Giacomo Raspadori,AS Roma_H_1,7,2:2,85',2:2,Right-footed shot
+Serie A,Giacomo Raspadori,AC Milan_A_1,2,1:2,76',1:1,Left-footed shot
+Serie A,Giacomo Raspadori,Genoa_A_1,13,1:2,14',0:1,Right-footed shot
+Serie A,Giacomo Raspadori,Juventus_H_1,5,1:3,59',1:2,Left-footed shot
+Serie A,Tommaso Pobega,Juventus_H_1,5,1:4,32',1:1,Right-footed shot
+Serie A,Tommaso Pobega,Benevento_A_1,13,0:3,29',0:1,Right-footed shot
+Serie A,Tommaso Pobega,SSC Napoli_A_1,5,1:2,82',1:2,Right-footed shot
+Serie A,Tommaso Pobega,Sampdoria_A_1,9,2:2,15',0:1,Right-footed shot
+Serie A,Tommaso Pobega,AS Roma_H_1,7,2:2,38',2:0,Right-footed shot
+Serie A,Giovanni Simeone,Sassuolo_A_1,8,1:1,77',0:1,Header
+Serie A,Giovanni Simeone,Torino_A_1,14,2:3,19',1:2,Right-footed shot
+Serie A,Giovanni Simeone,Crotone_H_1,20,4:2,35',2:1,Right-footed shot
+Serie A,Giovanni Simeone,Bologna_A_1,18,3:2,47',1:2,Right-footed shot
+Serie A,Giovanni Simeone,Juventus_H_1,3,1:3,61',1:3,Right-footed shot
+Serie A,Mario Pasalic,Cagliari Calcio_H_1,14,5:2,37',3:1,Right-footed shot
+Serie A,Mario Pasalic,Lazio_H_1,6,1:3,79',1:2,Tap-in
+Serie A,Mario Pasalic,Spezia Calcio_H_1,14,3:1,53',1:0,Right-footed shot
+Serie A,Mario Pasalic,Benevento_H_1,18,2:0,67',2:0,Left-footed shot
+Serie A,Mario Pasalic,Genoa_A_1,14,3:4,51',1:4,Right-footed shot
+Serie A,Daniele Verde,Fiorentina_H_1,15,2:2,39',1:2,Left-footed shot
+Serie A,Daniele Verde,AS Roma_A_1,5,4:3,90',3:3,Left-footed shot
+Serie A,Daniele Verde,Benevento_H_1,16,1:1,71',1:1,Left-footed shot
+Serie A,Daniele Verde,Lazio_A_1,6,2:1,73',1:1,Left-footed shot
+Serie A,Daniele Verde,Crotone_H_1,20,3:2,63',1:1,Left-footed shot
+Serie A,Daniele Verde,AS Roma_H_1,7,2:2,6',1:0,Left-footed shot
+Serie A,Simone Zaza,Inter_A_1,7,4:2,45'+2,0:1,Left-footed shot
+Serie A,Simone Zaza,Benevento_A_1,11,2:2,51',2:1,Header
+Serie A,Simone Zaza,Sassuolo_H_1,8,3:2,77',1:2,Right-footed shot
+Serie A,Simone Zaza,AS Roma_H_1,7,3:1,71',2:1,Tap-in
+Serie A,Antonio Candreva,Torino_A_1,18,2:2,54',1:1,Left-footed shot
+Serie A,Antonio Candreva,Inter_H_1,2,2:1,23',1:0,Penalty
+Serie A,Antonio Candreva,Spezia Calcio_A_1,15,2:1,24',1:1,Counter attack goal
+Serie A,Antonio Candreva,Udinese Calcio_H_1,15,2:1,67',1:1,Penalty
+Serie A,Antonio Candreva,Torino_H_1,17,1:0,25',1:0,Right-footed shot
+Serie A,Roberto Pereyra,Bologna_A_1,12,2:2,34',1:1,Header
+Serie A,Roberto Pereyra,Atalanta BC_H_1,8,1:1,1',1:0,Right-footed shot
+Serie A,Roberto Pereyra,Sassuolo_H_1,9,2:0,90'+3,2:0,Right-footed shot
+Serie A,Roberto Pereyra,Atalanta BC_A_1,4,3:2,45',2:1,Right-footed shot
+Serie A,Roberto Pereyra,Inter_A_1,1,5:1,79',5:1,Penalty
+Serie A,Mattia Zaccagni,Atalanta BC_A_1,7,0:2,83',0:2,Right-footed shot
+Serie A,Mattia Zaccagni,Cagliari Calcio_H_1,11,1:1,21',1:0,Right-footed shot
+Serie A,Mattia Zaccagni,Sampdoria_H_1,15,1:2,70',1:2,Penalty
+Serie A,Mattia Zaccagni,Spezia Calcio_A_1,17,0:1,75',0:1,Right-footed shot
+Serie A,Mattia Zaccagni,SSC Napoli_H_1,4,3:1,79',3:1,Header
+Serie A,Rodrigo Palacio,Parma_H_1,14,4:1,90'+1,4:1,Left-footed shot
+Serie A,Rodrigo Palacio,Fiorentina_H_1,14,3:3,31',1:1,Right-footed shot
+Serie A,Rodrigo Palacio,Hellas Verona_A_1,10,2:2,82',2:2,Left-footed shot
+Serie A,Gianluca Caprari,Inter_H_1,1,2:5,34',1:3,Right-footed shot
+Serie A,Gianluca Caprari,AS Roma_A_1,10,5:2,5',0:1,Deflected shot on goal
+Serie A,Gianluca Caprari,Udinese Calcio_A_1,11,0:2,9',0:1,Left-footed shot
+Serie A,Gianluca Caprari,Sampdoria_H_1,10,1:1,55',1:0,Left-footed shot
+Serie A,Federico Dimarco,Torino_A_1,17,1:1,67',0:1,Left-footed shot
+Serie A,Federico Dimarco,Crotone_H_1,20,2:1,25',2:0,Left-footed shot
+Serie A,Federico Dimarco,SSC Napoli_H_1,4,3:1,34',1:1,Right-footed shot
+Serie A,Federico Dimarco,Sassuolo_A_1,9,3:2,79',2:2,Left-footed shot
+Serie A,Federico Dimarco,Torino_H_1,15,1:1,88',1:1,Left-footed shot
+Serie A,Filip Djuricic,Spezia Calcio_A_1,8,1:4,12',0:1,
+Serie A,Filip Djuricic,Bologna_A_1,12,3:4,64',3:2,Right-footed shot
+Serie A,Filip Djuricic,Torino_H_1,16,3:3,71',1:1,Right-footed shot
+Serie A,Filip Djuricic,Parma_H_1,19,1:1,90'+5,1:1,Penalty
+Serie A,Filip Djuricic,Hellas Verona_H_1,8,3:2,51',2:1,Right-footed shot
+Serie A,Pedro,Udinese Calcio_A_1,17,0:1,55',0:1,Long distance kick
+Serie A,Pedro,Benevento_H_1,8,5:2,31',1:1,Left-footed shot
+Serie A,Pedro,Fiorentina_H_1,10,2:0,70',2:0,Counter attack goal
+Serie A,Pedro,Udinese Calcio_H_1,11,3:0,90'+3,3:0,Right-footed shot
+Serie A,Pedro,Lazio_H_1,6,2:0,78',2:0,Long distance kick
+Serie A,Hamed Junior Traorè,Fiorentina_A_1,17,1:1,13',0:1,Right-footed shot
+Serie A,Hamed Junior Traorè,Sampdoria_A_1,10,2:3,2',0:1,Left-footed shot
+Serie A,Hamed Junior Traorè,Hellas Verona_H_1,8,3:2,81',3:2,Right-footed shot
+Serie A,Hamed Junior Traorè,AS Roma_H_1,7,2:2,57',1:1,
+Serie A,Hamed Junior Traorè,Inter_A_1,1,2:1,85',2:1,Right-footed shot
+Serie A,Gaetano Castrovilli,Torino_H_1,17,1:0,78',1:0,Left-footed shot
+Serie A,Gaetano Castrovilli,Inter_A_1,1,4:3,57',2:2,Counter attack goal
+Serie A,Gaetano Castrovilli,Udinese Calcio_H_1,18,3:2,11',1:0,Left-footed shot
+Serie A,Gaetano Castrovilli,Spezia Calcio_H_1,12,3:0,64',2:0,Left-footed shot
+Serie A,Nicolas Viola,Torino_H_1,18,2:2,31',1:0,Penalty
+Serie A,Nicolas Viola,Bologna_A_1,14,1:1,60',1:1,Left-footed shot
+Serie A,Nicolas Viola,Lazio_A_1,6,5:3,62',4:2,Penalty
+Serie A,Nicolas Viola,Genoa_A_1,13,2:2,5',0:1,Penalty
+Serie A,Nicolas Viola,Udinese Calcio_H_1,12,2:4,34',1:2,Penalty
+Serie A,Weston McKennie,Torino_H_1,18,2:1,77',1:1,Header
+Serie A,Weston McKennie,AC Milan_A_1,1,1:3,76',1:3,Right-footed shot
+Serie A,Weston McKennie,Bologna_H_1,12,2:0,71',2:0,Header
+Serie A,Weston McKennie,Crotone_H_1,20,3:0,66',3:0,Left-footed shot
+Serie A,Weston McKennie,Genoa_H_1,13,3:1,70',3:1,Right-footed shot
+Serie A,Mattias Svanberg,Sassuolo_H_1,3,3:4,39',2:1,Right-footed shot
+Serie A,Mattias Svanberg,Udinese Calcio_H_1,13,2:2,40',2:1,Right-footed shot
+Serie A,Mattias Svanberg,Sampdoria_H_1,10,3:1,41',2:1,Right-footed shot
+Serie A,Mattias Svanberg,Spezia Calcio_H_1,14,4:1,54',3:1,Right-footed shot
+Serie A,Bremer,Lazio_H_1,11,3:4,20',1:1,Header
+Serie A,Bremer,Hellas Verona_H_1,8,1:1,84',1:1,Left-footed shot
+Serie A,Bremer,Atalanta BC_A_1,7,3:3,45'+1,3:2,Tap-in
+Serie A,Bremer,Cagliari Calcio_A_1,18,0:1,76',0:1,Header
+Serie A,Bremer,Benevento_H_1,18,1:1,29',1:0,Header
+Serie A,Gervinho,Inter_A_1,4,2:2,46',0:1,Left-footed shot
+Serie A,Gervinho,Genoa_A_1,19,1:2,10',0:1,Right-footed shot
+Serie A,Gervinho,Crotone_H_1,20,3:4,49',2:3,Left-footed shot
+Serie A,Roberto Piccoli,Inter_A_1,2,2:1,90'+4,2:1,Right-footed shot
+Serie A,Roberto Piccoli,AS Roma_A_1,5,4:3,24',1:1,Tap-in
+Serie A,Roberto Piccoli,Atalanta BC_A_1,5,3:1,81',3:1,Right-footed shot
+Serie A,Roberto Piccoli,Cagliari Calcio_H_1,18,2:1,49',1:0,Header
+Serie A,Roberto Piccoli,SSC Napoli_H_1,5,1:4,64',1:3,Left-footed shot
+Serie A,Antonio Sanabria,Crotone_A_1,20,4:2,84',3:2,Long distance kick
+Serie A,Antonio Sanabria,Inter_H_1,1,1:2,70',1:1,Left-footed shot
+Serie A,Antonio Sanabria,Juventus_H_1,3,2:2,27',1:1,Header
+Serie A,Antonio Sanabria,AS Roma_H_1,7,3:1,57',1:1,Header
+Serie A,Hakan Calhanoglu,Lazio_H_1,8,3:2,17',2:0,Penalty
+Serie A,Hakan Calhanoglu,Fiorentina_A_1,13,2:3,72',2:3,Right-footed shot
+Serie A,Hakan Calhanoglu,Sassuolo_H_1,8,1:2,30',1:0,Right-footed shot
+Serie A,Hakan Calhanoglu,Benevento_H_1,17,2:0,6',1:0,Right-footed shot
+Serie A,Emmanuel Gyasi,Cagliari Calcio_A_1,10,2:2,36',0:1,Right-footed shot
+Serie A,Emmanuel Gyasi,Sassuolo_A_1,8,1:2,78',1:2,Tap-in
+Serie A,Emmanuel Gyasi,Parma_H_1,19,2:2,52',1:2,Right-footed shot
+Serie A,Davide Faraoni,Genoa_A_1,11,2:2,61',1:2,Right-footed shot
+Serie A,Davide Faraoni,Benevento_A_1,16,0:3,25',0:1,Header
+Serie A,Davide Faraoni,Bologna_H_1,12,2:2,2',1:0,Right-footed shot
+Serie A,Davide Faraoni,SSC Napoli_A_1,4,1:1,69',1:1,Right-footed shot
+Serie A,Ivan Perisic,Parma_H_1,15,2:2,90'+2,2:2,Header
+Serie A,Ivan Perisic,Fiorentina_A_1,12,0:2,52',0:2,Tap-in
+Serie A,Ivan Perisic,Spezia Calcio_A_1,14,1:1,39',1:1,Right-footed shot
+Serie A,Ivan Perisic,Udinese Calcio_H_1,12,5:1,64',4:0,Right-footed shot
+Serie A,Leonardo Pavoletti,Spezia Calcio_H_1,12,2:2,58',2:1,Right-footed shot
+Serie A,Leonardo Pavoletti,Crotone_A_1,20,0:2,56',0:1,Header
+Serie A,Leonardo Pavoletti,Parma_H_1,19,4:3,39',1:2,Header
+Serie A,Leonardo Pavoletti,Benevento_A_1,18,1:3,64',1:2,Header
+Serie A,Brahim Díaz,Crotone_A_1,17,0:2,50',0:2,Left-footed shot
+Serie A,Brahim Díaz,Fiorentina_A_1,13,2:3,57',2:2,Left-footed shot
+Serie A,Brahim Díaz,Juventus_A_1,3,0:3,45'+1,0:1,Right-footed shot
+Serie A,Brahim Díaz,Torino_A_1,14,0:7,50',0:3,Left-footed shot
+Serie A,Adam Ounas,Sassuolo_H_1,8,1:2,26',1:1,Counter attack goal
+Serie A,Adam Ounas,Torino_H_1,17,4:2,90'+4,4:2,Solo run
+Serie A,Adam Ounas,Parma_A_1,19,3:4,45'+1,1:3,Left-footed shot
+Serie A,Adam Ounas,Hellas Verona_H_1,10,2:1,2',1:0,Left-footed shot
+Serie A,Dejan Kulusevski,Sampdoria_H_1,9,3:0,13',1:0,Left-footed shot
+Serie A,Dejan Kulusevski,Hellas Verona_H_1,7,1:1,77',1:1,Left-footed shot
+Serie A,Dejan Kulusevski,Parma_A_1,14,0:4,23',0:1,Left-footed shot
+Serie A,Dejan Kulusevski,Genoa_H_1,13,3:1,4',1:0,Left-footed shot
+Serie A,Manuel Locatelli,Crotone_H_1,19,4:1,90'+3,4:1,Right-footed shot
+Serie A,Manuel Locatelli,SSC Napoli_A_1,2,0:2,59',0:1,Penalty
+Serie A,Manuel Locatelli,Hellas Verona_H_1,8,3:2,4',1:0,Right-footed shot
+Serie A,Manuel Locatelli,Parma_A_1,20,1:3,25',0:1,Penalty
+Serie A,Andrea Petagna,Benevento_A_1,9,1:2,67',1:2,Right-footed shot
+Serie A,Andrea Petagna,Crotone_A_1,20,0:4,90'+1,0:4,Right-footed shot
+Serie A,Andrea Petagna,Sampdoria_H_1,14,2:1,68',2:1,Header
+Serie A,Andrea Petagna,Spezia Calcio_H_1,19,1:2,58',1:0,Left-footed shot
+Serie A,Paulo Dybala,Genoa_A_1,19,1:3,57',0:1,Left-footed shot
+Serie A,Paulo Dybala,Udinese Calcio_H_1,12,4:1,90'+3,4:1,Right-footed shot
+Serie A,Paulo Dybala,SSC Napoli_H_1,1,2:1,73',2:0,Left-footed shot
+Serie A,Paulo Dybala,Sassuolo_A_1,8,1:3,66',1:3,Counter attack goal
+Serie A,Gianluca Mancini,Cagliari Calcio_H_1,14,3:2,77',3:1,Header
+Serie A,Gianluca Mancini,Inter_H_1,2,2:2,86',2:2,Header
+Serie A,Gianluca Mancini,Hellas Verona_H_1,9,3:1,20',1:0,Header
+Serie A,Gianluca Mancini,Genoa_H_1,13,1:0,24',1:0,Header
+Serie A,Charalampos Lykogiannis,Crotone_H_1,20,4:2,25',1:1,Direct free kick
+Serie A,Charalampos Lykogiannis,Udinese Calcio_H_1,10,1:1,27',1:0,Direct free kick
+Serie A,Charalampos Lykogiannis,AS Roma_H_1,7,3:2,4',1:0,Left-footed shot
+Serie A,Charalampos Lykogiannis,Benevento_A_1,18,1:3,1',0:1,Left-footed shot
+Serie A,Diego Farias,Fiorentina_H_1,15,2:2,75',2:2,Right-footed shot
+Serie A,Diego Farias,Crotone_A_1,20,4:1,18',1:1,Right-footed shot
+Serie A,Diego Farias,AS Roma_A_1,5,4:3,59',3:2,Left-footed shot
+Serie A,Diego Farias,Inter_H_1,1,1:1,12',1:0,Right-footed shot
+Serie A,Jérémie Boga,Hellas Verona_A_1,8,0:2,42',0:1,Right-footed shot
+Serie A,Jérémie Boga,Genoa_H_1,18,2:1,52',1:0,Left-footed shot
+Serie A,Jérémie Boga,Cagliari Calcio_A_1,17,1:1,90'+4,1:1,Left-footed shot
+Serie A,Jérémie Boga,Parma_A_1,20,1:3,69',1:3,Left-footed shot
+Serie A,Davide Zappacosta,Crotone_H_1,19,4:1,34',3:1,Right-footed shot
+Serie A,Davide Zappacosta,Sampdoria_H_1,10,1:1,52',1:0,Right-footed shot
+Serie A,Davide Zappacosta,Sassuolo_H_1,8,1:2,85',1:2,Right-footed shot
+Serie A,Davide Zappacosta,Bologna_A_1,12,0:2,13',0:1,Right-footed shot
+Serie A,Aleksey Miranchuk,Inter_H_1,6,1:1,79',1:1,Left-footed shot
+Serie A,Aleksey Miranchuk,Crotone_H_1,20,5:1,85',5:1,Left-footed shot
+Serie A,Aleksey Miranchuk,Bologna_H_1,11,5:0,73',5:0,Left-footed shot
+Serie A,Aleksey Miranchuk,Parma_A_1,19,2:5,90'+3,2:5,Left-footed shot
+Serie A,Marco Sau,Genoa_H_1,18,2:0,89',2:0,Penalty
+Serie A,Marco Sau,Cagliari Calcio_A_1,15,1:2,41',1:1,Right-footed shot
+Serie A,Marco Sau,Atalanta BC_H_1,5,1:4,50',1:1,Right-footed shot
+Serie A,Marco Sau,Lazio_A_1,6,5:3,45',3:1,Right-footed shot
+Serie A,Papu Gómez,Torino_A_1,12,2:4,13',1:1,Right-footed shot
+Serie A,Papu Gómez,Lazio_A_1,6,1:4,41',0:3,Right-footed shot
+Serie A,Papu Gómez,Cagliari Calcio_H_1,14,5:2,29',2:1,Right-footed shot
+Serie A,Kevin Lasagna,Cagliari Calcio_A_1,13,1:1,57',1:1,Right-footed shot
+Serie A,Kevin Lasagna,SSC Napoli_H_1,7,1:2,27',1:1,Right-footed shot
+Serie A,Kevin Lasagna,Benevento_A_1,16,0:3,50',0:3,Solo run
+Serie A,Kevin Lasagna,Cagliari Calcio_A_1,18,0:2,90'+8,0:2,Counter attack goal
+Serie A,Adrien Rabiot,Spezia Calcio_A_1,14,1:4,67',1:3,Right-footed shot
+Serie A,Adrien Rabiot,Lazio_H_1,6,3:1,39',1:1,Left-footed shot
+Serie A,Adrien Rabiot,Sassuolo_A_1,8,1:3,28',0:1,Left-footed shot
+Serie A,Adrien Rabiot,Bologna_A_1,11,1:4,45',0:3,Left-footed shot
+Serie A,Stefano Okaka,Fiorentina_A_1,13,3:2,43',2:1,Header
+Serie A,Stefano Okaka,Parma_A_1,19,2:2,64',2:1,Header
+Serie A,Stefano Okaka,SSC Napoli_A_1,4,5:1,41',2:1,Right-footed shot
+Serie A,Jasmin Kurtic,Hellas Verona_H_1,4,1:0,1',1:0,Right-footed shot
+Serie A,Jasmin Kurtic,AC Milan_A_1,1,2:2,56',0:2,Header
+Serie A,Jasmin Kurtic,Fiorentina_A_1,14,3:3,72',2:2,Tap-in
+Serie A,Jasmin Kurtic,Benevento_A_1,16,2:2,55',1:1,Header
+Serie A,Nicolò Barella,Cagliari Calcio_A_1,11,1:3,77',1:1,Long distance kick
+Serie A,Nicolò Barella,Juventus_H_1,3,2:0,52',2:0,Right-footed shot
+Serie A,Nicolò Barella,Fiorentina_A_1,12,0:2,31',0:1,Long distance kick
+Serie A,Giovanni Di Lorenzo,Sassuolo_A_1,8,3:3,72',2:2,Right-footed shot
+Serie A,Giovanni Di Lorenzo,Crotone_H_1,20,4:3,72',4:3,Left-footed shot
+Serie A,Giovanni Di Lorenzo,Udinese Calcio_H_1,11,5:1,66',4:1,Right-footed shot
+Serie A,Razvan Marin,Hellas Verona_A_1,7,1:1,48',1:1,Left-footed shot
+Serie A,Razvan Marin,Parma_H_1,19,4:3,66',2:3,Right-footed shot
+Serie A,Razvan Marin,AS Roma_H_1,7,3:2,57',2:1,Right-footed shot
+Serie A,Darko Lazovic,Benevento_H_1,13,3:1,77',3:1,Header
+Serie A,Darko Lazovic,Sassuolo_A_1,9,3:2,42',1:1,Right-footed shot
+Serie A,Darko Lazovic,Sampdoria_A_1,10,3:1,13',0:1,Direct free kick
+Serie A,Matteo Darmian,Genoa_H_1,11,3:0,69',2:0,Right-footed shot
+Serie A,Matteo Darmian,Cagliari Calcio_H_1,18,1:0,77',1:0,Left-footed shot
+Serie A,Matteo Darmian,Hellas Verona_H_1,10,1:0,76',1:0,Right-footed shot
+Serie A,Giacomo Bonaventura,Crotone_H_1,20,2:1,20',1:0,Right-footed shot
+Serie A,Giacomo Bonaventura,Sassuolo_A_1,8,3:1,31',0:1,Counter attack goal
+Serie A,Giacomo Bonaventura,Bologna_A_1,12,3:3,64',1:2,Right-footed shot
+Serie A,Valerio Verre,Fiorentina_A_1,9,1:2,83',1:2,Right-footed shot
+Serie A,Valerio Verre,Hellas Verona_A_1,7,1:2,54',0:2,Counter attack goal
+Serie A,Valerio Verre,Spezia Calcio_H_1,17,2:2,32',1:1,Right-footed shot
+Serie A,Marko Pjaca,Crotone_H_1,19,4:1,75',4:1,Counter attack goal
+Serie A,Marko Pjaca,AS Roma_H_1,8,1:3,50',1:1,Right-footed shot
+Serie A,Marko Pjaca,Fiorentina_A_1,17,1:1,89',0:1,Left-footed shot
+Serie A,Roberto Gagliardini,Benevento_A_1,18,2:5,25',0:2,Left-footed shot
+Serie A,Roberto Gagliardini,Sassuolo_A_1,2,0:3,60',0:3,Right-footed shot
+Serie A,Roberto Gagliardini,Sampdoria_H_1,9,5:1,4',1:0,Right-footed shot
+Serie A,Grégoire Defrel,Spezia Calcio_A_1,8,1:4,66',1:3,
+Serie A,Grégoire Defrel,Juventus_A_1,3,3:1,58',1:1,Right-footed shot
+Serie A,Grégoire Defrel,Parma_A_1,20,1:3,62',1:2,Left-footed shot
+Serie A,Valentin Mihaila,Fiorentina_A_1,14,3:3,90',2:3,Tap-in
+Serie A,Valentin Mihaila,AS Roma_H_1,4,2:0,9',1:0,Left-footed shot
+Serie A,Valentin Mihaila,Crotone_H_1,20,3:4,54',3:3,Right-footed shot
+Serie A,Manolo Gabbiadini,Cagliari Calcio_H_1,18,2:2,80',2:1,Counter attack goal
+Serie A,Manolo Gabbiadini,Hellas Verona_H_1,9,3:1,73',2:1,Penalty
+Serie A,Manolo Gabbiadini,Parma_H_1,20,3:0,64',3:0,Right-footed shot
+Serie A,Ignacio Pussetto,Parma_H_1,17,3:2,88',3:2,Right-footed shot
+Serie A,Ignacio Pussetto,Lazio_A_1,8,1:3,45'+3,0:2,Left-footed shot
+Serie A,Ignacio Pussetto,Torino_A_1,18,2:3,24',0:1,Counter attack goal
+Serie A,Nikola Milenkovic,Udinese Calcio_H_1,18,3:2,21',2:0,Header
+Serie A,Nikola Milenkovic,Genoa_H_1,19,1:1,90'+8,1:1,Right-footed shot
+Serie A,Nikola Milenkovic,Parma_H_1,19,3:3,42',2:1,Right-footed shot
+Serie A,Fabián Ruiz,AS Roma_H_1,3,4:0,64',2:0,Left-footed shot
+Serie A,Fabián Ruiz,Sampdoria_A_1,10,0:2,35',0:1,Left-footed shot
+Serie A,Fabián Ruiz,Udinese Calcio_H_1,11,5:1,31',2:0,Left-footed shot
+Serie A,Giulio Maggiore,AC Milan_H_1,1,2:0,56',1:0,Left-footed shot
+Serie A,Giulio Maggiore,Cagliari Calcio_H_1,18,2:1,80',2:0,Right-footed shot
+Serie A,Giulio Maggiore,Crotone_H_1,20,3:2,89',2:2,
+Serie A,Morten Thorsby,Atalanta BC_A_1,4,1:3,59',0:2,Header
+Serie A,Morten Thorsby,Bologna_H_1,14,1:2,7',1:0,Header
+Serie A,Morten Thorsby,Hellas Verona_H_1,9,3:1,82',3:1,Header
+Serie A,Sasa Lukic,Sassuolo_A_1,2,3:3,79',1:3,Right-footed shot
+Serie A,Sasa Lukic,Lazio_H_1,11,3:4,88',3:2,Solo run
+Serie A,Sasa Lukic,Genoa_A_1,13,1:2,10',0:1,Left-footed shot
+Serie A,Rolando Mandragora,Crotone_A_1,20,4:2,45',1:1,Tap-in
+Serie A,Rolando Mandragora,Sassuolo_H_1,8,3:2,86',2:2,Left-footed shot
+Serie A,Rolando Mandragora,Bologna_A_1,11,1:1,58',1:1,Right-footed shot
+Serie A,Martin Erlic,Sassuolo_A_1,8,1:2,39',1:1,Header
+Serie A,Martin Erlic,Crotone_H_1,20,3:2,90'+2,3:2,Tap-in
+Serie A,Martin Erlic,Torino_H_1,16,4:1,84',4:1,Header
+Serie A,Gaetano Letizia,Sampdoria_A_1,20,2:3,88',2:3,Right-footed shot
+Serie A,Gaetano Letizia,Juventus_H_1,4,1:1,45'+3,1:1,Right-footed shot
+Serie A,Gaetano Letizia,Udinese Calcio_A_1,11,0:2,77',0:2,Right-footed shot
+Serie A,Andrey Galabinov,Sassuolo_H_1,11,1:4,30',1:1,
+Serie A,Andrey Galabinov,Udinese Calcio_A_1,13,0:2,29',0:1,Header
+Serie A,Milan Skriniar,Hellas Verona_A_1,9,1:2,69',1:2,Header
+Serie A,Milan Skriniar,AS Roma_A_1,4,2:2,56',1:1,Header
+Serie A,Milan Skriniar,Atalanta BC_H_1,4,1:0,54',1:0,Right-footed shot
+Serie A,Tolgay Arslan,Lazio_A_1,8,1:3,18',0:1,Deflected shot on goal
+Serie A,Tolgay Arslan,Bologna_A_1,12,2:2,90'+2,2:2,Right-footed shot
+Serie A,Tolgay Arslan,Benevento_A_1,17,2:4,31',0:2,Right-footed shot
+Serie A,Christian Eriksen,SSC Napoli_A_1,5,1:1,55',1:1,Left-footed shot
+Serie A,Christian Eriksen,Crotone_A_1,20,0:2,69',0:1,Right-footed shot
+Serie A,Christian Eriksen,Udinese Calcio_H_1,12,5:1,44',2:0,Direct free kick
+Serie A,Danilo D'Ambrosio,Fiorentina_H_1,9,4:3,89',4:3,Header
+Serie A,Danilo D'Ambrosio,Genoa_A_1,11,0:2,79',0:2,Tap-in
+Serie A,Danilo D'Ambrosio,Cagliari Calcio_A_1,11,1:3,84',1:2,Header
+Serie A,Juan Cuadrado,Inter_H_1,1,3:2,45'+3,2:1,Deflected shot on goal
+Serie A,Arkadiusz Reca,Spezia Calcio_H_1,15,4:1,49',2:1,Right-footed shot
+Serie A,Arkadiusz Reca,Torino_H_1,17,4:2,80',3:1,Long distance kick
+Serie A,Franck Ribéry,Torino_A_1,18,1:1,67',0:1,Right-footed shot
+Serie A,Franck Ribéry,AC Milan_H_1,3,2:3,51',2:1,Left-footed shot
+Serie A,Marcelo Brozovic,Parma_H_1,15,2:2,64',1:2,Left-footed shot
+Serie A,Marcelo Brozovic,AS Roma_H_1,7,3:1,11',1:0,Right-footed shot
+Serie A,Manuel Lazzari,Cagliari Calcio_A_1,10,0:2,4',0:1,Right-footed shot
+Serie A,Manuel Lazzari,Spezia Calcio_H_1,15,2:1,56',1:0,Counter attack goal
+Serie A,Alexis Saelemaekers,AS Roma_H_1,8,3:3,47',2:1,Right-footed shot
+Serie A,Alexis Saelemaekers,Sassuolo_A_1,6,1:2,26',0:2,Counter attack goal
+Serie A,Nahuel Molina,Benevento_A_1,17,2:4,4',0:1,Right-footed shot
+Serie A,Nahuel Molina,Juventus_H_1,3,1:2,10',1:0,Right-footed shot
+Serie A,Leonardo Spinazzola,Fiorentina_H_1,10,2:0,12',1:0,Right-footed shot
+Serie A,Leonardo Spinazzola,Fiorentina_A_1,14,1:2,48',0:1,Right-footed shot
+Serie A,Aaron Ramsey,Sassuolo_H_1,6,3:1,82',2:1,Right-footed shot
+Serie A,Aaron Ramsey,Sampdoria_A_1,10,0:2,90'+1,0:2,Counter attack goal
+Serie A,Adam Marusic,Atalanta BC_A_1,5,1:3,3',0:1,Right-footed shot
+Serie A,Adam Marusic,Udinese Calcio_A_1,10,0:1,37',0:1,Right-footed shot
+Serie A,Mikkel Damsgaard,Lazio_H_1,9,3:0,74',3:0,Right-footed shot
+Serie A,Mikkel Damsgaard,Crotone_H_1,20,3:1,26',1:0,Right-footed shot
+Serie A,Roberto Insigne,SSC Napoli_H_1,3,1:2,30',1:0,Left-footed shot
+Serie A,Roberto Insigne,Genoa_H_1,18,2:0,57',1:0,Left-footed shot
+Serie A,Remo Freuler,Juventus_A_1,4,1:1,57',1:1,Right-footed shot
+Serie A,Remo Freuler,Bologna_H_1,11,5:0,57',3:0,Solo run
+Serie A,Nahitan Nández,Sampdoria_H_1,9,2:0,68',2:0,Left-footed shot
+Serie A,Nahitan Nández,SSC Napoli_A_1,4,1:1,90'+4,1:1,Right-footed shot
+Serie A,Cristian Romero,AC Milan_A_1,1,0:3,26',0:1,Header
+Serie A,Cristian Romero,SSC Napoli_H_1,6,4:2,79',4:2,Header
+Serie A,Andreas Skov Olsen,Parma_H_1,14,4:1,56',3:0,Left-footed shot
+Serie A,Andreas Skov Olsen,Crotone_A_1,20,2:3,84',2:3,Right-footed shot
+Serie A,Diego Demme,Crotone_A_1,20,0:4,76',0:3,Right-footed shot
+Serie A,Diego Demme,Fiorentina_H_1,12,6:0,36',2:0,Right-footed shot
+Serie A,Federico Bonazzoli,Udinese Calcio_H_1,12,2:3,67',2:2,Left-footed shot
+Serie A,Federico Bonazzoli,Atalanta BC_A_1,7,3:3,84',3:3,Header
+Serie A,Davide Calabria,Genoa_A_1,19,2:2,52',1:1,Long distance kick
+Serie A,Davide Calabria,Juventus_H_1,3,1:3,41',1:1,Right-footed shot
+Serie A,Matteo Pessina,Sassuolo_H_1,5,5:1,45',2:0,Right-footed shot
+Serie A,Matteo Pessina,Parma_A_1,19,2:5,52',0:2,Left-footed shot
+Serie A,Riccardo Gagliolo,Spezia Calcio_H_1,14,2:2,34',1:2,Tap-in
+Serie A,Riccardo Gagliolo,AC Milan_H_1,2,1:3,66',1:2,Right-footed shot
+Serie A,Nicola Sansone,Benevento_H_1,13,1:1,1',1:0,Left-footed shot
+Serie A,Nicola Sansone,Lazio_H_1,6,2:0,64',2:0,Right-footed shot
+Serie A,Yann Karamoh,Udinese Calcio_A_1,19,3:2,70',2:2,Right-footed shot
+Serie A,Yann Karamoh,Spezia Calcio_A_1,16,2:2,17',0:1,Left-footed shot
+Serie A,Mërgim Vojvoda,Parma_H_1,19,1:0,63',1:0,Right-footed shot
+Serie A,Mërgim Vojvoda,Hellas Verona_A_1,10,1:1,85',0:1,Header
+Serie A,Ilija Nestorovski,Torino_A_1,18,2:3,69',2:3,Left-footed shot
+Serie A,Ilija Nestorovski,Fiorentina_H_1,13,1:0,86',1:0,Header
+Serie A,Carles Pérez,Benevento_H_1,8,5:2,89',5:2,Solo run
+Serie A,Carles Pérez,Cagliari Calcio_A_1,18,3:2,27',1:1,Left-footed shot
+Serie A,Miguel Veloso,Atalanta BC_A_1,7,0:2,62',0:1,Penalty
+Serie A,Miguel Veloso,Fiorentina_A_1,17,1:1,8',0:1,Penalty
+Serie A,Kamil Glik,Parma_H_1,19,2:2,23',1:0,Tap-in
+Serie A,Kamil Glik,Lazio_A_1,6,5:3,85',4:3,Header
+Serie A,Eljif Elmas,Genoa_H_1,3,6:0,69',5:0,Right-footed shot
+Serie A,Eljif Elmas,Parma_H_1,19,2:0,32',1:0,Left-footed shot
+Serie A,Albin Ekdal,AC Milan_H_1,1,1:2,82',1:2,Right-footed shot
+Serie A,Albin Ekdal,Hellas Verona_A_1,7,1:2,41',0:1,Right-footed shot
+Serie A,Tiemoué Bakayoko,Udinese Calcio_A_1,12,1:2,90',1:2,Header
+Serie A,Tiemoué Bakayoko,Torino_A_1,16,0:2,11',0:1,Right-footed shot
+Serie A,Martín Cáceres,Juventus_A_1,3,0:3,81',0:3,Left-footed shot
+Serie A,Martín Cáceres,Hellas Verona_A_1,9,1:2,65',0:2,Right-footed shot
+Serie A,Alex Sandro,Parma_H_1,19,3:1,43',1:1,Left-footed shot
+Serie A,Vlad Chiriches,Torino_H_1,16,3:3,84',2:3,Long distance kick
+Serie A,Vlad Chiriches,Atalanta BC_A_1,7,5:1,75',5:1,Deflected shot on goal
+Serie A,Hans Hateboer,Torino_A_1,12,2:4,42',1:3,Right-footed shot
+Serie A,Hans Hateboer,Lazio_A_1,6,1:4,32',0:2,Right-footed shot
+Serie A,Riccardo Sottil,Crotone_H_1,20,4:2,45',3:2,Header
+Serie A,Riccardo Sottil,Inter_H_1,3,1:3,42',1:0,Right-footed shot
+Serie A,Eddie Salcedo,Fiorentina_H_1,16,1:2,72',1:2,Header
+Serie A,Eddie Salcedo,Spezia Calcio_H_1,15,1:1,46',1:0,Header
+Serie A,Valentin Eysseric,Spezia Calcio_H_1,12,3:0,82',3:0,Right-footed shot
+Serie A,Valentin Eysseric,Benevento_A_1,16,1:4,75',1:4,Right-footed shot
+Serie A,Gastón Pereiro,Spezia Calcio_A_1,15,2:1,83',2:1,Left-footed shot
+Serie A,Gastón Pereiro,Parma_H_1,19,4:3,90'+1,3:3,Long distance kick
+Serie A,Dennis Man,Benevento_A_1,16,2:2,88',2:2,Tap-in
+Serie A,Dennis Man,Cagliari Calcio_A_1,18,4:3,59',1:3,Left-footed shot
+Serie A,Artur Ionita,Fiorentina_H_1,15,1:4,56',1:3,Header
+Serie A,Artur Ionita,Parma_H_1,19,2:2,67',2:1,Header
+Serie A,Jens Stryger Larsen,Atalanta BC_A_1,4,3:2,71',3:2,Right-footed shot
+Serie A,Jens Stryger Larsen,Benevento_A_1,17,2:4,49',1:3,Header
+Serie A,Takehiro Tomiyasu,Atalanta BC_H_1,7,2:2,73',1:2,Right-footed shot
+Serie A,Takehiro Tomiyasu,Udinese Calcio_H_1,13,2:2,19',1:0,Header
+Serie A,Rafael Tolói,Fiorentina_H_1,17,3:0,63',3:0,Header
+Serie A,Rafael Tolói,Benevento_A_1,10,1:4,69',1:2,Right-footed shot
+Serie A,Vladimir Golemic,Inter_A_1,2,6:2,36',2:2,Penalty
+Serie A,Vladimir Golemic,AS Roma_H_1,4,1:3,71',1:3,Header
+Serie A,Lorenzo De Silvestri,Lazio_A_1,12,2:1,90'+1,2:1,Left-footed shot
+Serie A,Lorenzo De Silvestri,Hellas Verona_A_1,10,2:2,32',1:1,Right-footed shot
+Serie A,Omar Colley,Benevento_H_1,16,2:3,18',2:0,Header
+Serie A,Omar Colley,Parma_H_1,20,3:0,44',2:0,Left-footed shot
+Serie A,Ivan Ilic,Inter_H_1,2,1:2,63',1:1,Tap-in
+Serie A,Ivan Ilic,Genoa_A_1,11,2:2,17',0:1,Left-footed shot
+Serie A,Maxime López,SSC Napoli_A_1,2,0:2,90'+5,0:2,Right-footed shot
+Serie A,Maxime López,Fiorentina_H_1,15,3:1,75',3:1,Right-footed shot
+Serie A,Leonardo Bonucci,Sampdoria_H_1,9,3:0,78',2:0,Tap-in
+Serie A,Leonardo Bonucci,Torino_H_1,18,2:1,89',2:1,Header
+Serie A,Armando Izzo,SSC Napoli_A_1,4,1:1,56',0:1,Left-footed shot
+Serie A,Armando Izzo,Parma_A_1,16,0:3,88',0:2,Header
+Serie A,Luca Caldirola,Sampdoria_A_1,20,2:3,33',2:1,Right-footed shot
+Serie A,Nikola Kalinic,Crotone_H_1,20,2:1,16',1:0,
+Serie A,Nikola Kalinic,Bologna_H_1,12,2:2,53',2:1,Right-footed shot
+Serie A,Jens Petter Hauge,SSC Napoli_A_1,3,1:3,90'+5,1:3,Left-footed shot
+Serie A,Jens Petter Hauge,Sampdoria_H_1,10,1:1,87',1:1,Right-footed shot
+Serie A,Adolfo Gaich,Spezia Calcio_A_1,15,1:1,24',0:1,Left-footed shot
+Serie A,Adolfo Gaich,Juventus_A_1,2,0:1,69',0:1,Right-footed shot
+Serie A,Sam Lammers,Cagliari Calcio_H_1,14,5:2,81',5:2,Right-footed shot
+Serie A,Sam Lammers,SSC Napoli_A_1,6,4:1,69',4:1,Left-footed shot
+Serie A,Andrea Favilli,Udinese Calcio_H_1,15,1:0,57',1:0,Right-footed shot
+Serie A,Andrea Favilli,Juventus_A_1,5,1:1,60',0:1,Left-footed shot
+Serie A,Riccardo Saponara,Hellas Verona_A_1,10,1:1,86',1:1,Right-footed shot
+Serie A,Riccardo Saponara,Torino_H_1,16,4:1,19',1:0,Solo run
+Serie A,Cristiano Biraghi,Spezia Calcio_A_1,11,2:2,4',0:2,Left-footed shot
+Serie A,Simone Bastoni,AC Milan_H_1,1,2:0,67',2:0,Left-footed shot
+Serie A,Rick Karsdorp,Spezia Calcio_H_1,14,4:3,55',3:1,Right-footed shot
+Serie A,Cristian Ansaldi,Inter_A_1,7,4:2,62',0:2,Penalty
+Serie A,Simone Verdi,Bologna_H_1,12,1:1,69',1:0,Direct free kick
+Serie A,Milan Badelj,Hellas Verona_H_1,9,2:2,90'+4,2:2,Right-footed shot
+Serie A,Andreas Cornelius,Udinese Calcio_H_1,14,2:2,3',1:0,Header
+Serie A,Danilo,Sassuolo_H_1,6,3:1,50',1:0,Right-footed shot
+Serie A,Emanuel Vignato,Inter_A_1,2,3:1,67',2:1,Right-footed shot
+Serie A,Salvatore Molina,Cagliari Calcio_A_1,15,4:2,43',2:2,Right-footed shot
+Serie A,Ashley Young,Udinese Calcio_H_1,12,5:1,8',1:0,Right-footed shot
+Serie A,Giuseppe Pezzella,Cagliari Calcio_A_1,18,4:3,5',0:1,Left-footed shot
+Serie A,Tommaso Augello,Lazio_H_1,9,3:0,41',2:0,Left-footed shot
+Serie A,Erick Pulgar,AC Milan_H_1,3,2:3,17',1:1,Direct free kick
+Serie A,Miha Zajc,Bologna_H_1,13,2:0,44',1:0,Right-footed shot
+Serie A,Wilfried Singo,Parma_A_1,16,0:3,8',0:1,Right-footed shot
+Serie A,Graziano Pellè,Genoa_H_1,14,1:2,16',1:0,Right-footed shot
+Serie A,José Luis Palomino,Crotone_H_1,20,5:1,48',2:1,Left-footed shot
+Serie A,Maya Yoshida,Parma_A_1,19,0:2,25',0:1,Left-footed shot
+Serie A,Germán Pezzella,Spezia Calcio_A_1,11,2:2,2',0:1,Header
+Serie A,Bruno Peres,Sassuolo_A_1,8,2:2,69',1:2,Right-footed shot
+Serie A,Kevin Agudelo,Parma_A_1,19,2:2,31',0:2,Left-footed shot
+Serie A,Lisandro Magallán,Parma_A_1,19,3:4,14',0:1,Header
+Serie A,Andreas Pereira,Torino_A_1,16,3:4,15',0:1,Right-footed shot
+Serie A,Rade Krunic,Hellas Verona_A_1,8,0:2,27',0:1,Direct free kick
+Serie A,Arturo Vidal,Juventus_H_1,3,2:0,12',1:0,Header
+Serie A,Ardian Ismajli,Bologna_A_1,11,4:1,34',2:1,Left-footed shot
+Serie A,Gerard Deulofeu,Hellas Verona_H_1,9,2:0,90'+1,2:0,Right-footed shot
+Serie A,Juan Brunetta,Atalanta BC_H_1,2,2:5,78',1:3,Right-footed shot
+Serie A,Tomás Rincón,AS Roma_H_1,7,3:1,90'+2,3:1,Right-footed shot
+Serie A,Marten de Roon,Torino_A_1,12,2:4,54',2:4,Left-footed shot
+Serie A,Jerdy Schouten,Crotone_A_1,20,2:3,70',2:2,Right-footed shot
+Serie A,Bryan Cristante,Atalanta BC_H_1,3,1:1,75',1:1,Right-footed shot
+Serie A,Riccardo Improta,Fiorentina_A_1,12,0:1,52',0:1,Right-footed shot
+Serie A,Christian Kouamé,Inter_A_1,1,4:3,3',0:1,Right-footed shot
+Serie A,Soualiho Meïté,Sampdoria_H_1,11,2:2,77',2:2,Header
+Serie A,Pasquale Schiattarella,Lazio_H_1,9,1:1,45',1:1,Left-footed shot
+Serie A,Samu Castillejo,Sampdoria_A_1,12,1:2,77',0:2,Left-footed shot
+Serie A,Matthijs de Ligt,Parma_H_1,19,3:1,68',3:1,Header
+Serie A,Niccolò Zanellato,Inter_A_1,2,6:2,12',0:1,Header
+Serie A,Gastón Brugman,Juventus_A_1,4,3:1,25',0:1,Direct free kick
+Serie A,Julian Chabot,Parma_A_1,19,2:2,28',0:1,Header
+Serie A,Claudio Terzi,Sampdoria_H_1,11,2:1,20',1:0,Header
+Serie A,Adrien Silva,AS Roma_H_1,7,2:0,45',1:0,Right-footed shot
+Serie A,Georgios Kyriakopoulos,Lazio_H_1,6,2:0,10',1:0,Left-footed shot
+Serie A,Alessio Romagnoli,Fiorentina_H_1,15,2:0,17',1:0,Header
+Serie A,Emmanuel Rivière,Genoa_A_1,11,4:1,28',2:1,Right-footed shot
+Serie A,Diogo Dalot,Hellas Verona_A_1,8,0:2,50',0:2,Right-footed shot
+Serie A,Fernando Forestieri,Lazio_A_1,8,1:3,71',0:3,Right-footed shot
+Serie A,Daniele Rugani,Bologna_H_1,12,1:0,19',1:0,Header
+Serie A,Amir Rrahmani,Hellas Verona_H_1,10,1:1,60',1:0,Right-footed shot
+Serie A,Amer Gojak,Parma_A_1,16,0:3,90'+5,0:3,Right-footed shot
+Serie A,Iago Falque,Crotone_A_1,20,4:1,82',4:1,Deflected shot on goal
+Serie A,Stephan El Shaarawy,Spezia Calcio_A_1,15,2:2,52',2:1,Right-footed shot
+Serie A,Matías Vecino,AS Roma_H_1,7,3:1,20',2:0,Counter attack goal
+Serie A,Rodrigo Becão,AC Milan_A_1,2,1:1,68',0:1,Header
+Serie A,Adrien Tamèze,Lazio_A_1,7,1:2,67',1:2,Right-footed shot
+Serie A,Stefan de Vrij,Sampdoria_A_1,11,2:1,65',2:1,Header
+Serie A,Bartosz Bereszynski,Cagliari Calcio_H_1,18,2:2,78',1:1,Right-footed shot
+Serie A,Samir,Parma_H_1,17,3:2,28',1:1,Header
+Serie A,Nicolás Domínguez,Spezia Calcio_A_1,16,2:2,72',2:1,Right-footed shot
+Serie A,Diego Godín,Atalanta BC_A_1,2,5:2,24',1:1,Header
+Serie A,Karol Linetty,Sassuolo_A_1,2,3:3,33',0:1,Right-footed shot
+Serie A,Vedat Muriqi,Atalanta BC_A_1,5,1:3,82',1:3,Left-footed shot
+Serie A,Alessandro Tuia,Cagliari Calcio_A_1,15,1:2,44',1:2,Header
+Serie A,Radja Nainggolan,Sampdoria_A_1,10,2:2,90'+6,2:2,Right-footed shot
+Serie A,Milos Vulic,Benevento_H_1,10,4:1,65',4:0,Right-footed shot
+Serie A,Alberto Cerri,Parma_H_1,19,4:3,90'+4,4:3,Header
+Serie A,Marvin Zeegelaar,Juventus_A_1,3,4:1,90',3:1,Right-footed shot
+Serie A,Domenico Criscito,Spezia Calcio_A_1,17,1:2,73',1:2,Penalty
+Serie A,Ebrima Colley,AS Roma_A_1,4,3:1,62',3:1,Header
+Serie A,Lorenzo Tonelli,Genoa_A_1,13,1:1,77',1:1,Header
+Serie A,Arthur,Bologna_H_1,12,2:0,15',1:0,Right-footed shot
+Serie A,Marash Kumbulla,AC Milan_A_1,1,3:3,84',3:3,Tap-in
+Serie A,Lucas Martínez Quarta,Parma_H_1,19,3:3,28',1:0,Header
+Serie A,Adama Soumaoro,Crotone_A_1,20,2:3,62',2:1,Right-footed shot
+Serie A,Bram Nuytinck,Parma_A_1,19,2:2,80',2:2,Header
+Serie A,Koffi Djidji,Spezia Calcio_A_1,16,3:2,40',0:1,Right-footed shot
+Serie A,Bruno Alves,Sassuolo_H_1,8,1:3,32',1:1,Right-footed shot
+Serie A,Eduardo Henrique,Spezia Calcio_H_1,15,4:1,56',3:1,Right-footed shot
+Serie A,Andrea Poli,AC Milan_H_1,1,1:2,81',1:2,Right-footed shot
+Serie A,Nicolas N'Koulou,Juventus_A_1,5,2:1,9',0:1,Right-footed shot
+Serie A,Amadou Diawara,Fiorentina_A_1,14,1:2,88',1:2,Right-footed shot
+Serie A,Simon Sohm,Atalanta BC_H_1,2,2:5,88',2:4,Right-footed shot
+Serie A,Andrés Tello,Torino_A_1,17,1:1,72',1:1,Header
+Serie A,Fikayo Tomori,Juventus_A_1,3,0:3,82',0:3,Header
+Serie A,Fernando Llorente,Sassuolo_H_1,9,2:0,42',1:0,Right-footed shot
+Serie A,Lennart Czyborra,Crotone_A_1,20,0:3,29',0:2,Left-footed shot
+Serie A,Stefano Sturaro,Juventus_H_1,4,1:3,61',1:1,
+Serie A,Mehdi Bourabia,Cagliari Calcio_H_1,16,1:1,87',1:1,Direct free kick
+Serie A,Pierre Kalulu,Genoa_A_1,19,2:2,83',2:2,Right-footed shot
+Serie A,Andrea Pinamonti,Sampdoria_H_1,9,5:1,61',4:1,Right-footed shot
+Serie A,Ibrahima Mbaye,Lazio_H_1,6,2:0,19',1:0,Tap-in
+Serie A,Federico Fazio,Cagliari Calcio_A_1,18,3:2,69',3:2,Header
+Serie A,Ernesto Torregrossa,Udinese Calcio_H_1,15,2:1,81',2:1,Header
+Serie A,Nehuén Paz,Atalanta BC_H_1,7,2:2,82',2:2,Header
+Serie A,Jayden Braaf,Benevento_A_1,17,2:4,73',1:4,Left-footed shot

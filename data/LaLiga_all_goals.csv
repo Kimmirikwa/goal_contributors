@@ -1,0 +1,833 @@
+league,player,team_venue_goal_number,opponent_position,final_score,minute,current_score,goal_type
+LaLiga,Lionel Messi,Villarreal_H_1,6,4:0,35',3:0,Penalty
+LaLiga,Lionel Messi,Real Betis_H_1,8,5:2,61',3:1,Penalty
+LaLiga,Lionel Messi,CA Osasuna_H_1,14,4:0,73',4:0,Left-footed shot
+LaLiga,Lionel Messi,Levante_H_1,17,1:0,76',1:0,Left-footed shot
+LaLiga,Lionel Messi,Valencia_H_1,14,2:2,45'+4,1:1,Header
+LaLiga,Lionel Messi,Real Valladolid_A_1,18,0:3,65',0:3,Left-footed shot
+LaLiga,Lionel Messi,Athletic_A_1,18,2:3,38',1:2,Left-footed shot
+LaLiga,Lionel Messi,Granada CF_A_1,7,0:4,35',0:2,Left-footed shot
+LaLiga,Lionel Messi,Athletic_H_1,11,2:1,20',1:0,Direct free kick
+LaLiga,Lionel Messi,Real Betis_A_1,7,2:3,59',1:1,Left-footed shot
+LaLiga,Lionel Messi,Alavés_H_1,15,5:1,45'+1,2:0,Left-footed shot
+LaLiga,Lionel Messi,Cádiz CF_H_1,15,1:1,32',1:0,Penalty
+LaLiga,Lionel Messi,Elche CF_H_1,17,3:0,48',1:0,Left-footed shot
+LaLiga,Lionel Messi,Sevilla FC_A_1,3,0:2,85',0:2,Right-footed shot
+LaLiga,Lionel Messi,SD Huesca_H_1,20,4:1,13',1:0,Left-footed shot
+LaLiga,Lionel Messi,Real Sociedad_A_1,5,1:6,56',0:4,Left-footed shot
+LaLiga,Lionel Messi,Getafe_H_1,15,5:2,8',1:0,Left-footed shot
+LaLiga,Lionel Messi,Granada CF_H_1,8,1:2,23',1:0,Left-footed shot
+LaLiga,Lionel Messi,Valencia_A_1,14,2:3,57',1:1,Left-footed shot
+LaLiga,Lionel Messi,Levante_A_1,14,3:3,25',0:1,Left-footed shot
+LaLiga,Lionel Messi,Celta de Vigo_H_1,8,1:2,28',1:0,Header
+LaLiga,Karim Benzema,Levante_A_1,13,0:2,90'+5,0:2,Counter attack goal
+LaLiga,Karim Benzema,SD Huesca_H_1,19,4:1,45',2:0,Left-footed shot
+LaLiga,Karim Benzema,Valencia_A_1,14,4:1,23',0:1,Right-footed shot
+LaLiga,Karim Benzema,Athletic_H_1,12,3:1,74',2:1,Header
+LaLiga,Karim Benzema,SD Eibar_A_1,11,1:3,6',0:1,Left-footed shot
+LaLiga,Karim Benzema,Granada CF_H_1,6,2:0,90'+3,2:0,Counter attack goal
+LaLiga,Karim Benzema,Alavés_A_1,17,1:4,41',0:2,Right-footed shot
+LaLiga,Karim Benzema,Getafe_H_1,15,2:0,60',1:0,Header
+LaLiga,Karim Benzema,Valencia_H_1,13,2:0,12',1:0,Right-footed shot
+LaLiga,Karim Benzema,Atlético Madrid_A_1,1,1:1,88',1:1,Right-footed shot
+LaLiga,Karim Benzema,Elche CF_H_1,17,2:1,73',1:1,Header
+LaLiga,Karim Benzema,Celta de Vigo_A_1,10,1:3,20',0:1,Right-footed shot
+LaLiga,Karim Benzema,SD Eibar_H_1,19,2:0,73',2:0,Header
+LaLiga,Karim Benzema,Barcelona_H_1,2,2:1,13',1:0,Right-footed shot
+LaLiga,Karim Benzema,Cádiz CF_A_1,12,0:3,30',0:1,Penalty
+LaLiga,Karim Benzema,Granada CF_A_1,10,1:4,76',1:4,Right-footed shot
+LaLiga,Karim Benzema,Villarreal_H_1,7,2:1,87',1:1,Right-footed shot
+LaLiga,Gerard Moreno,SD Huesca_H_1,18,1:1,68',1:1,Penalty
+LaLiga,Gerard Moreno,SD Eibar_H_1,12,2:1,63',1:1,Right-footed shot
+LaLiga,Gerard Moreno,Alavés_H_1,19,3:1,45',2:1,Penalty
+LaLiga,Gerard Moreno,Getafe_A_1,9,1:3,62',1:3,Right-footed shot
+LaLiga,Gerard Moreno,Real Madrid_H_1,3,1:1,76',1:1,Penalty
+LaLiga,Gerard Moreno,Real Sociedad_A_1,2,1:1,6',0:1,Penalty
+LaLiga,Gerard Moreno,CA Osasuna_A_1,20,1:3,7',0:1,Left-footed shot
+LaLiga,Gerard Moreno,Levante_H_1,9,2:1,54',2:0,Right-footed shot
+LaLiga,Gerard Moreno,Celta de Vigo_A_1,8,0:4,5',0:1,Left-footed shot
+LaLiga,Gerard Moreno,Elche CF_A_1,19,2:2,16',0:1,Left-footed shot
+LaLiga,Gerard Moreno,Real Betis_H_1,8,1:2,65',1:2,Penalty
+LaLiga,Gerard Moreno,Athletic_A_1,10,1:1,16',0:1,Left-footed shot
+LaLiga,Gerard Moreno,Valencia_A_1,14,2:1,40',0:1,Penalty
+LaLiga,Gerard Moreno,Cádiz CF_H_1,14,2:1,5',1:0,Penalty
+LaLiga,Gerard Moreno,Granada CF_A_1,8,0:3,9',0:1,Penalty
+LaLiga,Gerard Moreno,Levante_A_1,11,1:5,13',0:2,Left-footed shot
+LaLiga,Gerard Moreno,Celta de Vigo_H_1,10,2:4,87',2:4,Penalty
+LaLiga,Gerard Moreno,Real Valladolid_A_1,17,0:2,68',0:1,Left-footed shot
+LaLiga,Gerard Moreno,Sevilla FC_H_1,4,4:0,66',3:0,Left-footed shot
+LaLiga,Luis Suárez,Granada CF_H_1,2,6:1,85',5:0,Header
+LaLiga,Luis Suárez,Celta de Vigo_A_1,13,0:2,6',0:1,Left-footed shot
+LaLiga,Luis Suárez,Real Betis_H_1,10,2:0,90'+1,2:0,Left-footed shot
+LaLiga,Luis Suárez,Cádiz CF_H_1,7,4:0,51',3:0,Left-footed shot
+LaLiga,Luis Suárez,Elche CF_H_1,12,3:1,41',1:0,Right-footed shot
+LaLiga,Luis Suárez,Getafe_H_1,13,1:0,20',1:0,Header
+LaLiga,Luis Suárez,Alavés_A_1,12,1:2,90',1:2,Right-footed shot
+LaLiga,Luis Suárez,SD Eibar_A_1,15,1:2,40',1:1,Right-footed shot
+LaLiga,Luis Suárez,Valencia_H_1,14,3:1,54',2:1,Right-footed shot
+LaLiga,Luis Suárez,Cádiz CF_A_1,10,2:4,28',0:1,Direct free kick
+LaLiga,Luis Suárez,Celta de Vigo_H_1,10,2:2,45',1:1,Right-footed shot
+LaLiga,Luis Suárez,Real Madrid_H_1,2,1:1,15',1:0,Right-footed shot
+LaLiga,Luis Suárez,Athletic_H_1,9,2:1,51',2:1,Penalty
+LaLiga,Luis Suárez,Alavés_H_1,18,1:0,54',1:0,Header
+LaLiga,Luis Suárez,CA Osasuna_H_1,11,2:1,88',2:1,Right-footed shot
+LaLiga,Luis Suárez,Real Valladolid_A_1,19,1:2,67',1:2,Left-footed shot
+LaLiga,Youssef En-Nesyri,Levante_H_1,12,1:0,90'+2,1:0,Header
+LaLiga,Youssef En-Nesyri,Athletic_A_1,16,2:1,9',0:1,Left-footed shot
+LaLiga,Youssef En-Nesyri,Celta de Vigo_H_1,17,4:2,45'+3,2:2,Header
+LaLiga,Youssef En-Nesyri,SD Huesca_A_1,19,0:1,83',0:1,Right-footed shot
+LaLiga,Youssef En-Nesyri,Villarreal_H_1,5,2:0,53',2:0,Counter attack goal
+LaLiga,Youssef En-Nesyri,Real Sociedad_H_1,4,3:2,4',1:0,Right-footed shot
+LaLiga,Youssef En-Nesyri,Alavés_A_1,16,1:2,3',0:1,Right-footed shot
+LaLiga,Youssef En-Nesyri,Cádiz CF_H_1,9,3:0,35',1:0,Left-footed shot
+LaLiga,Youssef En-Nesyri,Getafe_H_1,12,3:0,89',3:0,Left-footed shot
+LaLiga,Youssef En-Nesyri,Real Betis_H_1,6,1:0,27',1:0,Right-footed shot
+LaLiga,Youssef En-Nesyri,Elche CF_H_1,20,2:0,43',1:0,Header
+LaLiga,Youssef En-Nesyri,Real Sociedad_A_1,5,1:2,24',1:2,Right-footed shot
+LaLiga,Youssef En-Nesyri,Levante_A_1,9,0:1,53',0:1,Counter attack goal
+LaLiga,Youssef En-Nesyri,Valencia_H_1,13,1:0,66',1:0,
+LaLiga,Alexander Isak,SD Huesca_H_1,16,4:1,75',4:1,Right-footed shot
+LaLiga,Alexander Isak,Cádiz CF_A_1,7,0:1,66',0:1,Header
+LaLiga,Alexander Isak,Levante_A_1,18,2:1,22',0:1,Direct free kick
+LaLiga,Alexander Isak,Sevilla FC_A_1,5,3:2,14',2:2,Left-footed shot
+LaLiga,Alexander Isak,Real Betis_H_1,8,2:2,48',1:0,Left-footed shot
+LaLiga,Alexander Isak,Villarreal_A_1,5,1:1,90'+3,1:1,Right-footed shot
+LaLiga,Alexander Isak,Cádiz CF_H_1,13,4:1,54',3:0,Right-footed shot
+LaLiga,Alexander Isak,Getafe_A_1,12,0:1,30',0:1,Header
+LaLiga,Alexander Isak,Alavés_H_1,16,4:0,41',1:0,Right-footed shot
+LaLiga,Alexander Isak,Valencia_A_1,12,2:2,45',0:2,Left-footed shot
+LaLiga,Alexander Isak,SD Eibar_A_1,20,0:1,26',0:1,Left-footed shot
+LaLiga,Alexander Isak,Real Valladolid_H_1,18,4:1,6',1:0,Right-footed shot
+LaLiga,Alexander Isak,CA Osasuna_A_1,11,0:1,86',0:1,Right-footed shot
+LaLiga,Iago Aspas,Valencia_H_1,2,2:1,13',1:0,Right-footed shot
+LaLiga,Iago Aspas,Real Valladolid_A_1,16,1:1,44',0:1,Right-footed shot
+LaLiga,Iago Aspas,Real Sociedad_H_1,4,1:4,77',1:3,Penalty
+LaLiga,Iago Aspas,Sevilla FC_A_1,8,4:2,10',1:1,Left-footed shot
+LaLiga,Iago Aspas,Athletic_A_1,10,0:2,78',0:2,Right-footed shot
+LaLiga,Iago Aspas,Cádiz CF_H_1,8,4:0,31',2:0,Penalty
+LaLiga,Iago Aspas,Getafe_A_1,11,1:1,17',1:1,Penalty
+LaLiga,Iago Aspas,SD Huesca_H_1,19,2:1,61',2:0,Right-footed shot
+LaLiga,Iago Aspas,Alavés_A_1,18,1:3,14',0:2,Left-footed shot
+LaLiga,Iago Aspas,Sevilla FC_H_1,4,3:4,20',1:1,Penalty
+LaLiga,Iago Aspas,CA Osasuna_H_1,11,2:1,42',1:0,
+LaLiga,Iago Aspas,Real Betis_H_1,6,2:3,32',1:0,Penalty
+LaLiga,Antoine Griezmann,Alavés_A_1,15,1:1,63',1:1,Left-footed shot
+LaLiga,Antoine Griezmann,Real Betis_H_1,8,5:2,49',2:1,Left-footed shot
+LaLiga,Antoine Griezmann,CA Osasuna_H_1,14,4:0,42',2:0,Left-footed shot
+LaLiga,Antoine Griezmann,Granada CF_A_1,7,0:4,12',0:1,Left-footed shot
+LaLiga,Antoine Griezmann,Athletic_H_1,11,2:1,74',2:1,Left-footed shot
+LaLiga,Antoine Griezmann,SD Huesca_H_1,20,4:1,35',2:0,Left-footed shot
+LaLiga,Antoine Griezmann,Real Sociedad_A_1,5,1:6,37',0:1,Left-footed shot
+LaLiga,Antoine Griezmann,Getafe_H_1,15,5:2,90'+3,5:2,Penalty
+LaLiga,Antoine Griezmann,Villarreal_A_1,7,1:2,28',1:1,Left-footed shot
+LaLiga,Antoine Griezmann,Valencia_A_1,14,2:3,63',1:2,Left-footed shot
+LaLiga,Antoine Griezmann,SD Eibar_A_1,20,0:1,81',0:1,Left-footed shot
+LaLiga,José Luis Morales,Valencia_A_1,13,4:2,1',0:1,Right-footed shot
+LaLiga,José Luis Morales,CA Osasuna_A_1,10,1:3,81',1:3,Left-footed shot
+LaLiga,José Luis Morales,Alavés_H_1,15,1:1,51',1:1,Right-footed shot
+LaLiga,José Luis Morales,Real Betis_H_1,9,4:3,22',2:1,Right-footed shot
+LaLiga,José Luis Morales,SD Eibar_H_1,13,2:1,76',2:1,Right-footed shot
+LaLiga,José Luis Morales,Real Madrid_A_1,2,1:2,32',1:1,Right-footed shot
+LaLiga,José Luis Morales,Granada CF_H_1,8,2:2,30',1:0,
+LaLiga,José Luis Morales,Alavés_A_1,16,2:2,36',1:1,Tap-in
+LaLiga,José Luis Morales,Barcelona_H_1,3,3:3,59',2:2,Left-footed shot
+LaLiga,Rafa Mir,Real Valladolid_H_1,20,2:2,52',1:2,Right-footed shot
+LaLiga,Rafa Mir,Real Sociedad_A_1,5,4:1,46',1:1,Header
+LaLiga,Rafa Mir,SD Eibar_H_1,16,1:1,67',1:1,Header
+LaLiga,Rafa Mir,Real Valladolid_A_1,16,1:3,37',0:1,Header
+LaLiga,Rafa Mir,Celta de Vigo_H_1,10,3:4,16',2:1,
+LaLiga,Rafa Mir,Barcelona_A_1,2,4:1,45'+4,2:1,Penalty
+LaLiga,Rafa Mir,Levante_A_1,10,0:2,15',0:1,Left-footed shot
+LaLiga,Rafa Mir,Elche CF_H_1,17,3:1,3',1:0,Header
+LaLiga,Rafa Mir,Cádiz CF_A_1,12,2:1,45'+1,1:1,Right-footed shot
+LaLiga,Marcos Llorente,Granada CF_H_1,2,6:1,72',4:0,Right-footed shot
+LaLiga,Marcos Llorente,Real Betis_H_1,10,2:0,46',1:0,Left-footed shot
+LaLiga,Marcos Llorente,Cádiz CF_H_1,7,4:0,22',2:0,Right-footed shot
+LaLiga,Marcos Llorente,Real Valladolid_H_1,18,2:0,72',2:0,Right-footed shot
+LaLiga,Marcos Llorente,Real Sociedad_A_1,3,0:2,74',0:2,Left-footed shot
+LaLiga,Marcos Llorente,Alavés_A_1,12,1:2,41',0:1,Counter attack goal
+LaLiga,Marcos Llorente,Granada CF_A_1,7,1:2,63',0:1,Left-footed shot
+LaLiga,Marcos Llorente,Levante_A_1,15,1:1,37',1:1,Right-footed shot
+LaLiga,Marcos Llorente,Athletic_H_1,9,2:1,45'+2,1:1,Header
+LaLiga,Marcos Llorente,SD Eibar_H_1,20,5:0,53',4:0,Right-footed shot
+LaLiga,Marcos Llorente,Elche CF_A_1,17,0:1,23',0:1,Right-footed shot
+LaLiga,Santi Mina,Elche CF_A_1,12,1:1,41',1:1,Counter attack goal
+LaLiga,Santi Mina,Real Betis_A_1,9,2:1,15',0:1,Right-footed shot
+LaLiga,Santi Mina,Atlético Madrid_A_1,1,2:2,13',0:1,Header
+LaLiga,Santi Mina,Elche CF_H_1,19,3:1,45',1:0,Right-footed shot
+LaLiga,Santi Mina,SD Huesca_A_1,20,3:4,5',0:1,
+LaLiga,Santi Mina,Real Madrid_H_1,3,1:3,40',1:2,Header
+LaLiga,Santi Mina,Alavés_A_1,18,1:3,20',0:3,Counter attack goal
+LaLiga,Santi Mina,Villarreal_A_1,6,2:4,19',0:1,Header
+LaLiga,Santi Mina,Barcelona_A_1,3,1:2,38',1:1,Right-footed shot
+LaLiga,Roger Martí,CA Osasuna_A_1,10,1:3,77',1:2,Right-footed shot
+LaLiga,Roger Martí,Celta de Vigo_H_1,17,1:1,48',1:0,Penalty
+LaLiga,Roger Martí,Getafe_H_1,12,3:0,5',1:0,Right-footed shot
+LaLiga,Roger Martí,Real Sociedad_H_1,2,2:1,28',1:1,Right-footed shot
+LaLiga,Roger Martí,Real Betis_H_1,9,4:3,55',4:1,Right-footed shot
+LaLiga,Roger Martí,Cádiz CF_A_1,10,2:2,8',1:1,Right-footed shot
+LaLiga,Roger Martí,Real Valladolid_H_1,16,2:2,83',2:2,Right-footed shot
+LaLiga,Roger Martí,Real Madrid_A_1,2,1:2,78',1:2,Right-footed shot
+LaLiga,Roger Martí,Athletic_H_1,11,1:1,33',1:0,Penalty
+LaLiga,Roger Martí,Valencia_H_1,12,1:0,18',1:0,Left-footed shot
+LaLiga,Roger Martí,Cádiz CF_H_1,12,2:2,8',1:0,Right-footed shot
+LaLiga,Kike García,Villarreal_A_1,8,2:1,50',0:1,Left-footed shot
+LaLiga,Kike García,Athletic_H_1,19,1:2,48',1:1,Header
+LaLiga,Kike García,Sevilla FC_A_1,8,0:1,41',0:1,Right-footed shot
+LaLiga,Kike García,Real Madrid_H_1,3,1:3,28',1:2,Right-footed shot
+LaLiga,Kike García,Barcelona_A_1,3,1:1,57',0:1,Left-footed shot
+LaLiga,Kike García,CA Osasuna_A_1,18,2:1,44',1:1,Right-footed shot
+LaLiga,Kike García,Real Valladolid_H_1,18,1:1,23',1:1,Header
+LaLiga,Kike García,Athletic_A_1,11,1:1,17',1:1,Right-footed shot
+LaLiga,Kike García,Granada CF_A_1,8,4:1,64',2:1,Right-footed shot
+LaLiga,Kike García,Alavés_H_1,16,3:0,3',1:0,Right-footed shot
+LaLiga,Mikel Oyarzabal,Getafe_H_1,7,3:0,28',1:0,Penalty
+LaLiga,Mikel Oyarzabal,Real Betis_A_1,6,0:3,74',0:2,Penalty
+LaLiga,Mikel Oyarzabal,SD Huesca_H_1,16,4:1,35',1:0,Penalty
+LaLiga,Mikel Oyarzabal,Celta de Vigo_A_1,17,1:4,34',0:2,Right-footed shot
+LaLiga,Mikel Oyarzabal,Granada CF_H_1,4,2:0,27',2:0,Penalty
+LaLiga,Mikel Oyarzabal,Villarreal_H_1,4,1:1,33',1:1,Penalty
+LaLiga,Mikel Oyarzabal,Real Betis_H_1,8,2:2,57',2:0,Left-footed shot
+LaLiga,Mikel Oyarzabal,Cádiz CF_H_1,13,4:1,26',1:0,Penalty
+LaLiga,Mikel Oyarzabal,Elche CF_H_1,19,2:0,90'+2,2:0,Left-footed shot
+LaLiga,Carlos Soler,Getafe_H_1,9,2:2,90'+10,2:2,Penalty
+LaLiga,Carlos Soler,Real Madrid_H_1,1,4:1,35',1:1,Penalty
+LaLiga,Carlos Soler,Athletic_H_1,16,2:2,26',1:0,Penalty
+LaLiga,Carlos Soler,Real Valladolid_A_1,15,0:1,76',0:1,Right-footed shot
+LaLiga,Carlos Soler,Villarreal_H_1,7,2:1,86',1:1,Penalty
+LaLiga,Carlos Soler,Real Betis_A_1,6,2:2,61',2:2,Penalty
+LaLiga,Carlos Soler,Barcelona_H_1,3,2:3,83',2:3,Right-footed shot
+LaLiga,Carlos Soler,SD Eibar_H_1,20,4:1,19',2:0,Left-footed shot
+LaLiga,Joselu,Granada CF_A_1,5,2:1,22',1:1,Direct free kick
+LaLiga,Joselu,Real Madrid_A_1,3,1:2,49',0:2,Left-footed shot
+LaLiga,Joselu,Cádiz CF_A_1,11,3:1,23',1:1,Penalty
+LaLiga,Joselu,Real Madrid_H_1,2,1:4,59',1:3,Header
+LaLiga,Joselu,Real Valladolid_H_1,16,1:0,66',1:0,Right-footed shot
+LaLiga,Joselu,Real Betis_A_1,6,3:2,12',0:1,Direct free kick
+LaLiga,Joselu,Cádiz CF_H_1,14,1:1,36',1:0,Penalty
+LaLiga,Joselu,Villarreal_H_1,7,2:1,17',1:0,Header
+LaLiga,Joselu,Levante_H_1,13,2:2,88',2:2,Header
+LaLiga,Joselu,Elche CF_A_1,19,0:2,40',0:1,Right-footed shot
+LaLiga,Joselu,Granada CF_H_1,10,4:2,66',3:2,Left-footed shot
+LaLiga,Ante Budimir,Atlético Madrid_H_1,3,1:3,80',1:2,Header
+LaLiga,Ante Budimir,Real Valladolid_A_1,19,3:2,27',1:1,Header
+LaLiga,Ante Budimir,Granada CF_H_1,7,3:1,27',1:0,Left-footed shot
+LaLiga,Ante Budimir,SD Eibar_H_1,15,2:1,86',2:1,
+LaLiga,Ante Budimir,Levante_A_1,9,0:1,74',0:1,Left-footed shot
+LaLiga,Ante Budimir,Villarreal_A_1,7,1:2,74',1:2,Header
+LaLiga,Ante Budimir,Athletic_A_1,9,2:2,89',2:2,Header
+LaLiga,Ante Budimir,Cádiz CF_H_1,11,3:2,38',1:0,Header
+LaLiga,Ante Budimir,Atlético Madrid_A_1,1,2:1,75',0:1,Header
+LaLiga,Borja Iglesias,CA Osasuna_A_1,16,0:2,76',0:1,Counter attack goal
+LaLiga,Borja Iglesias,CA Osasuna_H_1,17,1:0,79',1:0,Left-footed shot
+LaLiga,Borja Iglesias,Barcelona_H_1,3,2:3,38',1:0,Left-footed shot
+LaLiga,Borja Iglesias,Getafe_H_1,13,1:0,84',1:0,Penalty
+LaLiga,Borja Iglesias,Alavés_H_1,16,3:2,61',1:2,Penalty
+LaLiga,Borja Iglesias,Elche CF_A_1,17,1:1,14',0:1,Penalty
+LaLiga,Borja Iglesias,Granada CF_H_1,8,2:1,39',1:0,Right-footed shot
+LaLiga,Borja Iglesias,SD Huesca_H_1,17,1:0,57',1:0,Penalty
+LaLiga,Borja Iglesias,Celta de Vigo_A_1,8,2:3,53',2:1,Penalty
+LaLiga,Ángel Correa,Granada CF_H_1,2,6:1,47',2:0,Left-footed shot
+LaLiga,Ángel Correa,Sevilla FC_H_1,4,2:0,17',1:0,Left-footed shot
+LaLiga,Ángel Correa,Valencia_H_1,14,3:1,72',3:1,Right-footed shot
+LaLiga,Ángel Correa,Granada CF_A_1,7,1:2,74',1:2,Right-footed shot
+LaLiga,Ángel Correa,SD Eibar_H_1,20,5:0,42',1:0,Right-footed shot
+LaLiga,Ángel Correa,SD Huesca_H_1,16,2:0,39',1:0,Left-footed shot
+LaLiga,Ángel Correa,Real Sociedad_H_1,5,2:1,28',2:0,Right-footed shot
+LaLiga,Ángel Correa,Real Valladolid_A_1,19,1:2,57',1:1,Right-footed shot
+LaLiga,Brais Méndez,Cádiz CF_H_1,8,4:0,45'+1,4:0,Header
+LaLiga,Brais Méndez,Alavés_H_1,13,2:0,19',1:0,Header
+LaLiga,Brais Méndez,SD Eibar_H_1,15,1:1,9',1:0,Left-footed shot
+LaLiga,Brais Méndez,Elche CF_H_1,19,3:1,45'+2,2:0,Left-footed shot
+LaLiga,Brais Méndez,Sevilla FC_H_1,4,3:4,43',3:2,Left-footed shot
+LaLiga,Brais Méndez,Levante_H_1,12,2:0,51',1:0,
+LaLiga,Brais Méndez,Villarreal_A_1,6,2:4,45'+3,1:3,Penalty
+LaLiga,Brais Méndez,Real Betis_H_1,6,2:3,49',2:0,Left-footed shot
+LaLiga,Roberto Soldado,Alavés_H_1,14,2:1,7',1:0,Right-footed shot
+LaLiga,Roberto Soldado,Real Betis_H_1,10,2:0,14',1:0,Penalty
+LaLiga,Roberto Soldado,Villarreal_A_1,5,2:2,21',0:1,Counter attack goal
+LaLiga,Roberto Soldado,Levante_A_1,9,2:2,90'+2,2:2,Header
+LaLiga,Roberto Soldado,Valencia_A_1,12,2:1,90',2:1,Right-footed shot
+LaLiga,Roberto Soldado,SD Eibar_H_1,20,4:1,21',1:0,Right-footed shot
+LaLiga,Roberto Soldado,Sevilla FC_A_1,4,2:1,90',2:1,Penalty
+LaLiga,Sergio Canales,Valencia_A_1,6,0:2,19',0:1,Right-footed shot
+LaLiga,Sergio Canales,Levante_A_1,14,4:3,78',4:2,Penalty
+LaLiga,Sergio Canales,Sevilla FC_H_1,4,1:1,53',1:1,Penalty
+LaLiga,Sergio Canales,Celta de Vigo_H_1,8,2:1,25',1:1,Right-footed shot
+LaLiga,Sergio Canales,Real Sociedad_A_1,6,2:2,85',2:1,Header
+LaLiga,Sergio Canales,Valencia_H_1,14,2:2,42',2:1,Left-footed shot
+LaLiga,Álex Berenguer,Levante_H_1,14,2:0,68',1:0,Left-footed shot
+LaLiga,Álex Berenguer,Real Betis_H_1,9,4:0,68',4:0,Left-footed shot
+LaLiga,Álex Berenguer,Getafe_H_1,12,5:1,75',4:1,Left-footed shot
+LaLiga,Álex Berenguer,Cádiz CF_A_1,14,0:4,4',0:1,Right-footed shot
+LaLiga,Álex Berenguer,Villarreal_H_1,6,1:1,44',1:1,Right-footed shot
+LaLiga,Álex Berenguer,Granada CF_H_1,8,2:1,90'+1,2:1,Left-footed shot
+LaLiga,Álex Berenguer,Atlético Madrid_H_1,1,2:1,8',1:0,Header
+LaLiga,Álvaro Negredo,SD Huesca_A_1,11,0:2,10',0:1,Right-footed shot
+LaLiga,Álvaro Negredo,SD Eibar_A_1,13,0:2,36',0:1,Header
+LaLiga,Álvaro Negredo,Barcelona_H_1,4,2:1,63',2:1,Left-footed shot
+LaLiga,Álvaro Negredo,Alavés_H_1,14,3:1,68',3:1,
+LaLiga,Álvaro Negredo,Atlético Madrid_H_1,1,2:4,35',1:1,Left-footed shot
+LaLiga,Álvaro Negredo,SD Eibar_H_1,17,1:0,40',1:0,Header
+LaLiga,Álvaro Negredo,Levante_A_1,14,2:2,14',1:1,Header
+LaLiga,Portu,Elche CF_A_1,20,0:3,55',0:1,Right-footed shot
+LaLiga,Portu,Getafe_H_1,7,3:0,81',3:0,Counter attack goal
+LaLiga,Portu,Real Betis_A_1,6,0:3,43',0:1,Right-footed shot
+LaLiga,Portu,SD Huesca_H_1,16,4:1,68',3:1,Right-footed shot
+LaLiga,Portu,Athletic_A_1,11,0:1,5',0:1,Right-footed shot
+LaLiga,Portu,Alavés_H_1,16,4:0,73',4:0,Right-footed shot
+LaLiga,Portu,Real Madrid_A_1,2,1:1,55',0:1,Header
+LaLiga,Portu,Celta de Vigo_H_1,10,2:1,25',1:1,Right-footed shot
+LaLiga,Jorge Molina,Atlético Madrid_A_1,4,6:1,87',5:1,Right-footed shot
+LaLiga,Jorge Molina,SD Huesca_H_1,20,3:3,88',2:3,Header
+LaLiga,Jorge Molina,Valencia_H_1,16,2:1,88',2:1,Header
+LaLiga,Jorge Molina,Athletic_A_1,11,2:1,78',1:1,Header
+LaLiga,Jorge Molina,Real Valladolid_A_1,16,1:2,78',1:1,Left-footed shot
+LaLiga,Jorge Molina,Barcelona_A_1,1,1:2,79',1:2,Header
+LaLiga,Jorge Molina,Real Madrid_H_1,2,1:4,71',1:2,Right-footed shot
+LaLiga,Jorge Molina,Alavés_A_1,15,4:2,31',2:1,Right-footed shot
+LaLiga,Nolito,Sevilla FC_A_1,8,4:2,36',1:2,Right-footed shot
+LaLiga,Nolito,Granada CF_H_1,6,3:1,27',1:1,Right-footed shot
+LaLiga,Nolito,Cádiz CF_H_1,8,4:0,6',1:0,Right-footed shot
+LaLiga,Nolito,SD Huesca_H_1,19,2:1,33',1:0,Right-footed shot
+LaLiga,Nolito,SD Huesca_A_1,20,3:4,37',2:2,
+LaLiga,Nolito,Alavés_A_1,18,1:3,8',0:1,Right-footed shot
+LaLiga,Nolito,Getafe_H_1,15,1:0,24',1:0,Left-footed shot
+LaLiga,João Félix,Granada CF_H_1,2,6:1,65',3:0,Right-footed shot
+LaLiga,João Félix,CA Osasuna_A_1,10,1:3,43',0:1,Penalty
+LaLiga,João Félix,Cádiz CF_H_1,7,4:0,8',1:0,Header
+LaLiga,João Félix,Valencia_H_1,14,3:1,23',1:1,Right-footed shot
+LaLiga,João Félix,Villarreal_A_1,6,0:2,69',0:2,Right-footed shot
+LaLiga,Maxi Gómez,Levante_H_1,14,4:2,39',2:2,Left-footed shot
+LaLiga,Maxi Gómez,Celta de Vigo_A_1,13,2:1,46',1:1,Right-footed shot
+LaLiga,Maxi Gómez,Real Sociedad_A_1,7,0:1,75',0:1,Left-footed shot
+LaLiga,Maxi Gómez,Barcelona_A_1,4,2:2,69',2:2,Right-footed shot
+LaLiga,Maxi Gómez,Cádiz CF_H_1,11,1:1,79',1:1,Header
+LaLiga,Maxi Gómez,Real Valladolid_H_1,17,3:0,45'+1,1:0,Right-footed shot
+LaLiga,Lucas Boyé,SD Eibar_A_1,18,0:1,37',0:1,Right-footed shot
+LaLiga,Lucas Boyé,Cádiz CF_H_1,8,1:1,38',1:0,Left-footed shot
+LaLiga,Lucas Boyé,Atlético Madrid_A_1,1,3:1,64',2:1,Header
+LaLiga,Lucas Boyé,Villarreal_H_1,5,2:2,64',2:2,Right-footed shot
+LaLiga,Lucas Boyé,Granada CF_A_1,9,2:1,40',1:1,
+LaLiga,Lucas Boyé,Levante_H_1,10,1:0,32',1:0,
+LaLiga,Lucas Boyé,Athletic_H_1,9,2:0,28',1:0,Right-footed shot
+LaLiga,Roberto Torres,Levante_H_1,15,1:3,38',1:0,Left-footed shot
+LaLiga,Roberto Torres,Real Valladolid_A_1,19,3:2,43',1:2,Left-footed shot
+LaLiga,Roberto Torres,Villarreal_H_1,5,1:3,70',1:2,Penalty
+LaLiga,Roberto Torres,Alavés_H_1,12,1:1,67',1:0,Counter attack goal
+LaLiga,Roberto Torres,Valencia_H_1,14,3:1,67',3:1,Penalty
+LaLiga,Roberto Torres,Celta de Vigo_A_1,12,2:1,77',2:1,Penalty
+LaLiga,Roberto Torres,Cádiz CF_H_1,11,3:2,86',3:1,Penalty
+LaLiga,Gonzalo Melero,CA Osasuna_A_1,10,1:3,41',1:1,Right-footed shot
+LaLiga,Gonzalo Melero,Elche CF_H_1,10,1:1,12',1:0,Header
+LaLiga,Gonzalo Melero,SD Huesca_A_1,19,1:1,53',1:1,Right-footed shot
+LaLiga,Gonzalo Melero,SD Eibar_H_1,13,2:1,65',1:1,Right-footed shot
+LaLiga,Gonzalo Melero,Barcelona_H_1,3,3:3,57',1:2,Header
+LaLiga,Gonzalo Melero,Getafe_A_1,16,2:1,30',1:1,Right-footed shot
+LaLiga,Gonzalo Melero,Cádiz CF_H_1,12,2:2,58',2:2,Right-footed shot
+LaLiga,Yannick Carrasco,Celta de Vigo_A_1,13,0:2,90'+5,0:2,Header
+LaLiga,Yannick Carrasco,Barcelona_H_1,5,1:0,45'+3,1:0,Right-footed shot
+LaLiga,Yannick Carrasco,Real Betis_A_1,6,1:1,5',0:1,Right-footed shot
+LaLiga,Yannick Carrasco,SD Eibar_H_1,20,5:0,49',3:0,Right-footed shot
+LaLiga,Yannick Carrasco,SD Huesca_H_1,16,2:0,80',2:0,Right-footed shot
+LaLiga,Yannick Carrasco,Real Sociedad_H_1,5,2:1,16',1:0,Right-footed shot
+LaLiga,Iñaki Williams,Levante_H_1,14,2:0,79',2:0,Right-footed shot
+LaLiga,Iñaki Williams,Real Valladolid_A_1,20,2:1,86',2:1,Penalty
+LaLiga,Iñaki Williams,Villarreal_A_1,4,1:1,19',0:1,Right-footed shot
+LaLiga,Iñaki Williams,Barcelona_H_1,1,2:3,3',1:0,Counter attack goal
+LaLiga,Iñaki Williams,Cádiz CF_A_1,14,0:4,52',0:4,Right-footed shot
+LaLiga,Iñaki Williams,Sevilla FC_A_1,4,0:1,90',0:1,Counter attack goal
+LaLiga,Casemiro,Alavés_H_1,15,1:2,86',1:2,Right-footed shot
+LaLiga,Casemiro,Atlético Madrid_H_1,1,2:0,15',1:0,Header
+LaLiga,Casemiro,Granada CF_H_1,6,2:0,57',1:0,Header
+LaLiga,Casemiro,Alavés_A_1,17,1:4,15',0:1,Header
+LaLiga,Casemiro,Real Valladolid_A_1,18,0:1,65',0:1,Header
+LaLiga,Casemiro,CA Osasuna_H_1,11,2:0,80',2:0,Right-footed shot
+LaLiga,Paco Alcácer,SD Eibar_H_1,12,2:1,71',2:1,Left-footed shot
+LaLiga,Paco Alcácer,Alavés_H_1,19,3:1,13',1:0,Right-footed shot
+LaLiga,Paco Alcácer,Valencia_H_1,9,2:1,6',1:0,Penalty
+LaLiga,Paco Alcácer,Getafe_A_1,9,1:3,11',0:1,Right-footed shot
+LaLiga,Paco Alcácer,Alavés_A_1,19,2:1,50',1:1,Right-footed shot
+LaLiga,Fidel,Valencia_H_1,11,2:1,37',2:0,Left-footed shot
+LaLiga,Fidel,Celta de Vigo_H_1,17,1:1,4',1:0,Penalty
+LaLiga,Fidel,CA Osasuna_H_1,20,2:2,46',1:1,Left-footed shot
+LaLiga,Fidel,Real Madrid_H_1,2,1:1,52',1:1,Penalty
+LaLiga,Fidel,Real Valladolid_H_1,17,1:1,22',1:0,Right-footed shot
+LaLiga,Fidel,Cádiz CF_A_1,12,1:3,88',1:3,Left-footed shot
+LaLiga,Ousmane Dembélé,Real Betis_H_1,8,5:2,22',1:0,Left-footed shot
+LaLiga,Ousmane Dembélé,SD Eibar_H_1,17,1:1,67',1:1,Right-footed shot
+LaLiga,Ousmane Dembélé,Sevilla FC_A_1,3,0:2,29',0:1,Left-footed shot
+LaLiga,Ousmane Dembélé,Real Sociedad_A_1,5,1:6,71',0:5,Left-footed shot
+LaLiga,Ousmane Dembélé,Real Valladolid_H_1,16,1:0,90',1:0,Left-footed shot
+LaLiga,Ousmane Dembélé,Levante_A_1,14,3:3,64',2:3,Right-footed shot
+LaLiga,Shon Weissman,CA Osasuna_H_1,18,3:2,7',1:0,Right-footed shot
+LaLiga,Shon Weissman,Getafe_A_1,14,0:1,37',0:1,Right-footed shot
+LaLiga,Shon Weissman,Getafe_H_1,13,2:1,24',2:0,Counter attack goal
+LaLiga,Shon Weissman,Athletic_A_1,9,2:2,85',2:2,Right-footed shot
+LaLiga,Shon Weissman,Real Betis_H_1,6,1:1,68',1:1,Header
+LaLiga,Fabián Orellana,Athletic_H_1,13,2:1,19',1:0,Penalty
+LaLiga,Fabián Orellana,CA Osasuna_H_1,18,3:2,56',2:2,Penalty
+LaLiga,Fabián Orellana,Celta de Vigo_A_1,10,1:1,70',0:1,Left-footed shot
+LaLiga,Fabián Orellana,Sevilla FC_H_1,4,1:1,44',1:0,Penalty
+LaLiga,Fabián Orellana,Granada CF_H_1,9,1:2,41',1:0,Penalty
+LaLiga,Fabián Orellana,Athletic_A_1,9,2:2,70',1:1,Header
+LaLiga,Nabil Fekir,Real Valladolid_H_1,10,2:0,10',1:0,Penalty
+LaLiga,Nabil Fekir,Villarreal_A_1,5,1:2,45',0:1,Right-footed shot
+LaLiga,Nabil Fekir,Levante_H_1,9,2:0,70',1:0,Right-footed shot
+LaLiga,Nabil Fekir,Valencia_H_1,14,2:2,12',1:0,Left-footed shot
+LaLiga,Nabil Fekir,Celta de Vigo_A_1,8,2:3,69',2:2,Direct free kick
+LaLiga,Gonçalo Guedes,Villarreal_A_1,8,2:1,37',1:1,Right-footed shot
+LaLiga,Gonçalo Guedes,Villarreal_H_1,7,2:1,90'+1,2:1,Counter attack goal
+LaLiga,Gonçalo Guedes,Real Betis_A_1,6,2:2,22',1:1,Right-footed shot
+LaLiga,Gonçalo Guedes,SD Eibar_H_1,20,4:1,3',1:0,Left-footed shot
+LaLiga,Óscar Plano,Granada CF_A_1,6,1:3,45'+2,0:1,Header
+LaLiga,Óscar Plano,Levante_A_1,10,2:2,78',1:2,Left-footed shot
+LaLiga,Óscar Plano,Getafe_H_1,13,2:1,14',1:0,Header
+LaLiga,Óscar Plano,Cádiz CF_H_1,13,1:1,14',1:0,Left-footed shot
+LaLiga,Óscar Plano,Atlético Madrid_H_1,1,1:2,18',1:0,Counter attack goal
+LaLiga,Lucas Ocampos,CA Osasuna_H_1,10,1:0,59',1:0,Penalty
+LaLiga,Lucas Ocampos,Real Valladolid_H_1,16,1:1,31',1:0,Penalty
+LaLiga,Lucas Ocampos,Villarreal_H_1,5,2:0,8',1:0,Penalty
+LaLiga,Lucas Ocampos,SD Eibar_A_1,14,0:2,28',0:1,Penalty
+LaLiga,Lucas Ocampos,Granada CF_H_1,8,2:1,53',2:0,Right-footed shot
+LaLiga,Iker Muniain,Sevilla FC_H_1,8,2:1,76',1:1,Right-footed shot
+LaLiga,Iker Muniain,Real Betis_H_1,9,4:0,59',3:0,Header
+LaLiga,Iker Muniain,Elche CF_H_1,15,1:0,25',1:0,Right-footed shot
+LaLiga,Iker Muniain,Barcelona_H_1,1,2:3,90',2:3,Right-footed shot
+LaLiga,Iker Muniain,Atlético Madrid_A_1,1,2:1,21',0:1,Left-footed shot
+LaLiga,Luka Modric,Barcelona_A_1,1,1:3,90',1:3,Right-footed shot
+LaLiga,Luka Modric,SD Eibar_A_1,11,1:3,13',0:2,Right-footed shot
+LaLiga,Luka Modric,Elche CF_A_1,15,1:1,20',0:1,Header
+LaLiga,Luka Modric,Granada CF_A_1,10,1:4,17',0:1,Left-footed shot
+LaLiga,Luka Modric,Villarreal_H_1,7,2:1,90'+2,2:1,Left-footed shot
+LaLiga,Cristian Tello,Alavés_A_1,16,0:1,90'+5,0:1,Left-footed shot
+LaLiga,Cristian Tello,Valencia_A_1,6,0:2,74',0:2,Deflected shot on goal
+LaLiga,Cristian Tello,Elche CF_H_1,11,3:1,29',2:0,Right-footed shot
+LaLiga,Cristian Tello,Atlético Madrid_H_1,1,1:1,20',1:1,Right-footed shot
+LaLiga,Marco Asensio,Celta de Vigo_H_1,8,2:0,53',2:0,Left-footed shot
+LaLiga,Marco Asensio,Levante_H_1,12,1:2,13',1:0,Counter attack goal
+LaLiga,Marco Asensio,Celta de Vigo_A_1,10,1:3,90'+4,1:3,Right-footed shot
+LaLiga,Marco Asensio,SD Eibar_H_1,19,2:0,41',1:0,Left-footed shot
+LaLiga,Marco Asensio,Sevilla FC_H_1,4,2:2,67',1:1,Left-footed shot
+LaLiga,Jonathan Calleri,Celta de Vigo_H_1,12,2:0,76',2:0,
+LaLiga,Jonathan Calleri,Real Sociedad_A_1,3,1:1,20',0:1,Right-footed shot
+LaLiga,Jonathan Calleri,Valencia_A_1,14,1:1,42',0:1,Right-footed shot
+LaLiga,Jonathan Calleri,SD Eibar_H_1,15,2:1,18',1:0,Right-footed shot
+LaLiga,Jonathan Calleri,Valencia_H_1,14,3:1,32',2:1,Right-footed shot
+LaLiga,Raúl García,Valencia_A_1,15,2:2,79',1:2,Penalty
+LaLiga,Raúl García,Getafe_H_1,12,5:1,12',1:1,Right-footed shot
+LaLiga,Raúl García,Levante_A_1,8,1:1,56',1:1,Penalty
+LaLiga,Raúl García,Real Valladolid_H_1,17,2:2,76',2:1,Counter attack goal
+LaLiga,Ángel Rodríguez,Real Betis_H_1,5,3:0,13',1:0,Right-footed shot
+LaLiga,Ángel Rodríguez,Valencia_A_1,14,2:2,90'+4,1:2,Right-footed shot
+LaLiga,Ángel Rodríguez,Athletic_H_1,11,1:1,75',1:1,
+LaLiga,Ángel Rodríguez,Elche CF_A_1,17,1:3,86',1:3,Penalty
+LaLiga,Edgar Méndez,Villarreal_A_1,10,3:1,37',1:1,Left-footed shot
+LaLiga,Edgar Méndez,SD Eibar_H_1,14,2:1,41',1:1,Counter attack goal
+LaLiga,Edgar Méndez,Sevilla FC_H_1,4,1:2,12',1:1,Header
+LaLiga,Edgar Méndez,Real Betis_A_1,6,3:2,24',0:2,Header
+LaLiga,Edgar Méndez,Villarreal_H_1,7,2:1,80',2:1,Right-footed shot
+LaLiga,Luis Suárez,Celta de Vigo_A_1,20,3:1,25',0:1,Counter attack goal
+LaLiga,Luis Suárez,SD Huesca_H_1,20,3:3,43',1:1,Right-footed shot
+LaLiga,Luis Suárez,Elche CF_A_1,10,0:1,42',0:1,Right-footed shot
+LaLiga,Luis Suárez,CA Osasuna_H_1,14,2:0,22',1:0,Left-footed shot
+LaLiga,Luis Suárez,CA Osasuna_A_1,19,3:1,50',2:1,Right-footed shot
+LaLiga,Sandro Ramírez,Real Valladolid_H_1,20,2:2,56',2:2,Left-footed shot
+LaLiga,Sandro Ramírez,CA Osasuna_A_1,13,1:1,5',0:1,Right-footed shot
+LaLiga,Sandro Ramírez,SD Eibar_A_1,18,1:1,81',0:1,
+LaLiga,Sandro Ramírez,Elche CF_H_1,17,3:1,30',2:1,Right-footed shot
+LaLiga,Sandro Ramírez,Athletic_H_1,9,1:0,61',1:0,Right-footed shot
+LaLiga,Jaime Mata,CA Osasuna_H_1,6,1:0,54',1:0,Right-footed shot
+LaLiga,Jaime Mata,Barcelona_H_1,1,1:0,56',1:0,Penalty
+LaLiga,Jaime Mata,Elche CF_A_1,17,1:3,69',1:2,Left-footed shot
+LaLiga,Jaime Mata,Valencia_H_1,12,3:0,55',2:0,Right-footed shot
+LaLiga,Jaime Mata,Real Valladolid_A_1,18,2:1,37',2:1,Right-footed shot
+LaLiga,Manu Vallejo,Levante_H_1,14,4:2,75',3:2,Right-footed shot
+LaLiga,Manu Vallejo,Alavés_A_1,14,2:2,72',2:1,Left-footed shot
+LaLiga,Manu Vallejo,Athletic_H_1,16,2:2,83',2:2,Header
+LaLiga,Manu Vallejo,Celta de Vigo_H_1,9,2:0,90'+4,1:0,Left-footed shot
+LaLiga,Carlos Bacca,SD Eibar_A_1,19,1:3,34',0:2,Right-footed shot
+LaLiga,Carlos Bacca,Cádiz CF_H_1,14,2:1,67',2:0,Right-footed shot
+LaLiga,Carlos Bacca,Sevilla FC_H_1,4,4:0,34',1:0,Header
+LaLiga,Jorge de Frutos,Getafe_H_1,12,3:0,57',3:0,Right-footed shot
+LaLiga,Jorge de Frutos,Real Sociedad_H_1,2,2:1,87',2:1,Right-footed shot
+LaLiga,Jorge de Frutos,Atlético Madrid_A_1,1,0:2,90'+5,0:2,Counter attack goal
+LaLiga,Jorge de Frutos,SD Eibar_A_1,20,0:1,45'+2,0:1,Left-footed shot
+LaLiga,Darwin Machís,Alavés_H_1,14,2:1,79',2:1,Tap-in
+LaLiga,Darwin Machís,Levante_H_1,18,1:1,8',1:0,Right-footed shot
+LaLiga,Darwin Machís,Barcelona_A_1,1,1:2,63',1:1,Left-footed shot
+LaLiga,Darwin Machís,Real Betis_A_1,7,2:1,66',1:1,Right-footed shot
+LaLiga,Lucas Pérez,Levante_A_1,18,1:1,4',0:1,Left-footed shot
+LaLiga,Lucas Pérez,Valencia_H_1,12,2:2,16',2:0,Penalty
+LaLiga,Lucas Pérez,Real Madrid_A_1,3,1:2,5',0:1,Penalty
+LaLiga,Lucas Pérez,CA Osasuna_A_1,20,1:1,75',1:1,Penalty
+LaLiga,Adnan Januzaj,Elche CF_A_1,20,0:3,77',0:2,Penalty
+LaLiga,Adnan Januzaj,Real Betis_A_1,6,0:3,88',0:3,Left-footed shot
+LaLiga,Adnan Januzaj,Celta de Vigo_H_1,10,2:1,39',2:1,Penalty
+LaLiga,Adnan Januzaj,Real Valladolid_H_1,18,4:1,35',4:0,Penalty
+LaLiga,Asier Villalibre,Getafe_A_1,10,1:1,9',0:1,Header
+LaLiga,Asier Villalibre,Valencia_A_1,15,2:2,55',1:1,Left-footed shot
+LaLiga,Asier Villalibre,Granada CF_H_1,8,2:1,3',1:0,Left-footed shot
+LaLiga,Asier Villalibre,Real Sociedad_A_1,5,1:1,85',0:1,Header
+LaLiga,Pere Milla,Alavés_A_1,15,0:2,39',0:1,Left-footed shot
+LaLiga,Pere Milla,Getafe_A_1,15,1:1,20',0:1,
+LaLiga,Pere Milla,Real Betis_H_1,6,1:1,36',1:1,Right-footed shot
+LaLiga,Pere Milla,Cádiz CF_A_1,12,1:3,58',1:1,Left-footed shot
+LaLiga,Bryan Gil,Granada CF_H_1,6,2:0,55',1:0,Left-footed shot
+LaLiga,Bryan Gil,Celta de Vigo_A_1,11,1:1,53',1:1,Left-footed shot
+LaLiga,Bryan Gil,Valencia_A_1,14,4:1,38',3:1,Right-footed shot
+LaLiga,Kenedy,Valencia_H_1,16,2:1,45'+3,1:1,Direct free kick
+LaLiga,Kenedy,Villarreal_A_1,5,2:2,75',2:2,Left-footed shot
+LaLiga,Kenedy,Levante_A_1,9,2:2,43',1:1,
+LaLiga,Kenedy,SD Eibar_H_1,20,4:1,81',4:1,Left-footed shot
+LaLiga,Samuel Chukwueze,Real Valladolid_H_1,20,2:0,21',1:0,Left-footed shot
+LaLiga,Samuel Chukwueze,Levante_A_1,11,1:5,63',1:3,Left-footed shot
+LaLiga,Samuel Chukwueze,Barcelona_H_1,3,1:2,26',1:0,Left-footed shot
+LaLiga,Ivan Rakitic,Cádiz CF_A_1,12,1:3,90'+4,1:3,Counter attack goal
+LaLiga,Ivan Rakitic,Celta de Vigo_A_1,8,3:4,60',3:3,Right-footed shot
+LaLiga,Ivan Rakitic,Granada CF_H_1,8,2:1,16',1:0,Penalty
+LaLiga,Ivan Rakitic,Real Madrid_A_1,2,2:2,78',1:2,Penalty
+LaLiga,Luis Rioja,Barcelona_H_1,5,1:1,31',1:0,Left-footed shot
+LaLiga,Luis Rioja,Barcelona_A_1,3,5:1,57',2:1,Left-footed shot
+LaLiga,Luis Rioja,Elche CF_A_1,19,0:2,54',0:2,Left-footed shot
+LaLiga,Luis Rioja,Granada CF_H_1,10,4:2,72',4:2,Left-footed shot
+LaLiga,Josan,Valencia_H_1,11,2:1,19',1:0,Left-footed shot
+LaLiga,Josan,Real Betis_A_1,12,3:1,60',3:1,Left-footed shot
+LaLiga,Josan,Real Valladolid_A_1,17,2:2,9',0:1,
+LaLiga,Gabriel Paulista,Levante_H_1,14,4:2,12',1:1,Header
+LaLiga,Gabriel Paulista,Athletic_A_1,11,1:1,65',1:1,Header
+LaLiga,Gabriel Paulista,Real Sociedad_H_1,5,2:2,73',2:2,Header
+LaLiga,Gabriel Paulista,Barcelona_H_1,3,2:3,50',1:0,Header
+LaLiga,Enes Ünal,Elche CF_H_1,17,1:1,60',1:1,
+LaLiga,Enes Ünal,Barcelona_A_1,3,5:2,69',3:2,Penalty
+LaLiga,Enes Ünal,SD Huesca_A_1,17,0:2,20',0:1,Right-footed shot
+LaLiga,Munir El Haddadi,Cádiz CF_A_1,12,1:3,90',1:2,Left-footed shot
+LaLiga,Munir El Haddadi,Celta de Vigo_H_1,17,4:2,87',4:2,Counter attack goal
+LaLiga,Munir El Haddadi,Getafe_H_1,12,3:0,67',1:0,Left-footed shot
+LaLiga,Munir El Haddadi,SD Huesca_H_1,20,1:0,57',1:0,Header
+LaLiga,Marcos André,Athletic_H_1,13,2:1,48',2:0,Tap-in
+LaLiga,Marcos André,Granada CF_A_1,6,1:3,53',0:2,Left-footed shot
+LaLiga,Marcos André,Levante_H_1,18,1:1,57',1:0,Header
+LaLiga,Marcos André,Real Sociedad_A_1,5,4:1,82',4:1,Header
+LaLiga,Daniel Wass,SD Huesca_H_1,17,1:1,38',1:0,Direct free kick
+LaLiga,Daniel Wass,Elche CF_H_1,19,1:0,22',1:0,Header
+LaLiga,Daniel Wass,Granada CF_H_1,8,2:1,4',1:0,Right-footed shot
+LaLiga,Daniel Wass,Real Sociedad_H_1,5,2:2,60',1:2,Penalty
+LaLiga,Moi Gómez,Celta de Vigo_A_1,8,0:4,14',0:2,Right-footed shot
+LaLiga,Moi Gómez,Granada CF_H_1,7,2:2,65',2:1,Penalty
+LaLiga,Moi Gómez,SD Eibar_A_1,19,1:3,1',0:1,Left-footed shot
+LaLiga,Moi Gómez,Celta de Vigo_H_1,10,2:4,25',1:1,Header
+LaLiga,Kévin Gameiro,Granada CF_A_1,7,2:1,36',0:1,Left-footed shot
+LaLiga,Kévin Gameiro,Celta de Vigo_H_1,9,2:0,90'+8,2:0,Right-footed shot
+LaLiga,Kévin Gameiro,Cádiz CF_A_1,15,2:1,19',1:1,Right-footed shot
+LaLiga,Kévin Gameiro,CA Osasuna_A_1,13,3:1,30',1:1,Right-footed shot
+LaLiga,Álex Fernández,Alavés_H_1,14,3:1,15',1:0,
+LaLiga,Álex Fernández,Barcelona_A_1,3,1:1,89',1:1,Penalty
+LaLiga,Álex Fernández,Alavés_A_1,18,1:1,84',1:1,Penalty
+LaLiga,Álex Fernández,Villarreal_A_1,7,2:1,69',2:1,Left-footed shot
+LaLiga,Ansu Fati,Villarreal_H_1,6,4:0,15',1:0,Right-footed shot
+LaLiga,Ansu Fati,Celta de Vigo_A_1,8,0:3,11',0:1,Right-footed shot
+LaLiga,Ansu Fati,Real Madrid_H_1,2,1:3,8',1:1,Right-footed shot
+LaLiga,Luuk de Jong,Cádiz CF_A_1,12,1:3,65',1:1,Header
+LaLiga,Luuk de Jong,Barcelona_A_1,1,1:1,8',0:1,Left-footed shot
+LaLiga,Luuk de Jong,CA Osasuna_A_1,12,0:2,49',0:2,Right-footed shot
+LaLiga,Luuk de Jong,Elche CF_A_1,19,2:1,90',2:1,Header
+LaLiga,Toni Kroos,Athletic_H_1,12,3:1,45'+1,1:0,Right-footed shot
+LaLiga,Toni Kroos,Valencia_H_1,13,2:0,42',2:0,Right-footed shot
+LaLiga,Toni Kroos,Barcelona_H_1,2,2:1,28',2:0,Direct free kick
+LaLiga,Jordi Alba,Real Sociedad_H_1,6,2:1,31',1:1,Right-footed shot
+LaLiga,Jordi Alba,Elche CF_H_1,17,3:0,73',3:0,Left-footed shot
+LaLiga,Jordi Alba,CA Osasuna_A_1,12,0:2,30',0:1,Left-footed shot
+LaLiga,Rubén García,Cádiz CF_A_1,12,0:2,79',0:2,Left-footed shot
+LaLiga,Rubén García,Athletic_H_1,14,1:0,81',1:0,Penalty
+LaLiga,Rubén García,Elche CF_A_1,16,2:2,10',0:1,Left-footed shot
+LaLiga,Dani Parejo,Valencia_H_1,9,2:1,69',2:1,Right-footed shot
+LaLiga,Dani Parejo,Celta de Vigo_A_1,8,0:4,19',0:3,Direct free kick
+LaLiga,Dani Parejo,Real Sociedad_H_1,6,1:1,3',1:0,Right-footed shot
+LaLiga,Vinícius Júnior,Real Valladolid_H_1,16,1:0,65',1:0,Right-footed shot
+LaLiga,Vinícius Júnior,Levante_A_1,13,0:2,16',0:1,Right-footed shot
+LaLiga,Vinícius Júnior,Real Sociedad_H_1,5,1:1,89',1:1,Right-footed shot
+LaLiga,Antonio Puertas,Elche CF_H_1,17,2:1,79',2:1,
+LaLiga,Antonio Puertas,SD Eibar_H_1,20,4:1,37',2:0,Left-footed shot
+LaLiga,Antonio Puertas,Alavés_A_1,15,4:2,63',2:2,Right-footed shot
+LaLiga,Frenkie de Jong,Real Sociedad_H_1,6,2:1,43',2:1,Right-footed shot
+LaLiga,Frenkie de Jong,SD Huesca_A_1,20,0:1,27',0:1,Right-footed shot
+LaLiga,Frenkie de Jong,Elche CF_A_1,18,0:2,39',0:1,Right-footed shot
+LaLiga,Suso,Valencia_A_1,13,0:1,81',0:1,Counter attack goal
+LaLiga,Suso,Real Betis_A_1,10,1:1,48',0:1,Left-footed shot
+LaLiga,Suso,Alavés_A_1,16,1:2,30',1:2,Long distance kick
+LaLiga,Fernando Reges,Celta de Vigo_A_1,8,3:4,35',2:2,Right-footed shot
+LaLiga,Fernando Reges,Real Sociedad_A_1,5,1:2,22',1:1,Left-footed shot
+LaLiga,Fernando Reges,Real Madrid_A_1,2,2:2,22',0:1,Left-footed shot
+LaLiga,Pedri,Real Betis_H_1,8,5:2,90',5:2,Left-footed shot
+LaLiga,Pedri,Athletic_A_1,18,2:3,14',1:1,Header
+LaLiga,Pedri,Levante_A_1,14,3:3,34',0:2,Counter attack goal
+LaLiga,Marc Cucurella,Real Betis_H_1,5,3:0,39',2:0,Long distance kick
+LaLiga,Marc Cucurella,Elche CF_A_1,17,1:3,39',1:1,Header
+LaLiga,Marc Cucurella,Athletic_A_1,13,5:1,1',0:1,Header
+LaLiga,Hugo Mallo,Athletic_A_1,10,0:2,61',0:1,Header
+LaLiga,Hugo Mallo,SD Huesca_A_1,20,3:4,52',2:3,
+LaLiga,Hugo Mallo,Real Sociedad_A_1,5,2:1,22',0:1,Header
+LaLiga,Choco Lozano,Real Madrid_A_1,2,0:1,16',0:1,Deflected shot on goal
+LaLiga,Choco Lozano,Valencia_A_1,17,1:1,58',0:1,Right-footed shot
+LaLiga,Choco Lozano,Alavés_H_1,14,3:1,56',2:1,
+LaLiga,Trincão,Real Betis_A_1,7,2:3,87',2:3,Left-footed shot
+LaLiga,Trincão,Alavés_H_1,15,5:1,29',1:0,Left-footed shot
+LaLiga,Guido Carrillo,CA Osasuna_H_1,20,2:2,78',2:2,Right-footed shot
+LaLiga,Guido Carrillo,Villarreal_H_1,5,2:2,49',1:2,Header
+LaLiga,Guido Carrillo,Sevilla FC_H_1,4,2:1,76',2:0,Header
+LaLiga,Raúl Guti,Getafe_H_1,16,1:3,4',1:0,Right-footed shot
+LaLiga,Raúl Guti,Sevilla FC_H_1,4,2:1,70',1:0,Right-footed shot
+LaLiga,Raúl Guti,Athletic_H_1,9,2:0,73',2:0,Right-footed shot
+LaLiga,Germán Sánchez,Cádiz CF_A_1,10,1:1,27',0:1,Header
+LaLiga,Germán Sánchez,SD Huesca_H_1,20,3:3,90',3:3,Header
+LaLiga,Germán Sánchez,Real Sociedad_H_1,5,1:0,51',1:0,Left-footed shot
+LaLiga,Yangel Herrera,Athletic_H_1,10,2:0,49',1:0,Header
+LaLiga,Yangel Herrera,Sevilla FC_H_1,3,1:0,82',1:0,Header
+LaLiga,Yangel Herrera,Atlético Madrid_H_1,1,1:2,66',1:1,Right-footed shot
+LaLiga,Aïssa Mandi,Real Madrid_H_1,5,2:3,35',1:1,Header
+LaLiga,Aïssa Mandi,Levante_A_1,14,4:3,12',1:1,Right-footed shot
+LaLiga,Aïssa Mandi,SD Huesca_A_1,20,0:2,78',0:1,Header
+LaLiga,Juan Cala,Levante_H_1,11,2:2,28',2:2,Header
+LaLiga,Juan Cala,Valencia_H_1,12,2:1,14',1:0,Header
+LaLiga,Juan Cala,Real Valladolid_A_1,16,1:1,64',1:1,Right-footed shot
+LaLiga,Fede Valverde,Real Betis_A_1,3,2:3,14',0:1,Right-footed shot
+LaLiga,Fede Valverde,Barcelona_A_1,1,1:3,5',0:1,Right-footed shot
+LaLiga,Fede Valverde,SD Huesca_H_1,19,4:1,54',3:0,Right-footed shot
+LaLiga,Yeremi Pino,Athletic_H_1,10,1:1,74',1:1,Left-footed shot
+LaLiga,Yeremi Pino,Getafe_H_1,15,1:0,79',1:0,Right-footed shot
+LaLiga,Yeremi Pino,Real Madrid_A_1,2,2:1,20',0:1,Right-footed shot
+LaLiga,Papu Gómez,Getafe_H_1,12,3:0,87',2:0,Left-footed shot
+LaLiga,Papu Gómez,Celta de Vigo_A_1,8,3:4,76',3:4,Left-footed shot
+LaLiga,Papu Gómez,Alavés_H_1,15,1:0,90'+2,1:0,Right-footed shot
+LaLiga,Esteban Burgos,Real Valladolid_A_1,18,1:2,29',0:1,Penalty
+LaLiga,Esteban Burgos,SD Huesca_A_1,19,1:1,38',0:1,Right-footed shot
+LaLiga,Esteban Burgos,Real Betis_A_1,9,0:2,54',0:2,Penalty
+LaLiga,Eden Hazard,SD Huesca_H_1,19,4:1,40',1:0,Left-footed shot
+LaLiga,Eden Hazard,Alavés_A_1,17,1:4,45'+1,0:3,Left-footed shot
+LaLiga,Eden Hazard,Sevilla FC_H_1,4,2:2,90'+4,2:2,Deflected shot on goal
+LaLiga,Willian José,Celta de Vigo_A_1,17,1:4,54',0:3,Right-footed shot
+LaLiga,Willian José,Barcelona_A_1,3,2:1,28',0:1,
+LaLiga,Mauro Arambarri,Villarreal_H_1,5,1:3,16',1:1,Long distance kick
+LaLiga,Mauro Arambarri,SD Huesca_H_1,20,1:0,69',1:0,Right-footed shot
+LaLiga,Mauro Arambarri,Valencia_H_1,12,3:0,39',1:0,Long distance kick
+LaLiga,Fran Beltrán,Granada CF_H_1,6,3:1,85',3:1,Right-footed shot
+LaLiga,Fran Beltrán,Cádiz CF_H_1,8,4:0,43',3:0,Right-footed shot
+LaLiga,Fran Beltrán,SD Huesca_A_1,20,3:4,76',3:4,
+LaLiga,Ander Barrenetxea,SD Eibar_H_1,11,1:1,20',1:0,Right-footed shot
+LaLiga,Ander Barrenetxea,CA Osasuna_H_1,19,1:1,46',1:1,Right-footed shot
+LaLiga,Ander Barrenetxea,Barcelona_H_1,2,1:6,77',1:5,Right-footed shot
+LaLiga,Sergi Enrich,Real Sociedad_A_1,2,1:1,65',1:1,Right-footed shot
+LaLiga,Sergi Enrich,Villarreal_H_1,7,1:3,55',1:2,Right-footed shot
+LaLiga,Sergi Enrich,Real Betis_H_1,6,1:1,83',1:1,Header
+LaLiga,Unai López,SD Eibar_A_1,14,1:2,40',0:1,Right-footed shot
+LaLiga,Unai López,Cádiz CF_A_1,14,0:4,15',0:2,Direct free kick
+LaLiga,Fer Niño,CA Osasuna_A_1,20,1:3,29',0:2,Right-footed shot
+LaLiga,Fer Niño,Levante_H_1,9,2:1,19',1:0,Right-footed shot
+LaLiga,Fer Niño,Celta de Vigo_A_1,8,0:4,31',0:4,Right-footed shot
+LaLiga,Roberto López,Real Valladolid_A_1,19,1:1,60',1:1,Direct free kick
+LaLiga,Roberto López,Elche CF_A_1,20,0:3,90'+4,0:3,Right-footed shot
+LaLiga,Roberto López,Athletic_H_1,9,1:1,89',1:1,Left-footed shot
+LaLiga,Antonio Sanabria,Elche CF_H_1,11,3:1,7',1:0,Right-footed shot
+LaLiga,Antonio Sanabria,Barcelona_A_1,6,5:2,45'+2,1:1,Right-footed shot
+LaLiga,Antonio Sanabria,SD Huesca_A_1,20,0:2,90'+3,0:2,Header
+LaLiga,Lucas Vázquez,SD Eibar_A_1,11,1:3,90'+2,1:3,Right-footed shot
+LaLiga,Lucas Vázquez,Celta de Vigo_H_1,8,2:0,6',1:0,Header
+LaLiga,Tete Morente,Alavés_A_1,15,0:2,86',0:2,Right-footed shot
+LaLiga,Tete Morente,Levante_A_1,18,1:1,64',1:1,Right-footed shot
+LaLiga,Joaquín,Real Sociedad_A_1,6,2:2,90'+2,2:2,Left-footed shot
+LaLiga,Joaquín,Alavés_H_1,16,3:2,81',2:2,Header
+LaLiga,David Silva,Celta de Vigo_A_1,17,1:4,24',0:1,Header
+LaLiga,David Silva,Real Valladolid_H_1,18,4:1,28',3:0,Left-footed shot
+LaLiga,David Ferreiro,Real Madrid_A_1,1,4:1,74',3:1,Right-footed shot
+LaLiga,David Ferreiro,Celta de Vigo_H_1,10,3:4,74',3:3,
+LaLiga,Kike Barja,Alavés_A_1,16,0:1,77',0:1,Right-footed shot
+LaLiga,Kike Barja,Elche CF_H_1,16,2:0,38',1:0,Left-footed shot
+LaLiga,Mikel Merino,Getafe_H_1,7,3:0,79',2:0,Left-footed shot
+LaLiga,Mikel Merino,Levante_H_1,9,1:0,10',1:0,Left-footed shot
+LaLiga,Alberto Perea,Levante_H_1,11,2:2,4',1:0,Counter attack goal
+LaLiga,Alberto Perea,CA Osasuna_A_1,12,3:2,90'+1,3:2,Right-footed shot
+LaLiga,Cucho Hernández,Valencia_A_1,14,2:2,87',1:1,Header
+LaLiga,Cucho Hernández,Cádiz CF_A_1,8,0:2,33',0:1,Right-footed shot
+LaLiga,Dani Gómez,Getafe_H_1,12,3:0,17',2:0,Right-footed shot
+LaLiga,Dani Gómez,Real Valladolid_H_1,16,2:2,62',1:0,Right-footed shot
+LaLiga,Pau Torres,Real Valladolid_H_1,20,2:0,37',2:0,Left-footed shot
+LaLiga,Pau Torres,Real Betis_A_1,9,1:1,5',0:1,Header
+LaLiga,Jon Morcillo,Real Valladolid_H_1,17,2:2,14',1:0,Left-footed shot
+LaLiga,Jon Morcillo,CA Osasuna_H_1,11,2:2,1',1:0,Left-footed shot
+LaLiga,Martin Braithwaite,CA Osasuna_H_1,14,4:0,29',1:0,Left-footed shot
+LaLiga,Martin Braithwaite,Real Valladolid_A_1,18,0:3,35',0:2,Left-footed shot
+LaLiga,Aitor Ruibal,Villarreal_H_1,4,1:1,51',1:1,Right-footed shot
+LaLiga,Aitor Ruibal,Real Valladolid_A_1,18,1:1,49',0:1,Right-footed shot
+LaLiga,Ander Capa,Real Betis_H_1,9,4:0,33',2:0,Tap-in
+LaLiga,Ander Capa,Real Madrid_A_1,2,3:1,52',1:1,Left-footed shot
+LaLiga,Óscar Mingueza,SD Huesca_H_1,20,4:1,53',3:1,Header
+LaLiga,Óscar Mingueza,Real Madrid_A_1,3,2:1,60',2:1,Right-footed shot
+LaLiga,Carles Aleñá,Valencia_H_1,12,3:0,87',3:0,Right-footed shot
+LaLiga,Carles Aleñá,Levante_H_1,13,2:1,13',1:0,Left-footed shot
+LaLiga,Oihan Sancet,Sevilla FC_H_1,8,2:1,86',2:1,Right-footed shot
+LaLiga,Oihan Sancet,CA Osasuna_H_1,11,2:2,62',2:1,Header
+LaLiga,Augusto Solari,Levante_H_1,12,2:0,74',2:0,
+LaLiga,Augusto Solari,Villarreal_A_1,6,2:4,57',1:4,Right-footed shot
+LaLiga,Philippe Coutinho,Sevilla FC_H_1,3,1:1,10',1:1,Right-footed shot
+LaLiga,Philippe Coutinho,CA Osasuna_H_1,14,4:0,57',3:0,Right-footed shot
+LaLiga,Jules Koundé,Celta de Vigo_H_1,17,4:2,5',1:0,Right-footed shot
+LaLiga,Jules Koundé,Celta de Vigo_A_1,8,3:4,7',0:1,Header
+LaLiga,Saúl Ñíguez,Sevilla FC_H_1,4,2:0,76',2:0,Left-footed shot
+LaLiga,Saúl Ñíguez,Cádiz CF_A_1,10,2:4,44',1:2,Left-footed shot
+LaLiga,Sergiño Dest,Real Sociedad_A_1,5,1:6,43',0:2,Right-footed shot
+LaLiga,Ronald Araújo,Valencia_H_1,14,2:2,52',2:1,Right-footed shot
+LaLiga,Ronald Araújo,Getafe_H_1,15,5:2,87',4:2,Header
+LaLiga,Javi Ontiveros,Alavés_H_1,12,1:0,66',1:0,Right-footed shot
+LaLiga,Javi Ontiveros,Levante_H_1,15,1:1,31',1:0,Penalty
+LaLiga,Álvaro Giménez,Elche CF_A_1,12,1:1,55',1:1,Header
+LaLiga,Álvaro Giménez,Barcelona_H_1,4,2:1,8',1:0,Left-footed shot
+LaLiga,Jon Moncayola,Granada CF_H_1,7,3:1,86',3:1,Right-footed shot
+LaLiga,Jon Moncayola,Villarreal_A_1,7,1:2,64',0:1,Right-footed shot
+LaLiga,Dimitrios Siovas,Valencia_A_1,8,1:1,63',1:1,Header
+LaLiga,Dimitrios Siovas,Celta de Vigo_H_1,10,3:4,14',1:1,
+LaLiga,Jeison Murillo,Real Valladolid_H_1,19,1:1,90'+4,1:1,Header
+LaLiga,Jeison Murillo,CA Osasuna_H_1,11,2:1,64',2:0,
+LaLiga,Raphaël Varane,SD Huesca_A_1,20,1:2,55',1:1,Header
+LaLiga,Salvi Sánchez,Sevilla FC_H_1,9,1:3,48',1:0,Right-footed shot
+LaLiga,Salvi Sánchez,SD Eibar_A_1,13,0:2,39',0:2,Counter attack goal
+LaLiga,Sergio León,Villarreal_A_1,7,2:1,73',2:1,Header
+LaLiga,Sergio León,Barcelona_H_1,3,3:3,83',3:3,Right-footed shot
+LaLiga,Víctor Ruiz,Barcelona_H_1,3,2:3,75',2:2,Header
+LaLiga,Víctor Ruiz,Celta de Vigo_A_1,8,2:3,73',2:3,Right-footed shot
+LaLiga,William Carvalho,Real Valladolid_H_1,10,2:0,18',2:0,Right-footed shot
+LaLiga,William Carvalho,Real Madrid_H_1,5,2:3,37',2:1,Left-footed shot
+LaLiga,Marcos Mauro,Valencia_H_1,12,2:1,88',2:1,Header
+LaLiga,Marcos Mauro,SD Huesca_H_1,18,2:1,43',1:0,Header
+LaLiga,Dani Calvo,SD Eibar_H_1,17,1:0,33',1:0,Header
+LaLiga,Dani Calvo,Real Madrid_A_1,3,2:1,61',0:1,Header
+LaLiga,Míchel Herrero,Real Sociedad_H_1,5,1:1,39',1:0,Left-footed shot
+LaLiga,Míchel Herrero,Elche CF_H_1,18,2:2,71',1:2,
+LaLiga,Pere Pons,Levante_H_1,13,2:2,30',1:0,Right-footed shot
+LaLiga,Pere Pons,Granada CF_H_1,10,4:2,8',1:0,Right-footed shot
+LaLiga,Toni Villa,SD Eibar_H_1,19,1:2,37',1:1,Right-footed shot
+LaLiga,Toni Villa,SD Huesca_H_1,20,1:3,90'+3,1:3,Right-footed shot
+LaLiga,Juanmi,Cádiz CF_A_1,14,0:1,84',0:1,
+LaLiga,Juanmi,Levante_H_1,9,2:0,75',2:0,Right-footed shot
+LaLiga,Darko Brasanac,Elche CF_A_1,16,2:2,64',1:2,Counter attack goal
+LaLiga,Darko Brasanac,Athletic_A_1,9,2:2,12',1:1,Header
+LaLiga,Sergio Ramos,Real Betis_A_1,3,2:3,82',2:3,Penalty
+LaLiga,Sergio Ramos,Barcelona_A_1,1,1:3,63',1:2,Penalty
+LaLiga,Álvaro Odriozola,Cádiz CF_A_1,12,0:3,33',0:2,Header
+LaLiga,Álvaro Odriozola,Granada CF_A_1,10,1:4,75',1:3,Left-footed shot
+LaLiga,Domingos Quina,SD Huesca_A_1,20,3:2,8',0:1,Right-footed shot
+LaLiga,Domingos Quina,Elche CF_H_1,17,2:1,31',1:0,
+LaLiga,Diego Costa,Granada CF_H_1,2,6:1,9',1:0,Header
+LaLiga,Diego Costa,Elche CF_H_1,12,3:1,80',3:1,Penalty
+LaLiga,Manu Trigueros,Getafe_A_1,9,1:3,18',1:2,Left-footed shot
+LaLiga,José Gayà,Alavés_H_1,19,1:1,89',1:1,
+LaLiga,Joan Jordán,SD Eibar_A_1,14,0:2,55',0:2,Right-footed shot
+LaLiga,Rodrygo,Granada CF_A_1,10,1:4,45'+1,0:2,Right-footed shot
+LaLiga,Emerson Royal,Villarreal_A_1,5,1:2,52',0:2,Header
+LaLiga,Mikel Rico,Granada CF_A_1,7,3:3,21',0:1,Header
+LaLiga,Lucas Olaza,Elche CF_A_1,18,1:1,86',1:1,Header
+LaLiga,Alfonso Pedraza,SD Eibar_A_1,19,1:3,87',1:3,Counter attack goal
+LaLiga,Thomas Lemar,Real Valladolid_H_1,18,2:0,56',1:0,Left-footed shot
+LaLiga,Pablo Maffeo,Villarreal_A_1,7,1:1,42',0:1,Left-footed shot
+LaLiga,Yuri Berchiche,SD Eibar_H_1,19,1:1,9',1:0,Left-footed shot
+LaLiga,Sergi Guardiola,Celta de Vigo_H_1,7,1:1,66',1:1,Penalty
+LaLiga,Deyverson,SD Eibar_H_1,14,2:1,45'+2,2:1,Left-footed shot
+LaLiga,Ilaix Moriba,CA Osasuna_A_1,12,0:2,83',0:2,Left-footed shot
+LaLiga,Koke,Cádiz CF_A_1,10,2:4,88',2:4,Right-footed shot
+LaLiga,Javi Galán,Real Madrid_H_1,2,1:2,48',1:0,Left-footed shot
+LaLiga,Marcos Acuña,Atlético Madrid_H_1,1,1:0,70',1:0,Header
+LaLiga,Yoshinori Muto,Real Betis_A_1,9,0:2,49',0:1,Left-footed shot
+LaLiga,Enis Bardhi,Atlético Madrid_H_1,4,1:1,17',1:0,Left-footed shot
+LaLiga,Óscar de Marcos,Getafe_H_1,12,5:1,82',5:1,Counter attack goal
+LaLiga,Pedro León,Alavés_A_1,17,2:1,4',0:1,Direct corner
+LaLiga,Renan Lodi,CA Osasuna_H_1,11,2:1,82',1:1,Left-footed shot
+LaLiga,Juan Miranda,CA Osasuna_A_1,16,0:2,90'+1,0:2,Left-footed shot
+LaLiga,Carlos Fernández,Sevilla FC_H_1,4,1:2,5',1:0,Left-footed shot
+LaLiga,Alberto Soro,SD Huesca_A_1,20,3:2,59',3:2,Right-footed shot
+LaLiga,Sergi Roberto,Celta de Vigo_A_1,8,0:3,90'+5,0:3,Right-footed shot
+LaLiga,José Campaña,Real Valladolid_A_1,17,1:1,83',1:1,Penalty
+LaLiga,Florian Lejeune,Celta de Vigo_H_1,11,1:3,86',1:3,Right-footed shot
+LaLiga,Pape Diop,SD Huesca_H_1,20,1:1,83',1:1,
+LaLiga,Tomás Pina,Real Valladolid_A_1,20,0:2,55',0:1,Right-footed shot
+LaLiga,Ximo Navarro,Valencia_H_1,12,2:2,2',1:0,Right-footed shot
+LaLiga,Mario Hermoso,Real Sociedad_A_1,3,0:2,49',0:1,Header
+LaLiga,Takefusa Kubo,Levante_H_1,13,2:1,84',2:1,Left-footed shot
+LaLiga,Ander Guevara,Valencia_A_1,12,2:2,33',0:1,Left-footed shot
+LaLiga,Uros Racic,Atlético Madrid_A_1,1,3:1,11',0:1,Left-footed shot
+LaLiga,Rubén Duarte,Granada CF_H_1,10,4:2,21',2:0,
+LaLiga,Thierry Correia,Real Valladolid_H_1,17,3:0,89',3:0,Header
+LaLiga,Jaime Seoane,Celta de Vigo_A_1,8,2:1,84',2:1,Left-footed shot
+LaLiga,Nacho Monreal,Granada CF_H_1,4,2:0,22',1:0,Left-footed shot
+LaLiga,Unai Núñez,SD Huesca_H_1,19,2:0,90'+1,2:0,Header
+LaLiga,Shinji Okazaki,Granada CF_A_1,7,3:3,82',1:3,Long distance kick
+LaLiga,Igor Zubeldia,Atlético Madrid_A_1,1,2:1,83',2:1,Left-footed shot
+LaLiga,Emiliano Rigoni,Celta de Vigo_A_1,10,3:1,50',2:1,Left-footed shot
+LaLiga,Dani Escriche,Granada CF_H_1,8,3:2,31',1:1,Right-footed shot
+LaLiga,Kévin Rodrigues,Real Valladolid_A_1,18,1:2,90',1:2,Header
+LaLiga,Iván Alejo,Granada CF_H_1,4,1:1,48',1:1,Right-footed shot
+LaLiga,Ángel Montoro,Getafe_A_1,7,0:1,45'+2,0:1,Penalty
+LaLiga,Rubén Peña,Granada CF_H_1,7,2:2,29',1:1,Right-footed shot
+LaLiga,Facundo Roncaglia,Celta de Vigo_H_1,12,2:0,23',1:0,
+LaLiga,Adrián López,Cádiz CF_A_1,12,0:2,10',0:1,Right-footed shot
+LaLiga,Kenan Kodro,SD Huesca_H_1,19,2:0,86',1:0,Penalty
+LaLiga,Luis Milla,Athletic_H_1,10,2:0,53',2:0,Right-footed shot
+LaLiga,Javi Martínez,Valencia_H_1,14,3:1,13',1:0,Right-footed shot
+LaLiga,Júnior Firpo,Alavés_H_1,15,5:1,80',5:1,Left-footed shot
+LaLiga,Mickaël Malsa,Villarreal_H_1,7,1:5,21',1:2,Right-footed shot
+LaLiga,Marko Dmitrovic,Atlético Madrid_H_1,1,1:2,12',1:0,Penalty
+LaLiga,David García,SD Huesca_H_1,20,1:1,68',1:1,Header
+LaLiga,Guido Rodríguez,Cádiz CF_H_1,9,1:0,71',1:0,Right-footed shot
+LaLiga,Nemanja Maksimovic,Cádiz CF_A_1,8,0:2,90'+4,0:2,Right-footed shot
+LaLiga,Bono,Real Valladolid_A_1,16,1:1,90'+4,1:1,Left-footed shot
+LaLiga,Clément Lenglet,Real Valladolid_A_1,18,0:3,21',0:1,Header
+LaLiga,Stefan Savic,Athletic_A_1,9,2:1,77',1:1,Header
+LaLiga,Jorge Pulido,Granada CF_H_1,8,3:2,39',2:1,Header
+LaLiga,Diego Carlos,CA Osasuna_A_1,12,0:2,19',0:1,Header
+LaLiga,Yunus Musah,Getafe_H_1,9,2:2,22',1:0,Counter attack goal
+LaLiga,Rúben Vezo,Granada CF_A_1,2,1:1,34',1:1,Header
+LaLiga,Rodrigo Battaglia,SD Huesca_H_1,19,1:0,85',1:0,Right-footed shot
+LaLiga,Damián Suárez,Celta de Vigo_H_1,8,1:1,7',1:0,Right-footed shot
+LaLiga,Jairo Izquierdo,Real Sociedad_A_1,6,4:1,65',4:1,Left-footed shot
+LaLiga,Rubén Alcaraz,Levante_A_1,10,2:2,73',1:1,Left-footed shot
+LaLiga,Domingos Duarte,Real Valladolid_H_1,19,1:3,63',1:2,Right-footed shot
+LaLiga,Óscar Duarte,Real Betis_H_1,9,4:3,2',1:0,Header
+LaLiga,Iñigo Martínez,Atlético Madrid_H_1,1,2:1,86',2:1,Header
+LaLiga,Takashi Inui,Levante_A_1,12,2:1,51',0:1,Right-footed shot
+LaLiga,Bruno González,SD Huesca_A_1,17,2:2,35',0:1,Header
+LaLiga,Loren Morón,Barcelona_A_1,6,5:2,73',3:2,Right-footed shot
+LaLiga,Mouctar Diakhaby,Barcelona_A_1,4,2:2,29',0:1,Header
+LaLiga,Ferland Mendy,Getafe_H_1,15,2:0,66',2:0,Right-footed shot
+LaLiga,Hugo Guillamón,Alavés_A_1,14,2:2,77',2:2,Header
+LaLiga,Joaquín Fernández,Elche CF_H_1,18,2:2,89',2:2,
+LaLiga,Roque Mesa,SD Eibar_A_1,17,1:1,7',0:1,Penalty
+LaLiga,Andrés Guardado,SD Eibar_A_1,20,1:1,4',0:1,Left-footed shot
+LaLiga,Nacho Fernández,Athletic_A_1,9,0:1,68',0:1,Right-footed shot
+LaLiga,Aritz Elustondo,Elche CF_H_1,19,2:0,72',1:0,Header
+LaLiga,Yeray Álvarez,Getafe_H_1,12,5:1,50',2:1,Header
+LaLiga,Miguel Baeza,Granada CF_H_1,6,3:1,81',2:1,Left-footed shot
+LaLiga,José Mari,Elche CF_H_1,19,1:3,15',1:0,Penalty
+LaLiga,Borja Sainz,Real Valladolid_A_1,20,0:2,85',0:2,Right-footed shot
+LaLiga,Borja García,Granada CF_A_1,7,3:3,49',1:2,Right-footed shot
+LaLiga,Rubén Sobrino,Granada CF_A_1,8,0:1,39',0:1,Left-footed shot
+LaLiga,Quini,Real Valladolid_A_1,16,1:2,86',1:2,Right-footed shot
+LaLiga,Lucas Torreira,CA Osasuna_A_1,10,1:3,88',1:3,Right-footed shot
+LaLiga,Diego González,Cádiz CF_A_1,12,1:3,64',1:2,Left-footed shot
+LaLiga,Recio,Getafe_A_1,15,0:1,89',0:1,Penalty
+LaLiga,Jota,Granada CF_A_1,6,1:3,90',1:3,Right-footed shot
+LaLiga,Étienne Capoue,Real Valladolid_A_1,17,0:2,90'+1,0:2,Right-footed shot
+LaLiga,Mariano Díaz,Villarreal_A_1,4,1:1,2',0:1,Header
+LaLiga,Franco Vázquez,Elche CF_H_1,20,2:0,89',2:0,Left-footed shot
+LaLiga,Toni Lato,Elche CF_A_1,13,2:1,74',2:1,Left-footed shot
+LaLiga,Riqui Puig,Elche CF_A_1,18,0:2,89',0:2,Header
+LaLiga,Éder Militão,CA Osasuna_H_1,11,2:0,76',1:0,Header
+LaLiga,Facundo Ferreyra,Atlético Madrid_A_1,1,2:2,89',2:2,Right-footed shot
+LaLiga,Carlos Akapo,Levante_A_1,14,2:2,32',1:2,Counter attack goal
+LaLiga,Álex Blanco,Granada CF_H_1,8,2:1,66',2:0,Counter attack goal
+LaLiga,Jorge Pombo,SD Huesca_A_1,11,0:2,83',0:2,Counter attack goal
+LaLiga,John Guidetti,Valencia_A_1,14,1:1,84',0:1,
+LaLiga,Waldo Rubio,SD Huesca_A_1,17,2:2,51',0:2,Penalty
+LaLiga,Sergio Escudero,Celta de Vigo_H_1,17,4:2,85',3:2,Left-footed shot
+LaLiga,Ivan Saponjic,CA Osasuna_A_1,12,3:2,49',1:1,Penalty
+LaLiga,Raúl Carnero,Sevilla FC_A_1,6,1:1,87',1:1,Left-footed shot
+LaLiga,Rodrigo Ely,Athletic_H_1,15,1:0,74',1:0,
+LaLiga,Sergio Carreira,Levante_A_1,18,1:1,52',1:1,Tap-in

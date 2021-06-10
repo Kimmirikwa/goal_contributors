@@ -63,6 +63,7 @@ def get_player_scorers_uris(stats_soup):
 
 
 def get_scorers_url_from_page(stats_soup):
+	print("Getting scorers urls from a page")
 	scorers_urls = []
 	tables = stats_soup.findAll('table')
 	scorers_table = None
@@ -103,7 +104,6 @@ def get_scorers_df(players_stats_urls, league_name, league_table):
 	df = pd.DataFrame()
 	for player_stats_url in players_stats_urls:
 		url = home_url + player_stats_url['url']
-		print(url)
 		stats_soup = get_soup(url)
 		table_divs = stats_soup.findAll('div', {'class': 'box'})
 		stats_table = None
@@ -124,9 +124,9 @@ def get_scorers_df(players_stats_urls, league_name, league_table):
 				if len(cells) < 13:
 					continue
 				team = cells[3].find('img', alt=True)['alt']
-				opponent = cells[6].find('a').text.strip()
+				opponent = cells[5].find('a').text.strip()
 				data.append(
-					[cells[0].text.strip(), cells[1].text.strip(), cells[2].text.strip(), player_stats_url['player'], team, opponent, league_table.index(opponent) + 1, cells[7].text.strip(), cells[9].text.strip(), cells[10].text.strip(), cells[14].text.strip()])
+					[cells[0].text.strip(), cells[1].text.strip(), cells[2].text.strip(), player_stats_url['player'], team, opponent, league_table.index(opponent) + 1, cells[6].text.strip(), cells[8].text.strip(), cells[9].text.strip(), cells[13].text.strip()])
 		except Exception as e:
 			continue
 
@@ -136,7 +136,7 @@ def get_scorers_df(players_stats_urls, league_name, league_table):
 	return df
 
 
-def get_goal_types(urls, league):
+def get_goal_types(urls, league, league_table=None):
 	df = pd.DataFrame()
 	columns = ['league', 'player', 'team_venue_goal_number', 'opponent_position', 'final_score', 'minute', 'current_score', 'goal_type']
 	for url in urls:
@@ -191,6 +191,6 @@ def get_goal_types(urls, league):
 	return df
 
 
-# df = get_goal_types([{"player": "Harry Kane", "url": "/harry-kane/alletore/spieler/132098"}], "Premier League")
+# df = get_scorers_df([{"player": "Harry Kane", "url": "/harry-kane/leistungsdaten/spieler/132098"}], "Premier League", ['Man City', 'Man Utd', 'Liverpool', 'Chelsea', 'Leicester', 'West Ham', 'Spurs', 'Arsenal', 'Leeds', 'Everton', 'Aston Villa', 'Newcastle', 'Wolves', 'Crystal Palace', 'Southampton', 'Brighton', 'Burnley', 'Fulham', 'West Brom', 'Sheff Utd'])
 # print(df.head())
 

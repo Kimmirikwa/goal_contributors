@@ -1,0 +1,801 @@
+league,player,team_venue_goal_number,opponent_position,final_score,minute,current_score,goal_type
+Bundesliga,Robert Lewandowski,FC Schalke 04_H_1,18,8:0,31',3:0,Penalty
+Bundesliga,Robert Lewandowski,Hertha BSC_H_1,9,4:3,40',1:0,Right-footed shot
+Bundesliga,Robert Lewandowski,Arm. Bielefeld_A_1,10,1:4,25',0:2,Right-footed shot
+Bundesliga,Robert Lewandowski,E. Frankfurt_H_1,4,5:0,10',1:0,Left-footed shot
+Bundesliga,Robert Lewandowski,Bor. Dortmund_A_1,2,2:3,48',1:2,Header
+Bundesliga,Robert Lewandowski,VfB Stuttgart_A_1,8,1:3,45'+1,1:2,Right-footed shot
+Bundesliga,Robert Lewandowski,Union Berlin_A_1,6,1:1,67',1:1,Right-footed shot
+Bundesliga,Robert Lewandowski,VfL Wolfsburg_H_1,4,2:1,45'+1,1:1,Header
+Bundesliga,Robert Lewandowski,Bay. Leverkusen_A_1,1,1:2,43',1:1,Header
+Bundesliga,Robert Lewandowski,1.FSV Mainz 05_H_1,17,5:2,76',4:2,Penalty
+Bundesliga,Robert Lewandowski,Bor. M'gladbach_A_1,7,3:2,20',0:1,Penalty
+Bundesliga,Robert Lewandowski,SC Freiburg_H_1,8,2:1,7',1:0,Left-footed shot
+Bundesliga,Robert Lewandowski,FC Augsburg_A_1,11,0:1,13',0:1,Penalty
+Bundesliga,Robert Lewandowski,FC Schalke 04_A_1,18,0:4,54',0:2,Right-footed shot
+Bundesliga,Robert Lewandowski,TSG Hoffenheim_H_1,11,4:1,57',3:1,Right-footed shot
+Bundesliga,Robert Lewandowski,Arm. Bielefeld_H_1,16,3:3,48',1:2,Right-footed shot
+Bundesliga,Robert Lewandowski,E. Frankfurt_A_1,3,2:1,53',2:1,Right-footed shot
+Bundesliga,Robert Lewandowski,1. FC Köln_H_1,14,5:1,33',2:0,Right-footed shot
+Bundesliga,Robert Lewandowski,Bor. Dortmund_H_1,5,4:2,26',1:2,Right-footed shot
+Bundesliga,Robert Lewandowski,Werder Bremen_A_1,12,1:3,67',0:3,Right-footed shot
+Bundesliga,Robert Lewandowski,VfB Stuttgart_H_1,8,4:0,18',1:0,Right-footed shot
+Bundesliga,Robert Lewandowski,1.FSV Mainz 05_A_1,13,2:1,90'+4,2:1,Right-footed shot
+Bundesliga,Robert Lewandowski,Bor. M'gladbach_H_1,7,6:0,2',1:0,Right-footed shot
+Bundesliga,Robert Lewandowski,SC Freiburg_A_1,9,2:2,26',0:1,Penalty
+Bundesliga,Robert Lewandowski,FC Augsburg_H_1,12,5:2,90',5:2,Right-footed shot
+Bundesliga,André Silva,Arm. Bielefeld_H_1,15,1:1,62',1:1,Header
+Bundesliga,André Silva,Hertha BSC_A_1,2,1:3,30',0:1,Penalty
+Bundesliga,André Silva,1. FC Köln_A_1,16,1:1,45'+2,0:1,Penalty
+Bundesliga,André Silva,Werder Bremen_H_1,7,1:1,65',1:1,
+Bundesliga,André Silva,VfB Stuttgart_A_1,8,2:2,61',2:1,Right-footed shot
+Bundesliga,André Silva,Union Berlin_A_1,5,3:3,27',2:1,Left-footed shot
+Bundesliga,André Silva,Bor. M'gladbach_H_1,8,3:3,22',1:1,Penalty
+Bundesliga,André Silva,1.FSV Mainz 05_A_1,17,0:2,24',0:1,Penalty
+Bundesliga,André Silva,FC Schalke 04_H_1,17,3:1,28',1:0,Right-footed shot
+Bundesliga,André Silva,Arm. Bielefeld_A_1,15,1:5,25',0:1,Left-footed shot
+Bundesliga,André Silva,Hertha BSC_H_1,14,3:1,67',1:1,Header
+Bundesliga,André Silva,TSG Hoffenheim_A_1,12,1:3,64',1:3,Header
+Bundesliga,André Silva,1. FC Köln_H_1,14,2:0,57',1:0,Right-footed shot
+Bundesliga,André Silva,Werder Bremen_A_1,12,2:1,9',0:1,Header
+Bundesliga,André Silva,Union Berlin_H_1,7,5:2,2',1:0,Right-footed shot
+Bundesliga,André Silva,Bor. Dortmund_A_1,5,1:2,87',1:2,Header
+Bundesliga,André Silva,VfL Wolfsburg_H_1,3,4:3,54',3:2,Right-footed shot
+Bundesliga,André Silva,FC Augsburg_H_1,11,2:0,58',2:0,Header
+Bundesliga,André Silva,Bay. Leverkusen_A_1,6,3:1,90'+1,2:1,Header
+Bundesliga,André Silva,FC Schalke 04_A_1,18,4:3,29',1:1,Header
+Bundesliga,André Silva,SC Freiburg_H_1,10,3:1,62',1:0,Penalty
+Bundesliga,Erling Haaland,Bor. M'gladbach_H_1,8,3:0,54',2:0,Penalty
+Bundesliga,Erling Haaland,SC Freiburg_H_1,5,4:0,31',1:0,Left-footed shot
+Bundesliga,Erling Haaland,FC Schalke 04_H_1,17,3:0,61',2:0,Right-footed shot
+Bundesliga,Erling Haaland,FC Bayern_H_1,1,2:3,83',2:3,Left-footed shot
+Bundesliga,Erling Haaland,Hertha BSC_A_1,12,2:5,47',1:1,Left-footed shot
+Bundesliga,Erling Haaland,RB Leipzig_A_1,2,1:3,71',0:2,Header
+Bundesliga,Erling Haaland,Bor. M'gladbach_A_1,7,4:2,22',1:1,Left-footed shot
+Bundesliga,Erling Haaland,TSG Hoffenheim_H_1,12,2:2,81',2:2,Left-footed shot
+Bundesliga,Erling Haaland,FC Schalke 04_A_1,18,0:4,45',0:2,Left-footed shot
+Bundesliga,Erling Haaland,FC Bayern_A_1,1,4:2,2',0:1,Left-footed shot
+Bundesliga,Erling Haaland,1. FC Köln_A_1,14,2:2,3',0:1,Left-footed shot
+Bundesliga,Erling Haaland,Werder Bremen_H_1,13,4:1,34',2:1,Penalty
+Bundesliga,Erling Haaland,VfL Wolfsburg_A_1,3,0:2,12',0:1,Left-footed shot
+Bundesliga,Erling Haaland,Bay. Leverkusen_H_1,6,3:1,5',1:0,Left-footed shot
+Bundesliga,Wout Weghorst,Bor. M'gladbach_A_1,11,1:1,85',1:1,Right-footed shot
+Bundesliga,Wout Weghorst,Arm. Bielefeld_H_1,14,2:1,19',1:0,Right-footed shot
+Bundesliga,Wout Weghorst,TSG Hoffenheim_H_1,12,2:1,26',2:0,Right-footed shot
+Bundesliga,Wout Weghorst,FC Schalke 04_A_1,17,0:2,3',0:1,Header
+Bundesliga,Wout Weghorst,Werder Bremen_H_1,9,5:3,37',3:2,Right-footed shot
+Bundesliga,Wout Weghorst,1. FC Köln_A_1,15,2:2,47',2:2,Header
+Bundesliga,Wout Weghorst,E. Frankfurt_H_1,9,2:1,76',1:1,Penalty
+Bundesliga,Wout Weghorst,Union Berlin_A_1,5,2:2,65',2:2,Penalty
+Bundesliga,Wout Weghorst,RB Leipzig_H_1,2,2:2,22',1:1,Header
+Bundesliga,Wout Weghorst,1.FSV Mainz 05_A_1,17,0:2,79',0:2,Right-footed shot
+Bundesliga,Wout Weghorst,SC Freiburg_H_1,9,3:0,39',2:0,Right-footed shot
+Bundesliga,Wout Weghorst,FC Augsburg_A_1,13,0:2,38',0:1,Right-footed shot
+Bundesliga,Wout Weghorst,TSG Hoffenheim_A_1,12,2:1,23',1:1,Right-footed shot
+Bundesliga,Wout Weghorst,FC Schalke 04_H_1,18,5:0,51',2:0,Left-footed shot
+Bundesliga,Wout Weghorst,Werder Bremen_A_1,12,1:2,42',0:2,Right-footed shot
+Bundesliga,Wout Weghorst,E. Frankfurt_A_1,4,4:3,46',2:2,Right-footed shot
+Bundesliga,Wout Weghorst,FC Bayern_H_1,1,2:3,35',1:2,Right-footed shot
+Bundesliga,Wout Weghorst,VfB Stuttgart_A_1,10,1:3,29',0:2,Header
+Bundesliga,Andrej Kramaric,1. FC Köln_A_1,16,2:3,3',0:1,Right-footed shot
+Bundesliga,Andrej Kramaric,FC Bayern_H_1,1,4:1,77',3:1,Right-footed shot
+Bundesliga,Andrej Kramaric,E. Frankfurt_A_1,4,2:1,18',0:1,Left-footed shot
+Bundesliga,Andrej Kramaric,VfB Stuttgart_H_1,8,3:3,71',3:2,Penalty
+Bundesliga,Andrej Kramaric,Bor. M'gladbach_A_1,8,1:2,75',1:1,Counter attack goal
+Bundesliga,Andrej Kramaric,Hertha BSC_A_1,13,0:3,68',0:2,Right-footed shot
+Bundesliga,Andrej Kramaric,1. FC Köln_H_1,16,3:0,7',1:0,Penalty
+Bundesliga,Andrej Kramaric,FC Bayern_A_1,1,4:1,44',2:1,Left-footed shot
+Bundesliga,Andrej Kramaric,VfL Wolfsburg_H_1,3,2:1,41',2:1,Right-footed shot
+Bundesliga,Andrej Kramaric,Bor. M'gladbach_H_1,7,3:2,48',1:2,Right-footed shot
+Bundesliga,Andrej Kramaric,SC Freiburg_A_1,9,1:1,40',0:1,Header
+Bundesliga,Andrej Kramaric,FC Schalke 04_H_1,18,4:2,47',1:2,Direct free kick
+Bundesliga,Andrej Kramaric,Arm. Bielefeld_A_1,16,1:1,5',0:1,Left-footed shot
+Bundesliga,Andrej Kramaric,Hertha BSC_H_1,14,2:1,90'+1,2:1,Right-footed shot
+Bundesliga,Sasa Kalajdzic,SC Freiburg_H_1,10,2:3,71',1:3,Left-footed shot
+Bundesliga,Sasa Kalajdzic,1.FSV Mainz 05_A_1,15,1:4,86',1:4,Right-footed shot
+Bundesliga,Sasa Kalajdzic,Bay. Leverkusen_H_1,12,1:1,76',1:1,Header
+Bundesliga,Sasa Kalajdzic,Union Berlin_H_1,6,2:2,85',1:2,Header
+Bundesliga,Sasa Kalajdzic,1.FSV Mainz 05_H_1,17,2:0,55',1:0,Header
+Bundesliga,Sasa Kalajdzic,Bay. Leverkusen_A_1,5,5:2,50',2:1,Right-footed shot
+Bundesliga,Sasa Kalajdzic,Hertha BSC_H_1,15,1:1,45'+1,1:0,Header
+Bundesliga,Sasa Kalajdzic,1. FC Köln_A_1,14,0:1,49',0:1,Header
+Bundesliga,Sasa Kalajdzic,FC Schalke 04_H_1,18,5:1,34',3:0,Header
+Bundesliga,Sasa Kalajdzic,E. Frankfurt_A_1,4,1:1,67',0:1,Right-footed shot
+Bundesliga,Sasa Kalajdzic,TSG Hoffenheim_H_1,11,2:0,64',2:0,Left-footed shot
+Bundesliga,Sasa Kalajdzic,Bor. Dortmund_H_1,5,2:3,17',1:0,Header
+Bundesliga,Sasa Kalajdzic,FC Augsburg_H_1,14,2:1,74',2:1,Header
+Bundesliga,Sasa Kalajdzic,Bor. M'gladbach_A_1,7,1:2,78',1:2,Right-footed shot
+Bundesliga,Lars Stindl,1. FC Köln_A_1,16,1:3,56',0:3,Penalty
+Bundesliga,Lars Stindl,1.FSV Mainz 05_A_1,18,2:3,15',0:1,Left-footed shot
+Bundesliga,Lars Stindl,Bay. Leverkusen_A_1,4,4:3,18',0:1,Penalty
+Bundesliga,Lars Stindl,E. Frankfurt_A_1,9,3:3,14',0:1,Direct free kick
+Bundesliga,Lars Stindl,TSG Hoffenheim_H_1,13,1:2,34',1:0,Penalty
+Bundesliga,Lars Stindl,VfB Stuttgart_A_1,10,2:2,35',0:1,Penalty
+Bundesliga,Lars Stindl,1.FSV Mainz 05_H_1,17,1:2,26',1:1,Right-footed shot
+Bundesliga,Lars Stindl,FC Schalke 04_A_1,18,0:3,15',0:1,Right-footed shot
+Bundesliga,Lars Stindl,Hertha BSC_A_1,14,2:2,38',1:2,Penalty
+Bundesliga,Lars Stindl,VfB Stuttgart_H_1,10,1:2,45',1:0,Right-footed shot
+Bundesliga,Lars Stindl,Werder Bremen_A_1,16,2:4,3',0:1,Right-footed shot
+Bundesliga,Thomas Müller,FC Schalke 04_H_1,18,8:0,69',6:0,Left-footed shot
+Bundesliga,Thomas Müller,Arm. Bielefeld_A_1,10,1:4,8',0:1,Right-footed shot
+Bundesliga,Thomas Müller,1. FC Köln_A_1,16,1:2,13',0:1,Penalty
+Bundesliga,Thomas Müller,RB Leipzig_H_1,2,3:3,34',2:1,Left-footed shot
+Bundesliga,Thomas Müller,SC Freiburg_H_1,8,2:1,74',2:1,Right-footed shot
+Bundesliga,Thomas Müller,FC Schalke 04_A_1,18,0:4,33',0:1,Header
+Bundesliga,Thomas Müller,TSG Hoffenheim_H_1,11,4:1,43',2:0,Left-footed shot
+Bundesliga,Thomas Müller,Bor. M'gladbach_H_1,7,6:0,23',2:0,Left-footed shot
+Bundesliga,Silas Katompa Mvumpa,SC Freiburg_H_1,10,2:3,81',2:3,Left-footed shot
+Bundesliga,Silas Katompa Mvumpa,1.FSV Mainz 05_A_1,15,1:4,45',1:1,Counter attack goal
+Bundesliga,Silas Katompa Mvumpa,TSG Hoffenheim_A_1,13,3:3,27',1:2,Right-footed shot
+Bundesliga,Silas Katompa Mvumpa,Werder Bremen_A_1,11,1:2,30',0:1,Penalty
+Bundesliga,Silas Katompa Mvumpa,Bor. Dortmund_A_1,4,1:5,27',0:1,Penalty
+Bundesliga,Silas Katompa Mvumpa,FC Augsburg_A_1,10,1:4,29',0:2,Right-footed shot
+Bundesliga,Silas Katompa Mvumpa,Bor. M'gladbach_H_1,7,2:2,90'+6,2:2,Penalty
+Bundesliga,Silas Katompa Mvumpa,SC Freiburg_A_1,9,2:1,7',0:1,Right-footed shot
+Bundesliga,Silas Katompa Mvumpa,1.FSV Mainz 05_H_1,17,2:0,72',2:0,Right-footed shot
+Bundesliga,Max Kruse,1.FSV Mainz 05_H_1,17,4:0,13',1:0,Header
+Bundesliga,Max Kruse,TSG Hoffenheim_A_1,9,1:3,60',0:1,Penalty
+Bundesliga,Max Kruse,Arm. Bielefeld_H_1,15,5:0,52',4:0,Penalty
+Bundesliga,Max Kruse,1. FC Köln_A_1,16,1:2,72',1:2,Penalty rebound
+Bundesliga,Max Kruse,E. Frankfurt_H_1,11,3:3,6',2:0,Penalty
+Bundesliga,Max Kruse,TSG Hoffenheim_H_1,11,1:1,9',1:0,Penalty
+Bundesliga,Max Kruse,1. FC Köln_H_1,14,2:1,48',1:1,Penalty
+Bundesliga,Max Kruse,E. Frankfurt_A_1,4,5:2,7',1:1,Right-footed shot
+Bundesliga,Max Kruse,RB Leipzig_H_1,2,2:1,90'+2,2:1,Header
+Bundesliga,Lucas Alario,1.FSV Mainz 05_A_1,17,0:1,30',0:1,Header
+Bundesliga,Lucas Alario,FC Augsburg_H_1,6,3:1,16',1:0,Penalty
+Bundesliga,Lucas Alario,SC Freiburg_A_1,13,2:4,29',1:1,Right-footed shot
+Bundesliga,Lucas Alario,Bor. M'gladbach_H_1,5,4:3,27',1:1,Counter attack goal
+Bundesliga,Lucas Alario,TSG Hoffenheim_H_1,10,4:1,90'+1,4:1,Penalty
+Bundesliga,Lucas Alario,1.FSV Mainz 05_H_1,17,2:2,14',1:0,Right-footed shot
+Bundesliga,Lucas Alario,FC Schalke 04_H_1,18,2:1,26',1:0,Right-footed shot
+Bundesliga,Lucas Alario,E. Frankfurt_H_1,4,3:1,80',2:0,Left-footed shot
+Bundesliga,Serge Gnabry,FC Schalke 04_H_1,18,8:0,4',1:0,Left-footed shot
+Bundesliga,Serge Gnabry,1. FC Köln_A_1,16,1:2,45'+1,0:2,Counter attack goal
+Bundesliga,Serge Gnabry,TSG Hoffenheim_H_1,11,4:1,63',4:1,Left-footed shot
+Bundesliga,Serge Gnabry,1. FC Köln_H_1,14,5:1,82',4:1,Right-footed shot
+Bundesliga,Serge Gnabry,Werder Bremen_A_1,12,1:3,35',0:2,Right-footed shot
+Bundesliga,Serge Gnabry,VfB Stuttgart_H_1,8,4:0,22',2:0,Left-footed shot
+Bundesliga,Serge Gnabry,FC Augsburg_H_1,12,5:2,23',2:0,Header
+Bundesliga,Vincenzo Grifo,VfB Stuttgart_A_1,9,2:3,48',0:3,Right-footed shot
+Bundesliga,Vincenzo Grifo,Union Berlin_A_1,10,1:1,34',0:1,Right-footed shot
+Bundesliga,Vincenzo Grifo,FC Augsburg_A_1,10,1:1,64',0:1,Right-footed shot
+Bundesliga,Vincenzo Grifo,Bor. M'gladbach_H_1,7,2:2,49',2:1,Penalty
+Bundesliga,Vincenzo Grifo,Arm. Bielefeld_H_1,16,2:0,79',1:0,Penalty
+Bundesliga,Vincenzo Grifo,Hertha BSC_H_1,12,4:1,7',1:0,Header
+Bundesliga,Vincenzo Grifo,TSG Hoffenheim_A_1,12,1:3,34',0:2,Penalty
+Bundesliga,Vincenzo Grifo,TSG Hoffenheim_H_1,11,1:1,81',1:1,Penalty
+Bundesliga,Vincenzo Grifo,1. FC Köln_A_1,17,1:4,90'+3,1:3,Right-footed shot
+Bundesliga,Leon Bailey,Bor. M'gladbach_H_1,5,4:3,68',3:2,Counter attack goal
+Bundesliga,Leon Bailey,Arm. Bielefeld_A_1,15,1:2,27',0:1,Right-footed shot
+Bundesliga,Leon Bailey,TSG Hoffenheim_H_1,10,4:1,4',1:0,Left-footed shot
+Bundesliga,Leon Bailey,VfB Stuttgart_H_1,10,5:2,56',3:1,Right-footed shot
+Bundesliga,Leon Bailey,SC Freiburg_H_1,9,1:2,70',1:2,Right-footed shot
+Bundesliga,Leon Bailey,1. FC Köln_H_1,17,3:0,5',1:0,Header
+Bundesliga,Leon Bailey,E. Frankfurt_H_1,4,3:1,70',1:0,Left-footed shot
+Bundesliga,Ihlas Bebou,1.FSV Mainz 05_A_1,15,1:1,62',1:1,Right-footed shot
+Bundesliga,Ihlas Bebou,FC Augsburg_H_1,8,3:1,50',3:1,Left-footed shot
+Bundesliga,Ihlas Bebou,SC Freiburg_H_1,10,1:3,58',1:3,Right-footed shot
+Bundesliga,Ihlas Bebou,E. Frankfurt_H_1,4,1:3,47',1:1,Left-footed shot
+Bundesliga,Ihlas Bebou,Bor. Dortmund_A_1,6,2:2,51',1:2,Header
+Bundesliga,Ihlas Bebou,Werder Bremen_H_1,11,4:0,26',1:0,Right-footed shot
+Bundesliga,Ihlas Bebou,1.FSV Mainz 05_H_1,17,1:2,39',1:1,Right-footed shot
+Bundesliga,Ihlas Bebou,Bor. M'gladbach_H_1,7,3:2,60',2:2,Right-footed shot
+Bundesliga,Ihlas Bebou,FC Schalke 04_H_1,18,4:2,64',4:2,Left-footed shot
+Bundesliga,Patrik Schick,VfB Stuttgart_A_1,8,1:1,7',0:1,Header
+Bundesliga,Patrik Schick,FC Schalke 04_A_1,18,0:3,78',0:3,Left-footed shot
+Bundesliga,Patrik Schick,1. FC Köln_A_1,15,0:4,54',0:3,Left-footed shot
+Bundesliga,Patrik Schick,FC Bayern_H_1,2,1:2,14',1:0,Left-footed shot
+Bundesliga,Patrik Schick,Werder Bremen_H_1,14,1:1,70',1:1,Left-footed shot
+Bundesliga,Patrik Schick,1.FSV Mainz 05_H_1,17,2:2,84',2:0,Left-footed shot
+Bundesliga,Patrik Schick,Bor. M'gladbach_A_1,9,0:1,76',0:1,Left-footed shot
+Bundesliga,Patrik Schick,Arm. Bielefeld_H_1,16,1:2,85',1:2,Right-footed shot
+Bundesliga,Patrik Schick,FC Schalke 04_H_1,18,2:1,72',2:0,Left-footed shot
+Bundesliga,Jadon Sancho,VfL Wolfsburg_H_1,4,2:0,90'+1,2:0,Right-footed shot
+Bundesliga,Jadon Sancho,RB Leipzig_A_1,2,1:3,55',0:1,Right-footed shot
+Bundesliga,Jadon Sancho,FC Augsburg_H_1,12,3:1,63',2:1,Right-footed shot
+Bundesliga,Jadon Sancho,TSG Hoffenheim_H_1,12,2:2,24',1:0,Right-footed shot
+Bundesliga,Jadon Sancho,FC Schalke 04_A_1,18,0:4,42',0:1,Right-footed shot
+Bundesliga,Jadon Sancho,Arm. Bielefeld_H_1,16,3:0,58',2:0,Penalty
+Bundesliga,Jadon Sancho,RB Leipzig_H_1,2,3:2,51',2:0,Right-footed shot
+Bundesliga,Marco Reus,TSG Hoffenheim_A_1,6,0:1,76',0:1,Left-footed shot
+Bundesliga,Marco Reus,FC Bayern_H_1,1,2:3,45',1:0,Right-footed shot
+Bundesliga,Marco Reus,Werder Bremen_A_1,13,1:2,78',1:2,Penalty rebound
+Bundesliga,Marco Reus,VfB Stuttgart_A_1,8,2:3,52',1:2,Right-footed shot
+Bundesliga,Marco Reus,Union Berlin_H_1,8,2:0,27',1:0,Right-footed shot
+Bundesliga,Marco Reus,RB Leipzig_H_1,2,3:2,7',1:0,Left-footed shot
+Bundesliga,Marco Reus,1.FSV Mainz 05_A_1,12,1:3,42',0:2,Right-footed shot
+Bundesliga,Marco Reus,Bay. Leverkusen_H_1,6,3:1,51',2:0,Direct free kick
+Bundesliga,Marcus Thuram,Union Berlin_H_1,14,1:1,56',1:0,Header
+Bundesliga,Marcus Thuram,FC Schalke 04_H_1,18,4:1,52',3:1,Left-footed shot
+Bundesliga,Marcus Thuram,Bor. Dortmund_H_1,4,4:2,79',4:2,Header
+Bundesliga,Marcus Thuram,RB Leipzig_A_1,2,3:2,19',0:2,
+Bundesliga,Marcus Thuram,SC Freiburg_H_1,8,2:1,53',1:1,Right-footed shot
+Bundesliga,Marcus Thuram,Arm. Bielefeld_H_1,16,5:0,15',2:0,Left-footed shot
+Bundesliga,Marcus Thuram,Werder Bremen_A_1,16,2:4,52',0:2,Right-footed shot
+Bundesliga,Roland Sallai,VfB Stuttgart_A_1,9,2:3,26',0:2,Tap-in
+Bundesliga,Roland Sallai,FC Schalke 04_A_1,18,0:2,50',0:1,Header
+Bundesliga,Roland Sallai,1. FC Köln_H_1,15,5:0,59',3:0,Left-footed shot
+Bundesliga,Roland Sallai,E. Frankfurt_H_1,7,2:2,32',1:1,Right-footed shot
+Bundesliga,Roland Sallai,FC Augsburg_H_1,13,2:0,51',1:0,Right-footed shot
+Bundesliga,Roland Sallai,Bor. M'gladbach_A_1,10,2:1,10',0:1,Right-footed shot
+Bundesliga,Roland Sallai,FC Schalke 04_H_1,18,4:0,22',2:0,Penalty
+Bundesliga,André Hahn,Union Berlin_A_1,7,1:3,89',1:3,Left-footed shot
+Bundesliga,André Hahn,1.FSV Mainz 05_H_1,18,3:1,80',2:1,Right-footed shot
+Bundesliga,André Hahn,Bor. Dortmund_A_1,7,3:1,10',0:1,Right-footed shot
+Bundesliga,André Hahn,1.FSV Mainz 05_A_1,17,0:1,25',0:1,Right-footed shot
+Bundesliga,André Hahn,Bor. M'gladbach_H_1,10,3:1,89',3:1,Right-footed shot
+Bundesliga,André Hahn,TSG Hoffenheim_H_1,11,2:1,23',2:0,Right-footed shot
+Bundesliga,André Hahn,FC Bayern_A_1,1,5:2,67',4:1,Header
+Bundesliga,Marcel Sabitzer,Hertha BSC_H_1,15,2:1,77',2:1,Penalty
+Bundesliga,Marcel Sabitzer,SC Freiburg_H_1,13,3:0,70',2:0,Penalty
+Bundesliga,Marcel Sabitzer,Werder Bremen_H_1,13,2:0,26',1:0,Penalty
+Bundesliga,Marcel Sabitzer,FC Schalke 04_A_1,18,0:3,73',0:2,Right-footed shot
+Bundesliga,Marcel Sabitzer,Hertha BSC_A_1,15,0:3,28',0:1,Right-footed shot
+Bundesliga,Marcel Sabitzer,Arm. Bielefeld_A_1,15,0:1,46',0:1,Right-footed shot
+Bundesliga,Marcel Sabitzer,Werder Bremen_A_1,13,1:4,63',1:4,Right-footed shot
+Bundesliga,Marcel Sabitzer,VfL Wolfsburg_H_1,3,2:2,78',2:2,Penalty
+Bundesliga,Nils Petersen,VfB Stuttgart_A_1,9,2:3,8',0:1,Header
+Bundesliga,Nils Petersen,VfL Wolfsburg_H_1,11,1:1,11',1:0,Header
+Bundesliga,Nils Petersen,Bay. Leverkusen_H_1,4,2:4,72',2:3,Right-footed shot
+Bundesliga,Nils Petersen,1.FSV Mainz 05_H_1,18,1:3,63',1:3,Left-footed shot
+Bundesliga,Nils Petersen,Hertha BSC_H_1,12,4:1,90'+4,4:1,Penalty
+Bundesliga,Nils Petersen,FC Bayern_A_1,1,2:1,62',1:1,Header
+Bundesliga,Nils Petersen,E. Frankfurt_H_1,7,2:2,63',2:1,Left-footed shot
+Bundesliga,Nils Petersen,1. FC Köln_A_1,17,1:4,18',0:1,Left-footed shot
+Bundesliga,Ondrej Duda,E. Frankfurt_H_1,3,1:1,52',1:1,
+Bundesliga,Ondrej Duda,VfL Wolfsburg_H_1,5,2:2,43',2:1,Right-footed shot
+Bundesliga,Ondrej Duda,Union Berlin_A_1,7,2:1,45'+2,0:1,Penalty
+Bundesliga,Ondrej Duda,Bor. Dortmund_H_1,5,2:2,35',1:1,Penalty
+Bundesliga,Ondrej Duda,1.FSV Mainz 05_H_1,15,2:3,43',1:1,Penalty
+Bundesliga,Ondrej Duda,FC Augsburg_A_1,12,2:3,8',0:1,Left-footed shot
+Bundesliga,Matheus Cunha,Werder Bremen_A_1,17,1:4,62',0:3,Right-footed shot
+Bundesliga,Matheus Cunha,FC Bayern_A_1,7,4:3,71',2:2,Right-footed shot
+Bundesliga,Matheus Cunha,VfL Wolfsburg_H_1,10,1:1,6',1:0,Left-footed shot
+Bundesliga,Matheus Cunha,FC Augsburg_A_1,6,0:3,44',0:1,Penalty
+Bundesliga,Matheus Cunha,Bor. Dortmund_H_1,3,2:5,33',1:0,Right-footed shot
+Bundesliga,Matheus Cunha,Bay. Leverkusen_H_1,6,3:0,26',2:0,Right-footed shot
+Bundesliga,Emil Forsberg,1.FSV Mainz 05_H_1,12,3:1,17',1:0,Penalty
+Bundesliga,Emil Forsberg,Bay. Leverkusen_A_1,10,1:1,14',0:1,Left-footed shot
+Bundesliga,Emil Forsberg,FC Bayern_A_1,1,3:3,48',2:3,Header
+Bundesliga,Emil Forsberg,Union Berlin_H_1,5,1:0,70',1:0,Right-footed shot
+Bundesliga,Emil Forsberg,SC Freiburg_A_1,8,0:3,79',0:3,Right-footed shot
+Bundesliga,Emil Forsberg,E. Frankfurt_H_1,4,1:1,46',1:0,Right-footed shot
+Bundesliga,Emil Forsberg,VfB Stuttgart_H_1,10,2:0,67',2:0,Penalty
+Bundesliga,Josip Brekalo,SC Freiburg_A_1,7,1:1,42',1:1,Direct free kick
+Bundesliga,Josip Brekalo,VfB Stuttgart_H_1,7,1:0,49',1:0,Direct free kick
+Bundesliga,Josip Brekalo,FC Schalke 04_H_1,18,5:0,64',4:0,Right-footed shot
+Bundesliga,Josip Brekalo,1. FC Köln_H_1,16,1:0,69',1:0,Right-footed shot
+Bundesliga,Josip Brekalo,Union Berlin_H_1,8,3:0,12',1:0,Right-footed shot
+Bundesliga,Krzysztof Piatek,FC Augsburg_A_1,6,0:3,85',0:3,Right-footed shot
+Bundesliga,Krzysztof Piatek,Union Berlin_H_1,6,3:1,74',2:1,Left-footed shot
+Bundesliga,Krzysztof Piatek,FC Schalke 04_H_1,18,3:0,80',3:0,Right-footed shot
+Bundesliga,Krzysztof Piatek,E. Frankfurt_A_1,6,3:1,66',0:1,Right-footed shot
+Bundesliga,Krzysztof Piatek,FC Augsburg_H_1,13,2:1,62',1:1,Header
+Bundesliga,Krzysztof Piatek,SC Freiburg_H_1,9,3:0,13',1:0,Right-footed shot
+Bundesliga,Jhon Córdoba,Werder Bremen_A_1,17,1:4,90',1:4,Right-footed shot
+Bundesliga,Jhon Córdoba,FC Bayern_A_1,7,4:3,59',2:1,Header
+Bundesliga,Jhon Córdoba,RB Leipzig_A_1,1,2:1,8',0:1,Right-footed shot
+Bundesliga,Jhon Córdoba,FC Schalke 04_H_1,18,3:0,52',2:0,Right-footed shot
+Bundesliga,Jhon Córdoba,Werder Bremen_H_1,13,1:4,45'+2,1:2,Header
+Bundesliga,Jhon Córdoba,Bay. Leverkusen_H_1,6,3:0,33',3:0,Left-footed shot
+Bundesliga,Jhon Córdoba,Bor. M'gladbach_H_1,9,2:2,49',2:2,Left-footed shot
+Bundesliga,Jean-Philippe Mateta,RB Leipzig_A_1,2,3:1,48',2:1,Right-footed shot
+Bundesliga,Jean-Philippe Mateta,Bor. M'gladbach_H_1,11,2:3,23',1:1,Left-footed shot
+Bundesliga,Jean-Philippe Mateta,FC Schalke 04_H_1,17,2:2,45'+2,2:1,Penalty
+Bundesliga,Jean-Philippe Mateta,SC Freiburg_A_1,14,1:3,2',0:1,Right-footed shot
+Bundesliga,Jonas Hofmann,VfL Wolfsburg_H_1,15,1:1,78',1:0,Penalty
+Bundesliga,Jonas Hofmann,1.FSV Mainz 05_A_1,18,2:3,76',2:2,Penalty
+Bundesliga,Jonas Hofmann,FC Bayern_H_1,1,3:2,35',1:2,Left-footed shot
+Bundesliga,Jonas Hofmann,RB Leipzig_A_1,2,3:2,6',0:1,Penalty
+Bundesliga,Jonas Hofmann,E. Frankfurt_H_1,4,4:0,60',2:0,Right-footed shot
+Bundesliga,Leroy Sané,FC Schalke 04_H_1,18,8:0,71',7:0,Left-footed shot
+Bundesliga,Leroy Sané,E. Frankfurt_H_1,4,5:0,72',4:0,Left-footed shot
+Bundesliga,Leroy Sané,Bor. Dortmund_A_1,2,2:3,80',1:3,Counter attack goal
+Bundesliga,Leroy Sané,1.FSV Mainz 05_H_1,17,5:2,55',2:2,Left-footed shot
+Bundesliga,Leroy Sané,Bor. M'gladbach_H_1,7,6:0,85',6:0,Right-footed shot
+Bundesliga,Leroy Sané,SC Freiburg_A_1,9,2:2,53',1:2,Left-footed shot
+Bundesliga,Ridle Baku,Hertha BSC_A_1,15,1:1,20',1:1,Left-footed shot
+Bundesliga,Ridle Baku,Werder Bremen_H_1,9,5:3,22',1:1,Left-footed shot
+Bundesliga,Ridle Baku,Bay. Leverkusen_A_1,3,0:1,35',0:1,Header
+Bundesliga,Ridle Baku,FC Augsburg_A_1,13,0:2,59',0:2,Right-footed shot
+Bundesliga,Ridle Baku,FC Schalke 04_H_1,18,5:0,58',3:0,Right-footed shot
+Bundesliga,Ridle Baku,E. Frankfurt_A_1,4,4:3,6',0:1,Left-footed shot
+Bundesliga,Christopher Nkunku,Arm. Bielefeld_H_1,16,2:1,47',2:0,Right-footed shot
+Bundesliga,Christopher Nkunku,FC Bayern_A_1,1,3:3,19',0:1,Counter attack goal
+Bundesliga,Christopher Nkunku,Bay. Leverkusen_H_1,3,1:0,51',1:0,Right-footed shot
+Bundesliga,Christopher Nkunku,FC Augsburg_H_1,13,2:1,43',2:0,Left-footed shot
+Bundesliga,Christopher Nkunku,Bor. M'gladbach_H_1,8,3:2,57',1:2,Right-footed shot
+Bundesliga,Christopher Nkunku,SC Freiburg_A_1,8,0:3,41',0:1,Right-footed shot
+Bundesliga,Florian Neuhaus,FC Augsburg_H_1,10,1:1,5',1:0,Right-footed shot
+Bundesliga,Florian Neuhaus,FC Schalke 04_H_1,18,4:1,15',1:0,Right-footed shot
+Bundesliga,Florian Neuhaus,FC Bayern_H_1,1,3:2,49',3:2,Right-footed shot
+Bundesliga,Florian Neuhaus,1. FC Köln_H_1,14,1:2,16',1:1,Right-footed shot
+Bundesliga,Florian Neuhaus,FC Augsburg_A_1,13,3:1,68',1:1,Right-footed shot
+Bundesliga,Florian Neuhaus,Werder Bremen_A_1,16,2:4,67',0:4,Right-footed shot
+Bundesliga,Daniel Caligiuri,Bor. Dortmund_H_1,3,2:0,54',2:0,Right-footed shot
+Bundesliga,Daniel Caligiuri,Bay. Leverkusen_A_1,9,3:1,51',1:1,Left-footed shot
+Bundesliga,Daniel Caligiuri,Bor. M'gladbach_A_1,7,1:1,88',1:1,Right-footed shot
+Bundesliga,Daniel Caligiuri,TSG Hoffenheim_A_1,12,3:1,31',1:1,Header
+Bundesliga,Daniel Caligiuri,RB Leipzig_A_1,2,2:1,77',2:1,Penalty
+Bundesliga,Daniel Caligiuri,Werder Bremen_H_1,15,2:0,90',2:0,Penalty
+Bundesliga,Christoph Baumgartner,VfB Stuttgart_H_1,8,3:3,16',1:0,Right-footed shot
+Bundesliga,Christoph Baumgartner,Bay. Leverkusen_A_1,2,4:1,50',2:1,Right-footed shot
+Bundesliga,Christoph Baumgartner,1. FC Köln_H_1,16,3:0,28',2:0,Right-footed shot
+Bundesliga,Christoph Baumgartner,Werder Bremen_H_1,11,4:0,44',2:0,Right-footed shot
+Bundesliga,Christoph Baumgartner,VfL Wolfsburg_H_1,3,2:1,8',1:0,Right-footed shot
+Bundesliga,Christoph Baumgartner,FC Schalke 04_H_1,18,4:2,60',3:2,Header
+Bundesliga,Rubén Vargas,Union Berlin_A_1,7,1:3,40',0:1,Header
+Bundesliga,Rubén Vargas,1.FSV Mainz 05_H_1,18,3:1,40',1:0,Right-footed shot
+Bundesliga,Rubén Vargas,SC Freiburg_H_1,14,1:1,80',1:1,Right-footed shot
+Bundesliga,Rubén Vargas,Bor. M'gladbach_H_1,10,3:1,52',1:0,Header
+Bundesliga,Rubén Vargas,TSG Hoffenheim_H_1,11,2:1,8',1:0,Right-footed shot
+Bundesliga,Rubén Vargas,1. FC Köln_H_1,17,2:3,62',2:3,Right-footed shot
+Bundesliga,Robin Quaison,VfB Stuttgart_H_1,13,1:4,13',1:0,Header
+Bundesliga,Robin Quaison,TSG Hoffenheim_H_1,12,1:1,33',1:0,Left-footed shot
+Bundesliga,Robin Quaison,SC Freiburg_H_1,8,1:0,84',1:0,Left-footed shot
+Bundesliga,Robin Quaison,FC Bayern_H_1,1,2:1,37',2:0,Header
+Bundesliga,Robin Quaison,Bor. Dortmund_H_1,4,1:3,90'+1,1:3,Penalty
+Bundesliga,Robin Quaison,VfL Wolfsburg_A_1,4,2:3,54',1:2,Right-footed shot
+Bundesliga,Maximilian Philipp,FC Bayern_A_1,2,2:1,5',0:1,Right-footed shot
+Bundesliga,Maximilian Philipp,FC Schalke 04_H_1,18,5:0,79',5:0,Right-footed shot
+Bundesliga,Maximilian Philipp,FC Bayern_H_1,1,2:3,54',2:3,Right-footed shot
+Bundesliga,Maximilian Philipp,RB Leipzig_A_1,2,2:2,11',0:1,Right-footed shot
+Bundesliga,Maximilian Philipp,1.FSV Mainz 05_H_1,13,2:3,47',1:1,Right-footed shot
+Bundesliga,Nicolás González,FC Schalke 04_A_1,17,1:1,56',1:1,Penalty
+Bundesliga,Nicolás González,E. Frankfurt_H_1,10,2:2,17',1:0,Penalty
+Bundesliga,Nicolás González,TSG Hoffenheim_A_1,13,3:3,18',1:1,Left-footed shot
+Bundesliga,Nicolás González,Bor. Dortmund_A_1,4,1:5,90'+1,1:5,Left-footed shot
+Bundesliga,Nicolás González,FC Augsburg_A_1,10,1:4,10',0:1,Penalty
+Bundesliga,Nicolás González,Bor. M'gladbach_H_1,7,2:2,58',1:1,Header
+Bundesliga,Alassane Plea,1. FC Köln_A_1,16,1:3,14',0:1,Right-footed shot
+Bundesliga,Alassane Plea,SC Freiburg_A_1,14,2:2,50',2:2,Right-footed shot
+Bundesliga,Alassane Plea,Union Berlin_A_1,8,1:1,59',1:1,Right-footed shot
+Bundesliga,Alassane Plea,Hertha BSC_A_1,14,2:2,27',1:1,Right-footed shot
+Bundesliga,Alassane Plea,TSG Hoffenheim_A_1,12,3:2,25',0:1,Left-footed shot
+Bundesliga,Alassane Plea,Arm. Bielefeld_H_1,16,5:0,84',5:0,Right-footed shot
+Bundesliga,Jamal Musiala,FC Schalke 04_H_1,18,8:0,81',8:0,Right-footed shot
+Bundesliga,Jamal Musiala,E. Frankfurt_H_1,4,5:0,90',5:0,Right-footed shot
+Bundesliga,Jamal Musiala,RB Leipzig_H_1,2,3:3,30',1:1,Right-footed shot
+Bundesliga,Jamal Musiala,Union Berlin_H_1,7,1:1,68',1:0,Left-footed shot
+Bundesliga,Jamal Musiala,VfL Wolfsburg_A_1,3,2:3,15',0:1,Right-footed shot
+Bundesliga,Matthew Hoppe,TSG Hoffenheim_H_1,13,4:0,42',1:0,Left-footed shot
+Bundesliga,Matthew Hoppe,E. Frankfurt_A_1,9,3:1,29',1:1,Right-footed shot
+Bundesliga,Matthew Hoppe,1. FC Köln_H_1,16,1:2,57',1:1,Right-footed shot
+Bundesliga,Matthew Hoppe,E. Frankfurt_H_1,5,4:3,64',4:2,Right-footed shot
+Bundesliga,Joel Pohjanpalo,1.FSV Mainz 05_H_1,17,4:0,64',4:0,Right-footed shot
+Bundesliga,Joel Pohjanpalo,TSG Hoffenheim_A_1,9,1:3,85',1:2,Right-footed shot
+Bundesliga,Joel Pohjanpalo,Werder Bremen_H_1,15,3:1,50',1:0,Right-footed shot
+Bundesliga,Joel Pohjanpalo,Bay. Leverkusen_A_1,6,1:1,72',1:1,Left-footed shot
+Bundesliga,Niclas Füllkrug,FC Schalke 04_A_1,18,1:3,22',0:1,Right-footed shot
+Bundesliga,Niclas Füllkrug,SC Freiburg_A_1,12,1:1,25',1:1,Penalty
+Bundesliga,Niclas Füllkrug,FC Bayern_H_1,1,1:3,86',1:3,Right-footed shot
+Bundesliga,Niclas Füllkrug,Bor. M'gladbach_H_1,8,2:4,83',2:4,Right-footed shot
+Bundesliga,Daichi Kamada,TSG Hoffenheim_H_1,1,2:1,54',1:1,Right-footed shot
+Bundesliga,Daichi Kamada,Bor. Dortmund_H_1,4,1:1,9',1:0,Left-footed shot
+Bundesliga,Daichi Kamada,FC Bayern_H_1,1,2:1,12',1:0,Right-footed shot
+Bundesliga,Daichi Kamada,RB Leipzig_A_1,2,1:1,61',1:1,Right-footed shot
+Bundesliga,Daichi Kamada,VfL Wolfsburg_H_1,3,4:3,8',1:1,Right-footed shot
+Bundesliga,Kingsley Coman,Werder Bremen_H_1,9,1:1,62',1:1,Header
+Bundesliga,Kingsley Coman,VfB Stuttgart_A_1,8,1:3,38',1:1,Right-footed shot
+Bundesliga,Kingsley Coman,Hertha BSC_A_1,15,0:1,21',0:1,Right-footed shot
+Bundesliga,Kingsley Coman,Bor. M'gladbach_H_1,7,6:0,44',4:0,Right-footed shot
+Bundesliga,Kingsley Coman,FC Augsburg_H_1,12,5:2,43',4:0,Right-footed shot
+Bundesliga,Raphaël Guerreiro,Hertha BSC_A_1,12,2:5,70',1:4,Left-footed shot
+Bundesliga,Raphaël Guerreiro,Werder Bremen_A_1,13,1:2,12',0:1,Left-footed shot
+Bundesliga,Raphaël Guerreiro,FC Schalke 04_A_1,18,0:4,60',0:3,Left-footed shot
+Bundesliga,Raphaël Guerreiro,Union Berlin_H_1,8,2:0,88',2:0,Left-footed shot
+Bundesliga,Raphaël Guerreiro,1.FSV Mainz 05_A_1,12,1:3,23',0:1,Left-footed shot
+Bundesliga,Dani Olmo,Werder Bremen_H_1,13,2:0,41',2:0,Right-footed shot
+Bundesliga,Dani Olmo,VfB Stuttgart_A_1,7,0:1,67',0:1,Right-footed shot
+Bundesliga,Dani Olmo,FC Augsburg_H_1,13,2:1,38',1:0,Penalty
+Bundesliga,Dani Olmo,Werder Bremen_A_1,13,1:4,23',0:1,Right-footed shot
+Bundesliga,Dani Olmo,Bor. Dortmund_A_1,5,3:2,77',2:2,Right-footed shot
+Bundesliga,Ermedin Demirovic,Hertha BSC_H_1,12,4:1,59',2:1,Right-footed shot
+Bundesliga,Ermedin Demirovic,1. FC Köln_H_1,15,5:0,18',1:0,Header
+Bundesliga,Ermedin Demirovic,VfB Stuttgart_H_1,10,2:1,14',1:1,Right-footed shot
+Bundesliga,Ermedin Demirovic,Bay. Leverkusen_A_1,5,1:2,50',0:1,Right-footed shot
+Bundesliga,Ermedin Demirovic,1. FC Köln_A_1,17,1:4,20',0:2,Right-footed shot
+Bundesliga,Leon Goretzka,FC Schalke 04_H_1,18,8:0,19',2:0,Right-footed shot
+Bundesliga,Leon Goretzka,Bor. M'gladbach_A_1,7,3:2,26',0:2,Right-footed shot
+Bundesliga,Leon Goretzka,Bor. Dortmund_H_1,5,4:2,88',3:2,Right-footed shot
+Bundesliga,Leon Goretzka,Werder Bremen_A_1,12,1:3,23',0:1,Header
+Bundesliga,Leon Goretzka,RB Leipzig_A_1,2,0:1,38',0:1,Right-footed shot
+Bundesliga,Breel Embolo,SC Freiburg_A_1,14,2:2,23',0:1,Left-footed shot
+Bundesliga,Breel Embolo,Hertha BSC_H_1,12,1:1,70',1:1,
+Bundesliga,Breel Embolo,Arm. Bielefeld_A_1,16,0:1,58',0:1,Right-footed shot
+Bundesliga,Breel Embolo,Arm. Bielefeld_H_1,16,5:0,6',1:0,Right-footed shot
+Bundesliga,Florian Wirtz,TSG Hoffenheim_H_1,10,4:1,55',3:1,Right-footed shot
+Bundesliga,Florian Wirtz,1. FC Köln_A_1,15,0:4,59',0:4,Right-footed shot
+Bundesliga,Florian Wirtz,Bor. Dortmund_H_1,4,2:1,80',2:1,Right-footed shot
+Bundesliga,Florian Wirtz,VfB Stuttgart_H_1,10,5:2,68',4:1,Header
+Bundesliga,Florian Wirtz,Union Berlin_H_1,8,1:1,26',1:0,Left-footed shot
+Bundesliga,Dodi Lukebakio,Werder Bremen_A_1,17,1:4,45'+2,0:2,Left-footed shot
+Bundesliga,Dodi Lukebakio,FC Augsburg_A_1,6,0:3,51',0:2,Left-footed shot
+Bundesliga,Dodi Lukebakio,SC Freiburg_A_1,11,4:1,52',1:1,Left-footed shot
+Bundesliga,Dodi Lukebakio,FC Augsburg_H_1,13,2:1,89',2:1,Penalty
+Bundesliga,Dodi Lukebakio,Union Berlin_A_1,7,1:1,35',1:1,Penalty
+Bundesliga,Yussuf Poulsen,1.FSV Mainz 05_H_1,12,3:1,21',2:0,Header
+Bundesliga,Yussuf Poulsen,FC Augsburg_A_1,2,0:2,66',0:2,Left-footed shot
+Bundesliga,Yussuf Poulsen,E. Frankfurt_A_1,11,1:1,57',1:1,Right-footed shot
+Bundesliga,Yussuf Poulsen,TSG Hoffenheim_A_1,12,0:1,60',0:1,Right-footed shot
+Bundesliga,Yussuf Poulsen,Bor. M'gladbach_H_1,8,3:2,66',2:2,Right-footed shot
+Bundesliga,Florian Niederlechner,Union Berlin_H_1,6,2:1,17',1:0,Right-footed shot
+Bundesliga,Florian Niederlechner,Bay. Leverkusen_H_1,5,1:1,5',1:0,Right-footed shot
+Bundesliga,Florian Niederlechner,VfB Stuttgart_A_1,10,2:1,59',1:1,Header
+Bundesliga,Florian Niederlechner,FC Bayern_A_1,1,5:2,72',4:2,Right-footed shot
+Bundesliga,Renato Steffen,TSG Hoffenheim_H_1,12,2:1,5',1:0,Counter attack goal
+Bundesliga,Renato Steffen,Union Berlin_A_1,5,2:2,10',0:1,Header
+Bundesliga,Renato Steffen,RB Leipzig_H_1,2,2:2,35',2:1,Left-footed shot
+Bundesliga,Renato Steffen,Arm. Bielefeld_A_1,16,0:3,29',0:1,Left-footed shot
+Bundesliga,Ritsu Doan,FC Bayern_H_1,4,1:4,58',1:4,Counter attack goal
+Bundesliga,Ritsu Doan,1.FSV Mainz 05_H_1,16,2:1,31',2:0,Left-footed shot
+Bundesliga,Ritsu Doan,VfB Stuttgart_H_1,10,3:0,86',3:0,Right-footed shot
+Bundesliga,Ritsu Doan,Bay. Leverkusen_A_1,5,1:2,17',0:1,Left-footed shot
+Bundesliga,Ritsu Doan,VfB Stuttgart_A_1,9,0:2,72',0:2,Left-footed shot
+Bundesliga,Ellyes Skhiri,Union Berlin_H_1,5,1:2,36',1:1,Header
+Bundesliga,Ellyes Skhiri,Bor. Dortmund_A_1,2,1:2,9',0:1,Right-footed shot
+Bundesliga,Ellyes Skhiri,FC Bayern_A_1,1,5:1,49',2:1,Right-footed shot
+Bundesliga,Ellyes Skhiri,1.FSV Mainz 05_H_1,15,2:3,61',2:1,Header
+Bundesliga,Taiwo Awoniyi,1. FC Köln_A_1,16,1:2,27',0:1,Right-footed shot
+Bundesliga,Taiwo Awoniyi,Hertha BSC_A_1,13,3:1,20',0:1,Left-footed shot
+Bundesliga,Taiwo Awoniyi,VfB Stuttgart_A_1,7,2:2,77',0:2,Header
+Bundesliga,Taiwo Awoniyi,Bor. Dortmund_H_1,4,2:1,57',1:0,Header
+Bundesliga,Taiwo Awoniyi,Werder Bremen_A_1,13,0:2,28',0:2,Right-footed shot
+Bundesliga,Fabian Klos,RB Leipzig_A_1,4,2:1,75',2:1,Left-footed shot
+Bundesliga,Fabian Klos,FC Schalke 04_A_1,18,0:1,53',0:1,Header
+Bundesliga,Fabian Klos,VfB Stuttgart_H_1,10,3:0,27',1:0,Right-footed shot
+Bundesliga,Fabian Klos,FC Schalke 04_H_1,18,1:0,50',1:0,Left-footed shot
+Bundesliga,Fabian Klos,VfB Stuttgart_A_1,9,0:2,66',0:1,Penalty
+Bundesliga,Marvin Friedrich,1.FSV Mainz 05_H_1,17,4:0,63',3:0,Header
+Bundesliga,Marvin Friedrich,FC Schalke 04_A_1,18,1:1,55',0:1,Header
+Bundesliga,Marvin Friedrich,VfB Stuttgart_A_1,7,2:2,4',0:1,Header
+Bundesliga,Marvin Friedrich,Bor. Dortmund_H_1,4,2:1,78',2:1,Header
+Bundesliga,Marvin Friedrich,RB Leipzig_H_1,2,2:1,67',1:1,Right-footed shot
+Bundesliga,Josh Sargent,E. Frankfurt_A_1,8,1:1,51',0:1,
+Bundesliga,Josh Sargent,Hertha BSC_A_1,14,1:4,77',1:4,Right-footed shot
+Bundesliga,Josh Sargent,E. Frankfurt_H_1,4,2:1,62',2:1,Right-footed shot
+Bundesliga,Josh Sargent,1. FC Köln_A_1,14,1:1,66',0:1,Header
+Bundesliga,Josh Sargent,Arm. Bielefeld_A_1,16,0:2,47',0:1,Right-footed shot
+Bundesliga,Elvis Rexhbecaj,Bor. M'gladbach_H_1,15,1:3,84',1:3,Left-footed shot
+Bundesliga,Elvis Rexhbecaj,1.FSV Mainz 05_A_1,17,0:1,55',0:1,Left-footed shot
+Bundesliga,Elvis Rexhbecaj,Arm. Bielefeld_H_1,15,3:1,62',3:0,Left-footed shot
+Bundesliga,Elvis Rexhbecaj,Bor. M'gladbach_A_1,7,1:2,3',0:1,Left-footed shot
+Bundesliga,Alexander Sörloth,Bor. Dortmund_H_1,4,1:3,89',1:3,Tap-in
+Bundesliga,Alexander Sörloth,Bor. M'gladbach_H_1,8,3:2,90'+3,3:2,Header
+Bundesliga,Alexander Sörloth,SC Freiburg_A_1,8,0:3,64',0:2,Left-footed shot
+Bundesliga,Alexander Sörloth,Werder Bremen_A_1,13,1:4,32',0:2,Header
+Bundesliga,Robert Andrich,SC Freiburg_H_1,12,1:1,36',1:1,Right-footed shot
+Bundesliga,Robert Andrich,Arm. Bielefeld_H_1,15,5:0,13',2:0,Left-footed shot
+Bundesliga,Robert Andrich,E. Frankfurt_H_1,11,3:3,2',1:0,Right-footed shot
+Bundesliga,Robert Andrich,VfL Wolfsburg_H_1,6,2:2,52',2:1,Direct free kick
+Bundesliga,Robert Andrich,Hertha BSC_H_1,14,1:1,10',1:0,Left-footed shot
+Bundesliga,Kevin Möhwald,VfL Wolfsburg_A_1,6,5:3,35',2:2,Header
+Bundesliga,Kevin Möhwald,Bor. Dortmund_H_1,5,1:2,28',1:1,Right-footed shot
+Bundesliga,Kevin Möhwald,FC Schalke 04_H_1,18,1:1,77',1:1,Right-footed shot
+Bundesliga,Kevin Möhwald,Arm. Bielefeld_A_1,16,0:2,75',0:2,Right-footed shot
+Bundesliga,Kevin Möhwald,VfL Wolfsburg_H_1,3,1:2,45',1:2,Right-footed shot
+Bundesliga,Mats Hummels,FC Schalke 04_H_1,17,3:0,78',3:0,Header
+Bundesliga,Mats Hummels,Arm. Bielefeld_A_1,14,0:2,53',0:1,Right-footed shot
+Bundesliga,Mats Hummels,E. Frankfurt_H_1,4,1:2,45',1:1,Left-footed shot
+Bundesliga,Mats Hummels,Werder Bremen_H_1,13,4:1,87',4:1,Header
+Bundesliga,Filip Kostic,Arm. Bielefeld_A_1,15,1:5,27',0:2,Left-footed shot
+Bundesliga,Filip Kostic,TSG Hoffenheim_A_1,12,1:3,15',0:1,Left-footed shot
+Bundesliga,Filip Kostic,VfB Stuttgart_H_1,10,1:1,69',1:1,Left-footed shot
+Bundesliga,Filip Kostic,Union Berlin_H_1,7,5:2,39',3:1,Left-footed shot
+Bundesliga,Moussa Diaby,FC Augsburg_H_1,6,3:1,90'+4,3:1,Counter attack goal
+Bundesliga,Moussa Diaby,1. FC Köln_A_1,15,0:4,10',0:2,Left-footed shot
+Bundesliga,Moussa Diaby,Bor. Dortmund_H_1,4,2:1,14',1:0,Left-footed shot
+Bundesliga,Moussa Diaby,1. FC Köln_H_1,17,3:0,51',2:0,Left-footed shot
+Bundesliga,Joshua Kimmich,TSG Hoffenheim_A_1,6,4:1,36',2:1,Right-footed shot
+Bundesliga,Joshua Kimmich,1.FSV Mainz 05_H_1,17,5:2,50',1:2,Header
+Bundesliga,Joshua Kimmich,Bay. Leverkusen_H_1,6,2:0,13',2:0,Right-footed shot
+Bundesliga,Joshua Kimmich,FC Augsburg_H_1,12,5:2,33',3:0,Right-footed shot
+Bundesliga,Giovanni Reyna,Bor. M'gladbach_H_1,8,3:0,35',1:0,Right-footed shot
+Bundesliga,Giovanni Reyna,E. Frankfurt_A_1,9,1:1,56',1:1,Right-footed shot
+Bundesliga,Giovanni Reyna,VfB Stuttgart_H_1,8,1:5,39',1:1,Right-footed shot
+Bundesliga,Giovanni Reyna,Werder Bremen_H_1,13,4:1,29',1:1,Right-footed shot
+Bundesliga,Angeliño,FC Schalke 04_H_1,18,4:0,35',2:0,Header
+Bundesliga,Angeliño,FC Augsburg_A_1,2,0:2,45',0:1,Header
+Bundesliga,Angeliño,SC Freiburg_H_1,13,3:0,89',3:0,Direct free kick
+Bundesliga,Angeliño,Arm. Bielefeld_H_1,16,2:1,29',1:0,Left-footed shot
+Bundesliga,Lucas Höler,Bay. Leverkusen_H_1,4,2:4,3',1:0,Right-footed shot
+Bundesliga,Lucas Höler,1. FC Köln_H_1,15,5:0,79',5:0,Right-footed shot
+Bundesliga,Lucas Höler,Bay. Leverkusen_A_1,5,1:2,61',0:2,Right-footed shot
+Bundesliga,Lucas Höler,FC Schalke 04_H_1,18,4:0,7',1:0,Left-footed shot
+Bundesliga,Daniel Didavi,1.FSV Mainz 05_A_1,15,1:4,61',1:2,Left-footed shot
+Bundesliga,Daniel Didavi,FC Augsburg_A_1,10,1:4,87',1:4,Left-footed shot
+Bundesliga,Daniel Didavi,FC Schalke 04_H_1,18,5:1,90'+2,5:1,Left-footed shot
+Bundesliga,Daniel Didavi,Bor. Dortmund_H_1,5,2:3,78',2:2,Left-footed shot
+Bundesliga,Karim Onisiwo,FC Augsburg_A_1,11,3:1,64',1:1,Left-footed shot
+Bundesliga,Karim Onisiwo,Bor. M'gladbach_A_1,7,1:2,10',0:1,Left-footed shot
+Bundesliga,Karim Onisiwo,1. FC Köln_A_1,16,2:3,65',2:2,Right-footed shot
+Bundesliga,Karim Onisiwo,E. Frankfurt_A_1,4,1:1,11',0:1,Right-footed shot
+Bundesliga,Kerem Demirbay,RB Leipzig_H_1,4,1:1,20',1:1,Left-footed shot
+Bundesliga,Kerem Demirbay,VfB Stuttgart_H_1,10,5:2,18',1:0,Left-footed shot
+Bundesliga,Kerem Demirbay,E. Frankfurt_H_1,4,3:1,90'+2,3:1,Left-footed shot
+Bundesliga,Willi Orban,FC Schalke 04_H_1,18,4:0,45'+2,3:0,Header
+Bundesliga,Willi Orban,VfL Wolfsburg_A_1,6,2:2,54',2:2,Right-footed shot
+Bundesliga,Willi Orban,FC Schalke 04_A_1,18,0:3,87',0:3,Header
+Bundesliga,Willi Orban,Hertha BSC_A_1,15,0:3,84',0:3,Header
+Bundesliga,Leonardo Bittencourt,Arm. Bielefeld_H_1,6,1:0,27',1:0,Right-footed shot
+Bundesliga,Leonardo Bittencourt,1. FC Köln_H_1,16,1:1,82',1:1,Penalty
+Bundesliga,Leonardo Bittencourt,VfL Wolfsburg_A_1,6,5:3,13',0:1,Left-footed shot
+Bundesliga,Leonardo Bittencourt,Hertha BSC_A_1,14,1:4,57',1:3,Right-footed shot
+Bundesliga,Gonzalo Castro,Hertha BSC_A_1,13,0:2,68',0:2,Right-footed shot
+Bundesliga,Gonzalo Castro,E. Frankfurt_H_1,10,2:2,37',2:0,Right-footed shot
+Bundesliga,Gonzalo Castro,FC Augsburg_A_1,10,1:4,61',1:3,Right-footed shot
+Bundesliga,Gonzalo Castro,VfL Wolfsburg_H_1,3,1:3,90'+2,1:3,Right-footed shot
+Bundesliga,Luka Jovic,FC Schalke 04_H_1,17,3:1,72',2:1,Right-footed shot
+Bundesliga,Luka Jovic,Arm. Bielefeld_A_1,15,1:5,75',1:5,Left-footed shot
+Bundesliga,Luka Jovic,VfL Wolfsburg_H_1,3,4:3,27',2:1,Right-footed shot
+Bundesliga,Bas Dost,Hertha BSC_A_1,2,1:3,36',0:2,Header
+Bundesliga,Bas Dost,TSG Hoffenheim_H_1,1,2:1,71',2:1,Left-footed shot
+Bundesliga,Bas Dost,Union Berlin_A_1,5,3:3,79',2:3,Left-footed shot
+Bundesliga,Bas Dost,VfL Wolfsburg_A_1,5,2:1,63',0:1,Penalty
+Bundesliga,Philipp Lienhart,Werder Bremen_H_1,7,1:1,15',1:0,Right-footed shot
+Bundesliga,Philipp Lienhart,Bor. M'gladbach_H_1,7,2:2,32',1:1,Header
+Bundesliga,Philipp Lienhart,1. FC Köln_H_1,15,5:0,69',4:0,Header
+Bundesliga,Philipp Lienhart,FC Augsburg_H_1,13,2:0,79',2:0,Header
+Bundesliga,Woo-yeong Jeong,Arm. Bielefeld_H_1,16,2:0,90'+2,2:0,Right-footed shot
+Bundesliga,Woo-yeong Jeong,VfB Stuttgart_H_1,10,2:1,37',2:1,Left-footed shot
+Bundesliga,Woo-yeong Jeong,Bor. Dortmund_H_1,6,2:1,49',1:0,Left-footed shot
+Bundesliga,Woo-yeong Jeong,E. Frankfurt_A_1,5,3:1,77',1:1,Left-footed shot
+Bundesliga,Ramy Bensebaini,Bor. Dortmund_H_1,4,4:2,50',3:2,Right-footed shot
+Bundesliga,Ramy Bensebaini,E. Frankfurt_H_1,4,4:0,67',3:0,Header
+Bundesliga,Ramy Bensebaini,Arm. Bielefeld_H_1,16,5:0,19',3:0,Penalty
+Bundesliga,Ramy Bensebaini,Werder Bremen_A_1,16,2:4,58',0:3,Header
+Bundesliga,Munas Dabbur,FC Bayern_H_1,1,4:1,24',2:0,Right-footed shot
+Bundesliga,Munas Dabbur,Union Berlin_H_1,12,1:3,80',1:1,Right-footed shot
+Bundesliga,Munas Dabbur,Bor. Dortmund_A_1,6,2:2,31',1:1,Right-footed shot
+Bundesliga,Munas Dabbur,Werder Bremen_H_1,11,4:0,49',3:0,Right-footed shot
+Bundesliga,Marcus Ingvartsen,1.FSV Mainz 05_H_1,17,4:0,49',2:0,Left-footed shot
+Bundesliga,Marcus Ingvartsen,FC Augsburg_A_1,12,2:1,25',1:1,Left-footed shot
+Bundesliga,Marcus Ingvartsen,FC Bayern_A_1,1,1:1,85',1:1,Left-footed shot
+Bundesliga,Maximilian Arnold,Arm. Bielefeld_H_1,14,2:1,20',2:0,Left-footed shot
+Bundesliga,Maximilian Arnold,1. FC Köln_A_1,15,2:2,29',1:1,Direct free kick
+Bundesliga,Maximilian Arnold,Arm. Bielefeld_A_1,16,0:3,54',0:3,Left-footed shot
+Bundesliga,Milot Rashica,RB Leipzig_H_1,2,1:4,61',1:3,Penalty
+Bundesliga,Milot Rashica,Bor. Dortmund_A_1,5,4:1,14',0:1,Right-footed shot
+Bundesliga,Milot Rashica,Bor. M'gladbach_H_1,8,2:4,81',1:4,Right-footed shot
+Bundesliga,Wataru Endo,FC Schalke 04_H_1,18,5:1,10',1:0,Right-footed shot
+Bundesliga,Wataru Endo,Bor. M'gladbach_A_1,7,1:2,72',1:1,Right-footed shot
+Bundesliga,Christian Günter,FC Schalke 04_H_1,18,4:0,50',3:0,Left-footed shot
+Bundesliga,Christian Günter,FC Bayern_H_1,1,2:2,81',2:2,Left-footed shot
+Bundesliga,Amadou Haidara,1.FSV Mainz 05_H_1,12,3:1,51',3:1,Right-footed shot
+Bundesliga,Amadou Haidara,1. FC Köln_A_1,17,2:1,59',1:1,Right-footed shot
+Bundesliga,Amadou Haidara,VfB Stuttgart_H_1,10,2:0,46',1:0,Header
+Bundesliga,Marco Richter,FC Schalke 04_H_1,18,2:2,90'+3,2:2,Header
+Bundesliga,Marco Richter,VfB Stuttgart_H_1,11,1:4,46',1:2,Right-footed shot
+Bundesliga,Marco Richter,Bor. M'gladbach_H_1,10,3:1,76',2:1,Right-footed shot
+Bundesliga,Amin Younes,Bay. Leverkusen_H_1,2,2:1,22',1:1,Right-footed shot
+Bundesliga,Amin Younes,SC Freiburg_A_1,9,2:2,6',0:1,Left-footed shot
+Bundesliga,Amin Younes,FC Bayern_H_1,1,2:1,31',2:0,Right-footed shot
+Bundesliga,Sheraldo Becker,Arm. Bielefeld_H_1,15,5:0,45'+2,3:0,Right-footed shot
+Bundesliga,Sheraldo Becker,Werder Bremen_A_1,13,0:2,12',0:1,Left-footed shot
+Bundesliga,Sheraldo Becker,VfL Wolfsburg_H_1,6,2:2,29',1:1,Right-footed shot
+Bundesliga,Theodor Gebre Selassie,FC Augsburg_H_1,11,2:0,84',1:0,Right-footed shot
+Bundesliga,Theodor Gebre Selassie,E. Frankfurt_H_1,4,2:1,47',1:1,Right-footed shot
+Bundesliga,Theodor Gebre Selassie,Union Berlin_A_1,8,3:1,82',3:1,Header
+Bundesliga,Hannes Wolf,RB Leipzig_H_1,1,1:0,60',1:0,
+Bundesliga,Hannes Wolf,FC Schalke 04_H_1,18,4:1,80',4:1,Left-footed shot
+Bundesliga,Hannes Wolf,E. Frankfurt_H_1,4,4:0,90'+5,4:0,Left-footed shot
+Bundesliga,Julian Brandt,Bay. Leverkusen_A_1,3,2:1,67',1:1,Right-footed shot
+Bundesliga,Julian Brandt,Hertha BSC_H_1,15,2:0,54',1:0,Right-footed shot
+Bundesliga,Julian Brandt,1.FSV Mainz 05_A_1,12,1:3,80',0:3,Left-footed shot
+Bundesliga,Nico Elvedi,Werder Bremen_H_1,12,1:0,66',1:0,Header
+Bundesliga,Nico Elvedi,Bor. Dortmund_H_1,4,4:2,11',1:0,Header
+Bundesliga,Nordi Mukiele,VfL Wolfsburg_A_1,6,2:2,4',0:1,Right-footed shot
+Bundesliga,Nordi Mukiele,FC Schalke 04_A_1,18,0:3,45'+3,0:1,Header
+Bundesliga,Nordi Mukiele,Hertha BSC_A_1,15,0:3,71',0:2,Right-footed shot
+Bundesliga,Jonas Hector,Werder Bremen_H_1,11,1:1,83',1:1,Left-footed shot
+Bundesliga,Jonas Hector,RB Leipzig_H_1,2,2:1,46',1:0,Header
+Bundesliga,Moussa Niakhaté,RB Leipzig_H_1,2,3:2,24',1:1,Right-footed shot
+Bundesliga,Moussa Niakhaté,Union Berlin_H_1,8,1:0,22',1:0,Penalty
+Bundesliga,Philipp Förster,Bor. Dortmund_A_1,4,1:5,60',1:3,Left-footed shot
+Bundesliga,Philipp Förster,Union Berlin_A_1,7,2:1,49',2:1,Left-footed shot
+Bundesliga,Philipp Förster,FC Augsburg_H_1,14,2:1,11',1:0,Right-footed shot
+Bundesliga,Cedric Teuchert,TSG Hoffenheim_A_1,9,1:3,90'+4,1:3,Right-footed shot
+Bundesliga,Cedric Teuchert,Arm. Bielefeld_H_1,15,5:0,89',5:0,Right-footed shot
+Bundesliga,Cedric Teuchert,Bay. Leverkusen_H_1,3,1:0,88',1:0,Right-footed shot
+Bundesliga,Grischa Prömel,FC Bayern_H_1,1,1:1,4',1:0,Header
+Bundesliga,Grischa Prömel,SC Freiburg_A_1,8,0:1,64',0:1,Header
+Bundesliga,Grischa Prömel,VfB Stuttgart_H_1,9,2:1,20',1:0,Header
+Bundesliga,Evan N'Dicka,TSG Hoffenheim_A_1,12,1:3,62',1:2,Header
+Bundesliga,Evan N'Dicka,1. FC Köln_H_1,14,2:0,79',2:0,Header
+Bundesliga,Evan N'Dicka,FC Schalke 04_A_1,18,4:3,51',1:2,Header
+Bundesliga,Peter Pekarik,Werder Bremen_A_1,17,1:4,42',0:1,Right-footed shot
+Bundesliga,Peter Pekarik,Union Berlin_H_1,6,3:1,51',1:1,Right-footed shot
+Bundesliga,Peter Pekarik,SC Freiburg_H_1,9,3:0,22',2:0,Header
+Bundesliga,Mark Uth,Werder Bremen_H_1,16,1:3,90'+3,1:3,Left-footed shot
+Bundesliga,Mark Uth,1.FSV Mainz 05_A_1,18,2:2,36',1:1,Direct free kick
+Bundesliga,Mark Uth,TSG Hoffenheim_A_1,11,4:2,12',0:1,Left-footed shot
+Bundesliga,Justin Kluivert,FC Bayern_A_1,1,3:3,36',2:2,Right-footed shot
+Bundesliga,Justin Kluivert,VfL Wolfsburg_H_1,3,2:2,51',1:2,Left-footed shot
+Bundesliga,Justin Kluivert,Union Berlin_A_1,7,2:1,55',0:1,Right-footed shot
+Bundesliga,Sebastian Andersson,TSG Hoffenheim_H_1,11,2:3,22',1:1,Header
+Bundesliga,Sebastian Andersson,VfB Stuttgart_A_1,5,1:1,23',1:1,Penalty
+Bundesliga,Sebastian Andersson,SC Freiburg_H_1,9,1:4,49',1:2,Left-footed shot
+Bundesliga,Davie Selke,Hertha BSC_H_1,14,1:4,69',1:3,Header
+Bundesliga,Davie Selke,VfB Stuttgart_H_1,10,1:2,90'+3,1:2,Header
+Bundesliga,Davie Selke,Hertha BSC_A_1,14,1:4,10',0:1,Penalty
+Bundesliga,Eric Maxim Choupo-Moting,1. FC Köln_H_1,14,5:1,18',1:0,Header
+Bundesliga,Eric Maxim Choupo-Moting,VfL Wolfsburg_A_1,3,2:3,24',0:2,Left-footed shot
+Bundesliga,Eric Maxim Choupo-Moting,Bay. Leverkusen_H_1,6,2:0,8',1:0,Right-footed shot
+Bundesliga,Kevin Stöger,Arm. Bielefeld_A_1,17,2:1,82',2:1,Left-footed shot
+Bundesliga,Kevin Stöger,Bay. Leverkusen_A_1,5,2:2,90'+2,2:2,Left-footed shot
+Bundesliga,Kevin Stöger,Bor. M'gladbach_A_1,7,1:2,86',1:2,Left-footed shot
+Bundesliga,Youssoufa Moukoko,Union Berlin_A_1,6,2:1,60',1:1,Left-footed shot
+Bundesliga,Youssoufa Moukoko,SC Freiburg_A_1,9,2:1,76',2:1,Right-footed shot
+Bundesliga,Youssoufa Moukoko,Hertha BSC_H_1,15,2:0,90'+1,2:0,Left-footed shot
+Bundesliga,Nadiem Amiri,SC Freiburg_A_1,13,2:4,64',1:3,Right-footed shot
+Bundesliga,Nadiem Amiri,E. Frankfurt_A_1,9,2:1,9',0:1,Right-footed shot
+Bundesliga,Maximilian Eggestein,TSG Hoffenheim_H_1,8,1:1,5',1:0,Left-footed shot
+Bundesliga,Maximilian Eggestein,FC Bayern_A_1,1,1:1,45',0:1,Left-footed shot
+Bundesliga,Jean-Paul Boëtius,1. FC Köln_A_1,16,2:3,11',0:1,Right-footed shot
+Bundesliga,Jean-Paul Boëtius,VfL Wolfsburg_A_1,4,2:3,44',0:1,Right-footed shot
+Bundesliga,Amine Harit,TSG Hoffenheim_H_1,13,4:0,79',4:0,Right-footed shot
+Bundesliga,Amine Harit,Hertha BSC_H_1,14,1:2,6',1:0,Left-footed shot
+Bundesliga,David Alaba,Bor. Dortmund_A_1,2,2:3,45'+4,1:1,Direct free kick
+Bundesliga,David Alaba,FC Schalke 04_A_1,18,0:4,90',0:4,Left-footed shot
+Bundesliga,Xaver Schlager,FC Schalke 04_A_1,17,0:2,24',0:2,Right-footed shot
+Bundesliga,Xaver Schlager,VfB Stuttgart_A_1,10,1:3,13',0:1,Left-footed shot
+Bundesliga,Yannick Gerhardt,SC Freiburg_H_1,9,3:0,85',3:0,Right-footed shot
+Bundesliga,Yannick Gerhardt,VfB Stuttgart_A_1,10,1:3,65',0:3,Right-footed shot
+Bundesliga,Stefan Lainer,1. FC Köln_A_1,16,1:3,16',0:2,Header
+Bundesliga,Stefan Lainer,FC Schalke 04_A_1,18,0:3,63',0:2,Header
+Bundesliga,Marius Wolf,Arm. Bielefeld_H_1,15,3:1,9',1:0,Right-footed shot
+Bundesliga,Martin Hinteregger,Hertha BSC_H_1,14,3:1,85',2:1,Header
+Bundesliga,Martin Hinteregger,FC Augsburg_H_1,11,2:0,38',1:0,Header
+Bundesliga,Aymen Barkok,RB Leipzig_H_1,2,1:1,43',1:0,Right-footed shot
+Bundesliga,Aymen Barkok,Bor. M'gladbach_H_1,8,3:3,32',3:1,Right-footed shot
+Bundesliga,Mattéo Guendouzi,Bor. M'gladbach_A_1,7,1:1,47',0:1,Right-footed shot
+Bundesliga,Mattéo Guendouzi,FC Schalke 04_H_1,18,3:0,36',1:0,Right-footed shot
+Bundesliga,Jan Thielmann,VfL Wolfsburg_H_1,5,2:2,18',1:0,Right-footed shot
+Bundesliga,Jan Thielmann,FC Schalke 04_A_1,18,1:2,90'+3,1:2,Right-footed shot
+Bundesliga,Ryan Sessegnon,VfB Stuttgart_H_1,8,3:3,47',2:2,Left-footed shot
+Bundesliga,Ryan Sessegnon,Bor. M'gladbach_A_1,8,1:2,86',1:2,Left-footed shot
+Bundesliga,Jonathan Schmid,Bor. Dortmund_H_1,6,2:1,52',2:0,Right-footed shot
+Bundesliga,Jonathan Schmid,1. FC Köln_A_1,17,1:4,90'+6,1:4,Right-footed shot
+Bundesliga,Jonathan Burkardt,FC Bayern_A_1,1,5:2,32',0:1,Left-footed shot
+Bundesliga,Jonathan Burkardt,FC Bayern_H_1,1,2:1,3',1:0,Right-footed shot
+Bundesliga,Leandro Barreiro,RB Leipzig_H_1,2,3:2,50',3:2,Right-footed shot
+Bundesliga,Leandro Barreiro,1. FC Köln_A_1,16,2:3,90'+1,2:3,Right-footed shot
+Bundesliga,Dominick Drexler,TSG Hoffenheim_H_1,11,2:3,86',2:2,Right-footed shot
+Bundesliga,Dominick Drexler,FC Bayern_H_1,2,1:2,82',1:2,Right-footed shot
+Bundesliga,Florian Grillitsch,FC Augsburg_H_1,8,3:1,17',1:0,Header
+Bundesliga,Marcel Halstenberg,FC Schalke 04_H_1,18,4:0,80',4:0,Penalty
+Bundesliga,Marcel Halstenberg,1.FSV Mainz 05_A_1,17,3:2,30',1:2,Left-footed shot
+Bundesliga,Andreas Voglsammer,1.FSV Mainz 05_A_1,15,1:1,76',1:1,Right-footed shot
+Bundesliga,Andreas Voglsammer,TSG Hoffenheim_H_1,11,1:1,23',1:1,Direct free kick
+Bundesliga,Sargis Adamyan,VfL Wolfsburg_A_1,11,2:1,87',2:1,Right-footed shot
+Bundesliga,Sargis Adamyan,Hertha BSC_H_1,14,2:1,49',1:1,Left-footed shot
+Bundesliga,Matthias Ginter,1.FSV Mainz 05_A_1,18,2:3,83',2:3,Header
+Bundesliga,Matthias Ginter,E. Frankfurt_H_1,4,4:0,10',1:0,Header
+Bundesliga,Marc Oliver Kempf,Hertha BSC_A_1,13,0:2,9',0:1,Header
+Bundesliga,Marc Oliver Kempf,TSG Hoffenheim_A_1,13,3:3,90'+3,3:3,Left-footed shot
+Bundesliga,Tanguy Coulibaly,FC Bayern_H_1,1,1:3,20',1:0,Left-footed shot
+Bundesliga,Tanguy Coulibaly,Bor. Dortmund_A_1,4,1:5,63',1:4,Left-footed shot
+Bundesliga,Sergio Córdova,E. Frankfurt_H_1,8,1:5,36',1:3,Header
+Bundesliga,Sergio Córdova,1. FC Köln_A_1,16,3:1,72',3:1,Left-footed shot
+Bundesliga,Daniel Brosinski,FC Schalke 04_H_1,17,2:2,6',1:0,Penalty
+Bundesliga,Daniel Brosinski,Arm. Bielefeld_H_1,17,1:1,56',1:0,Penalty
+Bundesliga,Robert Glatzel,Bay. Leverkusen_A_1,5,2:2,89',2:1,Left-footed shot
+Bundesliga,Robert Glatzel,TSG Hoffenheim_A_1,11,1:2,1',0:1,Right-footed shot
+Bundesliga,Klaas-Jan Huntelaar,Bay. Leverkusen_A_1,6,2:1,81',2:1,Left-footed shot
+Bundesliga,Klaas-Jan Huntelaar,E. Frankfurt_H_1,5,4:3,15',1:0,Penalty rebound
+Bundesliga,John Anthony Brooks,Werder Bremen_H_1,9,5:3,25',2:1,Header
+Bundesliga,John Anthony Brooks,SC Freiburg_H_1,9,3:0,21',1:0,Left-footed shot
+Bundesliga,Manuel Akanji,FC Schalke 04_H_1,17,3:0,55',1:0,Tap-in
+Bundesliga,Manuel Akanji,VfL Wolfsburg_H_1,4,2:0,66',1:0,Header
+Bundesliga,Manuel Gulde,Hertha BSC_H_1,12,4:1,67',3:1,Header
+Bundesliga,Manuel Gulde,FC Bayern_H_1,1,2:2,29',1:1,Header
+Bundesliga,Ömer Toprak,Bay. Leverkusen_A_1,3,1:1,52',0:1,Right-footed shot
+Bundesliga,Ömer Toprak,Hertha BSC_A_1,14,1:4,29',0:2,Header
+Bundesliga,Benito Raman,Bor. M'gladbach_A_1,7,4:1,20',1:1,Right-footed shot
+Bundesliga,Benito Raman,FC Augsburg_A_1,11,2:2,52',1:1,Right-footed shot
+Bundesliga,Valentino Lazaro,Bay. Leverkusen_A_1,4,4:3,90'+4,4:3,Right-footed shot
+Bundesliga,Valentino Lazaro,TSG Hoffenheim_A_1,12,3:2,45'+1,0:2,Right-footed shot
+Bundesliga,Bartosz Bialek,Werder Bremen_H_1,9,5:3,90'+5,5:3,Right-footed shot
+Bundesliga,Bartosz Bialek,1.FSV Mainz 05_A_1,17,0:2,65',0:1,Right-footed shot
+Bundesliga,Julian Baumgartlinger,Bor. M'gladbach_H_1,5,4:3,82',4:2,Left-footed shot
+Bundesliga,Julian Baumgartlinger,FC Schalke 04_A_1,18,0:3,67',0:2,Header
+Bundesliga,Jessic Ngankam,FC Bayern_A_1,7,4:3,88',3:3,Header
+Bundesliga,Jessic Ngankam,FC Schalke 04_A_1,18,1:2,74',1:2,Left-footed shot
+Bundesliga,Christopher Trimmel,1. FC Köln_H_1,14,2:1,67',2:1,Right-footed shot
+Bundesliga,Vladimir Darida,TSG Hoffenheim_A_1,11,2:1,43',0:1,Header
+Bundesliga,Nicolas Höfler,1. FC Köln_H_1,15,5:0,39',2:0,Right-footed shot
+Bundesliga,Emre Can,SC Freiburg_H_1,5,4:0,47',2:0,Header
+Bundesliga,Jude Bellingham,VfB Stuttgart_A_1,8,2:3,47',1:1,Right-footed shot
+Bundesliga,Sebastian Rudy,Hertha BSC_A_1,13,0:3,33',0:1,Right-footed shot
+Bundesliga,Mateo Klimowicz,1.FSV Mainz 05_A_1,15,1:4,80',1:3,Counter attack goal
+Bundesliga,Suat Serdar,FC Augsburg_H_1,11,1:0,4',1:0,Right-footed shot
+Bundesliga,Orel Mangala,1. FC Köln_H_1,16,1:1,1',1:0,Right-footed shot
+Bundesliga,Thorgan Hazard,1. FC Köln_H_1,17,1:2,74',1:2,Right-footed shot
+Bundesliga,Petar Musa,VfB Stuttgart_H_1,9,2:1,43',2:0,Left-footed shot
+Bundesliga,Sven Schipplock,VfL Wolfsburg_A_1,13,2:1,80',2:1,Right-footed shot
+Bundesliga,Baptiste Santamaria,TSG Hoffenheim_A_1,12,1:3,7',0:1,Right-footed shot
+Bundesliga,Maxence Lacroix,Hertha BSC_H_1,15,2:0,89',2:0,Header
+Bundesliga,Michael Gregoritsch,Union Berlin_A_1,7,1:3,82',1:2,Header
+Bundesliga,Dominik Kohr,TSG Hoffenheim_A_1,11,1:2,41',1:2,Header
+Bundesliga,Alphonso Davies,Arm. Bielefeld_H_1,16,3:3,69',3:3,Left-footed shot
+Bundesliga,Erik Durm,VfL Wolfsburg_H_1,3,4:3,61',4:2,Left-footed shot
+Bundesliga,Phillipp Mwene,Hertha BSC_H_1,15,1:1,40',1:1,Right-footed shot
+Bundesliga,Lászlo Bénes,Hertha BSC_A_1,15,2:1,2',0:1,Left-footed shot
+Bundesliga,Iago,1. FC Köln_A_1,15,0:1,77',0:1,Left-footed shot
+Bundesliga,Philipp Klement,FC Schalke 04_H_1,18,5:1,88',4:1,Left-footed shot
+Bundesliga,Levin Öztunali,Bor. Dortmund_A_1,4,1:1,57',0:1,Left-footed shot
+Bundesliga,Gonçalo Paciência,Union Berlin_H_1,9,1:1,69',1:1,Header
+Bundesliga,Lars Bender,Bor. Dortmund_A_1,3,3:1,90',3:1,Penalty
+Bundesliga,Masaya Okugawa,Bay. Leverkusen_A_1,5,1:2,57',0:2,Right-footed shot
+Bundesliga,Nemanja Radonjic,SC Freiburg_H_1,9,3:0,85',3:0,Right-footed shot
+Bundesliga,Demarai Gray,VfB Stuttgart_H_1,10,5:2,84',5:2,Right-footed shot
+Bundesliga,Amos Pieper,FC Bayern_A_1,1,3:3,37',0:2,Header
+Bundesliga,Dayot Upamecano,Hertha BSC_H_1,15,2:1,11',1:1,Right-footed shot
+Bundesliga,Jérôme Boateng,TSG Hoffenheim_H_1,11,4:1,32',1:0,Header
+Bundesliga,Manuel Prietl,1.FSV Mainz 05_H_1,16,2:1,21',1:0,Right-footed shot
+Bundesliga,Tyler Adams,1.FSV Mainz 05_A_1,17,3:2,15',0:1,Right-footed shot
+Bundesliga,Lucas Tousart,1.FSV Mainz 05_A_1,14,1:1,36',0:1,Header
+Bundesliga,Denis Zakaria,VfB Stuttgart_A_1,10,2:2,61',1:2,Left-footed shot
+Bundesliga,Sebastiaan Bornauw,FC Schalke 04_H_1,18,1:0,86',1:0,Header
+Bundesliga,Omar Mascarell,Werder Bremen_A_1,13,1:1,38',0:1,Right-footed shot
+Bundesliga,Robert Gumny,1. FC Köln_H_1,17,2:3,54',1:3,Right-footed shot
+Bundesliga,Ismail Jakobs,Bor. Dortmund_H_1,5,2:2,65',2:1,Left-footed shot
+Bundesliga,Christian Gebauer,FC Bayern_A_1,1,3:3,49',1:3,Right-footed shot
+Bundesliga,Oscar Wendt,FC Schalke 04_H_1,18,4:1,36',2:1,Left-footed shot
+Bundesliga,Thomas Meunier,1.FSV Mainz 05_H_1,18,1:1,73',1:1,Right-footed shot
+Bundesliga,João Victor,1.FSV Mainz 05_H_1,13,2:3,66',2:2,Right-footed shot
+Bundesliga,Mahmoud Dahoud,Arm. Bielefeld_H_1,16,3:0,48',1:0,Right-footed shot
+Bundesliga,Thomas Delaney,FC Augsburg_H_1,12,3:1,26',1:1,Header
+Bundesliga,Sead Kolasinac,VfB Stuttgart_A_1,10,5:1,40',3:1,Left-footed shot
+Bundesliga,Almamy Touré,SC Freiburg_H_1,10,3:1,87',2:1,Right-footed shot
+Bundesliga,Stefan Bell,VfL Wolfsburg_A_1,4,2:3,77',2:3,Header
+Bundesliga,Kevin Akpoguma,FC Schalke 04_H_1,18,4:2,51',2:2,Header
+Bundesliga,Felix Agu,FC Augsburg_H_1,11,2:0,87',2:0,Left-footed shot
+Bundesliga,Reinier,Arm. Bielefeld_H_1,16,3:0,81',3:0,Right-footed shot
+Bundesliga,Douglas Costa,VfB Stuttgart_A_1,8,1:3,87',1:3,Left-footed shot
+Bundesliga,Dennis Geiger,Werder Bremen_A_1,7,1:1,22',1:1,Right-footed shot
+Bundesliga,Michel Vlap,FC Bayern_A_1,1,3:3,9',0:1,Left-footed shot
+Bundesliga,Ansgar Knauff,VfB Stuttgart_A_1,8,2:3,80',2:3,Right-footed shot
+Bundesliga,Robin Knoche,Bor. M'gladbach_H_1,5,1:1,31',1:0,Header
+Bundesliga,Jeffrey Gouweleeuw,Arm. Bielefeld_A_1,16,0:1,85',0:1,Left-footed shot
+Bundesliga,Edmond Tapsoba,FC Augsburg_A_1,13,1:1,90'+4,1:1,Right-footed shot
+Bundesliga,Felix Uduokhai,Bor. Dortmund_H_1,3,2:0,40',1:0,Header
+Bundesliga,Rafael Czichos,FC Schalke 04_A_1,18,1:2,31',0:1,Header
+Bundesliga,Stefan Ilsanker,FC Augsburg_A_1,9,0:2,87',0:2,Left-footed shot
+Bundesliga,Rani Khedira,Werder Bremen_H_1,15,2:0,57',1:0,Left-footed shot
+Bundesliga,Sebastian Rode,Hertha BSC_A_1,2,1:3,71',0:3,Left-footed shot
+Bundesliga,Jonathan Tah,SC Freiburg_A_1,13,2:4,76',2:4,Header
+Bundesliga,Marius Bülter,FC Augsburg_H_1,13,1:3,75',1:1,Left-footed shot
+Bundesliga,Lukas Klostermann,Bor. Dortmund_A_1,5,3:2,63',2:1,Header
+Bundesliga,Robert Skov,FC Augsburg_A_1,13,2:1,86',2:1,Left-footed shot
+Bundesliga,Deyovaisio Zeefuik,Bay. Leverkusen_H_1,6,3:0,4',1:0,Right-footed shot
+Bundesliga,Alexander Hack,FC Bayern_A_1,1,5:2,44',0:2,Header
+Bundesliga,Niklas Süle,1.FSV Mainz 05_H_1,17,5:2,70',3:2,Deflected shot on goal
+Bundesliga,Malick Thiaw,VfB Stuttgart_H_1,5,1:1,30',1:0,Header
+Bundesliga,Dedryck Boyata,FC Schalke 04_A_1,18,1:2,19',1:1,Header
+Bundesliga,Ádám Szalai,Werder Bremen_A_1,13,0:1,16',0:1,Left-footed shot
+Bundesliga,Aleksandar Dragovic,Arm. Bielefeld_A_1,15,1:2,88',1:2,Right-footed shot
+Bundesliga,Corentin Tolisso,Arm. Bielefeld_H_1,16,3:3,57',2:3,Header
+Bundesliga,Keita Endo,Arm. Bielefeld_H_1,15,5:0,3',1:0,Right-footed shot
+Bundesliga,Nico Schlotterbeck,Bor. M'gladbach_A_1,17,1:1,79',1:1,Header
+Bundesliga,Timothy Chandler,Union Berlin_H_1,7,5:2,90'+2,5:2,Right-footed shot
+Bundesliga,Cebio Soukou,E. Frankfurt_A_1,5,1:1,51',0:1,Right-footed shot
+Bundesliga,David Abraham,VfB Stuttgart_A_1,8,2:2,75',2:2,Header
+Bundesliga,Ibrahima Konaté,SC Freiburg_H_1,13,3:0,26',1:0,Right-footed shot
+Bundesliga,Santiago Ascacíbar,Bor. M'gladbach_H_1,9,2:2,23',1:0,Right-footed shot
+Bundesliga,Shkodran Mustafi,TSG Hoffenheim_A_1,11,4:2,42',0:2,Header
+Bundesliga,Reinhold Yabo,Hertha BSC_H_1,12,1:0,64',1:0,Left-footed shot
+Bundesliga,Nassim Boujellab,FC Augsburg_A_1,11,2:2,61',1:2,Right-footed shot
+Bundesliga,Luca Netz,VfB Stuttgart_A_1,10,1:1,82',1:1,Left-footed shot
+Bundesliga,Ajdin Hrustic,1.FSV Mainz 05_H_1,12,1:1,85',1:1,Left-footed shot
+Bundesliga,Georginio Rutter,Werder Bremen_H_1,11,4:0,90',4:0,Left-footed shot
+Bundesliga,Florian Kainz,FC Augsburg_A_1,12,2:3,23',0:2,Right-footed shot
+Bundesliga,Eren Dinkci,1.FSV Mainz 05_A_1,17,0:1,90',0:1,Header
+Bundesliga,Ragnar Ache,SC Freiburg_H_1,10,3:1,90'+2,3:1,Right-footed shot
+Bundesliga,Felix Passlack,SC Freiburg_H_1,5,4:0,90'+2,4:0,Right-footed shot
+Bundesliga,Jóan Símun Edmundsson,1. FC Köln_H_1,12,1:0,78',1:0,Right-footed shot
+Bundesliga,Mitchell Weiser,1. FC Köln_A_1,15,0:4,8',0:1,Left-footed shot
+Bundesliga,Florian Flick,E. Frankfurt_H_1,5,4:3,60',3:2,Right-footed shot
+Bundesliga,Blendi Idrizi,E. Frankfurt_H_1,5,4:3,53',2:2,Left-footed shot
+Bundesliga,Ermin Bicakcic,FC Bayern_H_1,1,4:1,16',1:0,Header
