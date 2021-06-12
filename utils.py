@@ -136,9 +136,9 @@ def get_scorers_df(players_stats_urls, league_name, league_table):
 	return df
 
 
-def get_goal_types(urls, league, league_table=None):
+def get_goal_types(urls, league, league_table):
 	df = pd.DataFrame()
-	columns = ['league', 'player', 'team_venue_goal_number', 'opponent_position', 'final_score', 'minute', 'current_score', 'goal_type']
+	columns = ['league', 'player', 'team_venue_goal_number', 'opponent_current_position', 'opponent_final_position', 'final_score', 'minute', 'current_score', 'goal_type']
 	for url in urls:
 		goals_soup = get_soup(home_url + url['url'])
 		tables = goals_soup.findAll('table')
@@ -173,9 +173,9 @@ def get_goal_types(urls, league, league_table=None):
 				elif cells[0].find('img')['title'].strip() == league:
 					opponent_and_position = cells[6].text.split()
 					opponent = " ".join(opponent_and_position[:-1])
-					opponent_position = opponent_and_position[-1]
+					opponent_current_position = opponent_and_position[-1]
 					for char in "(.)":
-						opponent_position = re.sub("\\{}".format(char), '', opponent_position)
+						opponent_current_position = re.sub("\\{}".format(char), '', opponent_current_position)
 					venue = cells[2].text.strip()
 					goal_number = 1
 					final_score = cells[7].text.strip()
@@ -185,7 +185,7 @@ def get_goal_types(urls, league, league_table=None):
 			except Exception as e:
 				continue
 			data.append([
-					league, url['player'], "{}_{}_{}".format(opponent, venue, goal_number), opponent_position, final_score, cells[-3].text.strip(), cells[-2].text.strip(), cells[-1].text.strip()])
+					league, url['player'], "{}_{}_{}".format(opponent, venue, goal_number), opponent_current_position, league_table.index(opponent) + 1, final_score, cells[-3].text.strip(), cells[-2].text.strip(), cells[-1].text.strip()])
 		df = pd.concat([df, pd.DataFrame(data, columns=columns)])
 
 	return df

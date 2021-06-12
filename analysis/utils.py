@@ -14,7 +14,13 @@ def aggregate_goal_involvements(df):
 	aggregates = aggregates[aggregates['goal_involvement(goals + assists)'] > 0]
 	aggregates['minutes_per_goal_involvement'] = aggregates['minutes_played'] / aggregates['goal_involvement(goals + assists)']
 	aggregates['games_per_goal_involvement'] = aggregates['games_played'] / aggregates['goal_involvement(goals + assists)']
+	aggregates['minutes_per_goal'] = aggregates['minutes_played'] / aggregates['goals']
+	aggregates['games_per_assist'] = aggregates['games_played'] / aggregates['assists']
 	aggregates = aggregates.round(1)
 	aggregates.reset_index(inplace=True)
 
 	return aggregates
+
+
+def aggregate_goals_scored(df):
+	pass

@@ -1,880 +1,880 @@
-league,player,team_venue_goal_number,opponent_position,final_score,minute,current_score,goal_type
-Premier League,Harry Kane,Southampton_A_1,13,2:5,82',1:5,Tap-in
-Premier League,Harry Kane,Man Utd_A_1,9,1:6,30',1:3,Right-footed shot
-Premier League,Harry Kane,West Ham_H_1,11,3:3,8',2:0,Right-footed shot
-Premier League,Harry Kane,Brighton_H_1,16,2:1,13',1:0,Penalty
-Premier League,Harry Kane,West Brom_A_1,18,0:1,88',0:1,Header
-Premier League,Harry Kane,Arsenal_H_1,14,2:0,45'+1,2:0,Counter attack goal
-Premier League,Harry Kane,Crystal Palace_A_1,12,1:1,23',0:1,Long distance kick
-Premier League,Harry Kane,Leeds_H_1,11,3:0,29',1:0,Penalty
-Premier League,Harry Kane,Fulham_H_1,18,1:1,25',1:0,Header
-Premier League,Harry Kane,Sheff Utd_A_1,20,1:3,40',0:2,Right-footed shot
-Premier League,Harry Kane,West Brom_H_1,19,2:0,54',1:0,Right-footed shot
-Premier League,Harry Kane,Burnley_H_1,15,4:0,15',2:0,Right-footed shot
-Premier League,Harry Kane,Crystal Palace_H_1,13,4:1,52',3:1,Right-footed shot
-Premier League,Harry Kane,Aston Villa_A_1,6,0:2,68',0:2,Penalty
-Premier League,Harry Kane,Newcastle_A_1,17,2:2,30',1:1,Right-footed shot
-Premier League,Harry Kane,Everton_A_1,8,2:2,27',0:1,Left-footed shot
-Premier League,Harry Kane,Wolves_H_1,12,2:0,45',1:0,Right-footed shot
-Premier League,Harry Kane,Leicester_A_1,5,2:4,41',1:1,Right-footed shot
-Premier League,Mohamed Salah,Leeds_H_1,9,4:3,4',1:0,Penalty
-Premier League,Mohamed Salah,Aston Villa_A_1,6,7:2,33',2:1,Left-footed shot
-Premier League,Mohamed Salah,Everton_A_1,1,2:2,72',1:2,Left-footed shot
-Premier League,Mohamed Salah,West Ham_H_1,14,2:1,42',1:1,Penalty
-Premier League,Mohamed Salah,Man City_A_1,4,1:1,13',0:1,Penalty
-Premier League,Mohamed Salah,Wolves_H_1,9,4:0,24',1:0,Left-footed shot
-Premier League,Mohamed Salah,Fulham_A_1,17,1:1,79',1:1,Penalty
-Premier League,Mohamed Salah,Spurs_H_1,1,2:1,26',1:0,Left-footed shot
-Premier League,Mohamed Salah,Crystal Palace_A_1,12,0:7,81',0:6,Header
-Premier League,Mohamed Salah,West Ham_A_1,6,1:3,57',0:1,Left-footed shot
-Premier League,Mohamed Salah,Man City_H_1,1,1:4,63',1:1,Penalty
-Premier League,Mohamed Salah,Leicester_A_1,3,3:1,67',0:1,Left-footed shot
-Premier League,Mohamed Salah,Arsenal_A_1,10,0:3,68',0:2,Right-footed shot
-Premier League,Mohamed Salah,Aston Villa_H_1,9,2:1,57',1:1,Header
-Premier League,Mohamed Salah,Newcastle_H_1,15,1:1,3',1:0,Left-footed shot
-Premier League,Mohamed Salah,Man Utd_A_1,2,2:4,90',2:4,Counter attack goal
-Premier League,Mohamed Salah,West Brom_A_1,19,1:2,33',1:1,Left-footed shot
-Premier League,Bruno Fernandes,Brighton_A_1,8,2:3,90'+10,2:3,Penalty
-Premier League,Bruno Fernandes,Spurs_H_1,10,1:6,2',1:0,Penalty
-Premier League,Bruno Fernandes,Newcastle_A_1,10,1:4,86',1:2,Counter attack goal
-Premier League,Bruno Fernandes,Everton_A_1,5,1:3,25',1:1,Header
-Premier League,Bruno Fernandes,West Brom_H_1,18,1:0,56',1:0,Penalty
-Premier League,Bruno Fernandes,Southampton_A_1,5,2:3,59',2:1,Right-footed shot
-Premier League,Bruno Fernandes,Leeds_H_1,13,6:2,20',3:0,Right-footed shot
-Premier League,Bruno Fernandes,Leicester_A_1,3,2:2,79',1:2,Right-footed shot
-Premier League,Bruno Fernandes,Aston Villa_H_1,4,2:1,61',2:1,Penalty
-Premier League,Bruno Fernandes,Southampton_H_1,12,9:0,87',7:0,Penalty
-Premier League,Bruno Fernandes,Everton_H_1,6,3:3,45',2:0,Right-footed shot
-Premier League,Bruno Fernandes,West Brom_A_1,19,1:1,44',1:1,Left-footed shot
-Premier League,Bruno Fernandes,Newcastle_H_1,17,3:1,75',3:1,Penalty
-Premier League,Bruno Fernandes,Man City_A_1,1,0:2,2',0:1,Penalty
-Premier League,Bruno Fernandes,Aston Villa_A_1,9,1:3,52',1:1,Penalty
-Premier League,Bruno Fernandes,Liverpool_H_1,6,2:4,10',1:0,Right-footed shot
-Premier League,Heung-min Son,Southampton_A_1,13,2:5,45'+2,1:1,Right-footed shot
-Premier League,Heung-min Son,Man Utd_A_1,9,1:6,7',1:2,Left-footed shot
-Premier League,Heung-min Son,West Ham_H_1,11,3:3,1',1:0,Right-footed shot
-Premier League,Heung-min Son,Burnley_A_1,19,0:1,76',0:1,Header
-Premier League,Heung-min Son,Man City_H_1,7,2:0,5',1:0,Left-footed shot
-Premier League,Heung-min Son,Arsenal_H_1,14,2:0,13',1:0,Right-footed shot
-Premier League,Heung-min Son,Liverpool_A_1,2,2:1,33',1:1,Right-footed shot
-Premier League,Heung-min Son,Leeds_H_1,11,3:0,43',2:0,Right-footed shot
-Premier League,Heung-min Son,West Brom_H_1,19,2:0,58',2:0,Counter attack goal
-Premier League,Heung-min Son,Man Utd_H_1,2,1:3,40',1:0,Left-footed shot
-Premier League,Heung-min Son,Southampton_H_1,14,2:1,90',2:1,Penalty
-Premier League,Heung-min Son,Sheff Utd_H_1,20,4:0,77',4:0,Right-footed shot
-Premier League,Heung-min Son,Leeds_A_1,11,3:1,25',1:1,Right-footed shot
-Premier League,Patrick Bamford,Liverpool_A_1,3,4:3,30',2:2,Right-footed shot
-Premier League,Patrick Bamford,Fulham_H_1,19,4:3,50',3:1,
-Premier League,Patrick Bamford,Sheff Utd_A_1,17,0:1,88',0:1,
-Premier League,Patrick Bamford,Aston Villa_A_1,2,0:3,55',0:1,Left-footed shot
-Premier League,Patrick Bamford,Crystal Palace_A_1,14,4:1,27',2:1,Left-footed shot
-Premier League,Patrick Bamford,Chelsea_A_1,3,3:1,4',0:1,Left-footed shot
-Premier League,Patrick Bamford,Newcastle_H_1,12,5:2,35',1:1,Header
-Premier League,Patrick Bamford,Burnley_H_1,16,1:0,5',1:0,Penalty
-Premier League,Patrick Bamford,Leicester_A_1,3,1:3,70',1:2,Left-footed shot
-Premier League,Patrick Bamford,Crystal Palace_H_1,12,2:0,52',2:0,Left-footed shot
-Premier League,Patrick Bamford,Southampton_H_1,7,3:0,47',1:0,Left-footed shot
-Premier League,Patrick Bamford,Fulham_A_1,18,1:2,29',0:1,Left-footed shot
-Premier League,Patrick Bamford,Spurs_H_1,7,3:1,42',2:1,Left-footed shot
-Premier League,Patrick Bamford,Southampton_A_1,14,0:2,73',0:1,Left-footed shot
-Premier League,Patrick Bamford,West Brom_H_1,19,3:1,79',3:0,Penalty
-Premier League,Dominic Calvert-Lewin,Spurs_A_1,7,0:1,55',0:1,Header
-Premier League,Dominic Calvert-Lewin,West Brom_H_1,20,5:2,31',1:1,Right-footed shot
-Premier League,Dominic Calvert-Lewin,Crystal Palace_A_1,6,1:2,10',0:1,Right-footed shot
-Premier League,Dominic Calvert-Lewin,Brighton_H_1,14,4:2,16',1:0,Header
-Premier League,Dominic Calvert-Lewin,Liverpool_H_1,5,2:2,81',2:2,Header
-Premier League,Dominic Calvert-Lewin,Newcastle_A_1,15,2:1,90'+1,2:1,Right-footed shot
-Premier League,Dominic Calvert-Lewin,Fulham_A_1,17,2:3,1',0:1,Right-footed shot
-Premier League,Dominic Calvert-Lewin,Burnley_A_1,19,1:1,45'+3,1:1,Right-footed shot
-Premier League,Dominic Calvert-Lewin,Leeds_A_1,10,1:2,41',0:2,Header
-Premier League,Dominic Calvert-Lewin,Man Utd_A_1,2,3:3,90'+5,3:3,Left-footed shot
-Premier League,Dominic Calvert-Lewin,Burnley_H_1,15,1:2,32',1:2,Header
-Premier League,Dominic Calvert-Lewin,Aston Villa_H_1,10,1:2,19',1:1,Header
-Premier League,Dominic Calvert-Lewin,West Ham_A_1,5,0:1,24',0:1,Right-footed shot
-Premier League,Jamie Vardy,West Brom_A_1,19,0:3,74',0:2,Penalty
-Premier League,Jamie Vardy,Man City_A_1,4,2:5,37',1:1,Penalty
-Premier League,Jamie Vardy,Arsenal_A_1,6,0:1,80',0:1,Header
-Premier League,Jamie Vardy,Leeds_A_1,7,1:4,76',1:3,Right-footed shot
-Premier League,Jamie Vardy,Wolves_H_1,7,1:0,15',1:0,Penalty
-Premier League,Jamie Vardy,Sheff Utd_A_1,20,1:2,90',1:2,Right-footed shot
-Premier League,Jamie Vardy,Brighton_H_1,16,3:0,41',2:0,Left-footed shot
-Premier League,Jamie Vardy,Spurs_A_1,3,0:2,45'+4,0:1,Penalty
-Premier League,Jamie Vardy,Liverpool_H_1,4,3:1,81',2:1,Right-footed shot
-Premier League,Jamie Vardy,West Brom_H_1,19,3:0,23',1:0,Right-footed shot
-Premier League,Jamie Vardy,Spurs_H_1,7,2:4,18',1:0,Penalty
-Premier League,Ollie Watkins,Liverpool_H_1,2,7:2,4',1:0,Left-footed shot
-Premier League,Ollie Watkins,Southampton_H_1,8,3:4,90'+3,2:4,Penalty
-Premier League,Ollie Watkins,Arsenal_A_1,10,0:3,72',0:2,Header
-Premier League,Ollie Watkins,Newcastle_H_1,13,2:0,13',1:0,Header
-Premier League,Ollie Watkins,Burnley_A_1,15,3:2,14',0:1,Right-footed shot
-Premier League,Ollie Watkins,West Ham_H_1,6,1:3,81',1:2,Right-footed shot
-Premier League,Ollie Watkins,Arsenal_H_1,11,1:0,2',1:0,Right-footed shot
-Premier League,Ollie Watkins,Fulham_H_1,18,3:1,87',3:1,Right-footed shot
-Premier League,Ollie Watkins,Liverpool_A_1,7,2:1,43',0:1,Left-footed shot
-Premier League,Ollie Watkins,Everton_A_1,8,1:2,13',0:1,Right-footed shot
-Premier League,Ollie Watkins,Spurs_A_1,6,1:2,39',1:2,Left-footed shot
-Premier League,Ilkay Gündogan,West Brom_H_1,19,1:1,30',1:0,Right-footed shot
-Premier League,Ilkay Gündogan,Newcastle_H_1,13,2:0,14',1:0,Right-footed shot
-Premier League,Ilkay Gündogan,Chelsea_A_1,8,1:3,18',0:1,Right-footed shot
-Premier League,Ilkay Gündogan,Crystal Palace_H_1,13,4:0,56',2:0,Right-footed shot
-Premier League,Ilkay Gündogan,Aston Villa_H_1,11,2:0,90',2:0,Penalty
-Premier League,Ilkay Gündogan,West Brom_A_1,19,0:5,6',0:1,Right-footed shot
-Premier League,Ilkay Gündogan,Liverpool_A_1,4,1:4,49',0:1,Right-footed shot
-Premier League,Ilkay Gündogan,Spurs_H_1,5,3:0,50',2:0,Left-footed shot
-Premier League,Ilkay Gündogan,Southampton_H_1,13,5:2,45'+3,3:1,Right-footed shot
-Premier League,Ilkay Gündogan,Brighton_A_1,17,3:2,2',0:1,Header
-Premier League,Alexandre Lacazette,Fulham_A_1,18,0:3,8',0:1,Left-footed shot
-Premier League,Alexandre Lacazette,West Ham_H_1,18,2:1,25',1:0,Header
-Premier League,Alexandre Lacazette,Liverpool_A_1,5,3:1,25',0:1,Left-footed shot
-Premier League,Alexandre Lacazette,Chelsea_H_1,6,3:1,34',1:0,Penalty
-Premier League,Alexandre Lacazette,Brighton_A_1,16,0:1,66',0:1,Right-footed shot
-Premier League,Alexandre Lacazette,West Brom_A_1,19,0:4,60',0:3,Right-footed shot
-Premier League,Alexandre Lacazette,Southampton_A_1,10,1:3,72',1:3,Left-footed shot
-Premier League,Alexandre Lacazette,Leicester_A_1,3,1:3,45'+2,1:2,Penalty
-Premier League,Alexandre Lacazette,Spurs_H_1,6,2:1,64',2:1,Penalty
-Premier League,Alexandre Lacazette,West Ham_A_1,5,3:3,82',3:3,Header
-Premier League,Alexandre Lacazette,Sheff Utd_A_1,20,0:3,33',0:1,Right-footed shot
-Premier League,Callum Wilson,West Ham_A_1,6,0:2,56',0:1,Right-footed shot
-Premier League,Callum Wilson,Spurs_A_1,7,1:1,90'+7,1:1,Penalty
-Premier League,Callum Wilson,Burnley_H_1,18,3:1,65',2:1,Left-footed shot
-Premier League,Callum Wilson,Everton_H_1,1,2:1,56',1:0,Penalty
-Premier League,Callum Wilson,Crystal Palace_A_1,12,0:2,88',0:1,Left-footed shot
-Premier League,Callum Wilson,Fulham_H_1,18,1:1,64',1:1,Penalty
-Premier League,Callum Wilson,Everton_A_1,7,0:2,73',0:1,Header
-Premier League,Callum Wilson,Leicester_A_1,3,2:4,64',0:3,Counter attack goal
-Premier League,Danny Ings,Spurs_H_1,14,2:5,32',1:0,Right-footed shot
-Premier League,Danny Ings,Burnley_A_1,15,0:1,5',0:1,Right-footed shot
-Premier League,Danny Ings,Chelsea_A_1,7,3:3,43',2:1,Right-footed shot
-Premier League,Danny Ings,Aston Villa_A_1,4,3:4,58',0:4,Right-footed shot
-Premier League,Danny Ings,Brighton_A_1,16,1:2,81',1:2,Penalty
-Premier League,Danny Ings,Liverpool_H_1,1,1:0,2',1:0,Left-footed shot
-Premier League,Danny Ings,Wolves_H_1,14,1:2,25',1:0,Right-footed shot
-Premier League,Danny Ings,Burnley_H_1,15,3:2,42',2:2,Right-footed shot
-Premier League,Danny Ings,Spurs_A_1,7,2:1,30',0:1,Header
-Premier League,Danny Ings,Crystal Palace_H_1,13,3:1,19',1:1,Right-footed shot
-Premier League,Chris Wood,Leicester_A_1,2,4:2,10',0:1,Right-footed shot
-Premier League,Chris Wood,Crystal Palace_H_1,9,1:0,8',1:0,Right-footed shot
-Premier League,Chris Wood,Wolves_H_1,11,2:1,51',2:0,Right-footed shot
-Premier League,Chris Wood,Aston Villa_H_1,8,3:2,79',3:2,Header
-Premier League,Chris Wood,Arsenal_H_1,10,1:1,39',1:1,
-Premier League,Chris Wood,Everton_A_1,7,1:2,13',0:1,Right-footed shot
-Premier League,Chris Wood,Southampton_A_1,14,3:2,12',0:1,Penalty
-Premier League,Chris Wood,Wolves_A_1,12,0:4,15',0:1,Right-footed shot
-Premier League,Chris Wood,West Ham_H_1,5,1:2,19',1:0,Penalty
-Premier League,Chris Wood,Fulham_A_1,18,0:2,44',0:2,Right-footed shot
-Premier League,Kelechi Iheanacho,Fulham_A_1,18,0:2,17',0:1,Header
-Premier League,Kelechi Iheanacho,Burnley_A_1,15,1:1,34',1:1,Left-footed shot
-Premier League,Kelechi Iheanacho,Brighton_A_1,16,1:2,62',1:1,Left-footed shot
-Premier League,Kelechi Iheanacho,Sheff Utd_H_1,20,5:0,39',1:0,Right-footed shot
-Premier League,Kelechi Iheanacho,West Ham_A_1,4,3:2,70',3:1,Left-footed shot
-Premier League,Kelechi Iheanacho,West Brom_H_1,19,3:0,36',3:0,Left-footed shot
-Premier League,Kelechi Iheanacho,Crystal Palace_H_1,14,2:1,80',2:1,Left-footed shot
-Premier League,Kelechi Iheanacho,Newcastle_H_1,17,2:4,87',2:4,Left-footed shot
-Premier League,Kelechi Iheanacho,Chelsea_A_1,4,2:1,76',2:1,Left-footed shot
-Premier League,Marcus Rashford,Brighton_A_1,8,2:3,55',1:2,Left-footed shot
-Premier League,Marcus Rashford,Newcastle_A_1,10,1:4,90'+6,1:4,Right-footed shot
-Premier League,Marcus Rashford,West Ham_A_1,7,1:3,78',1:3,Right-footed shot
-Premier League,Marcus Rashford,Sheff Utd_A_1,20,2:3,26',1:1,Right-footed shot
-Premier League,Marcus Rashford,Leicester_A_1,3,2:2,23',0:1,Right-footed shot
-Premier League,Marcus Rashford,Wolves_H_1,11,1:0,90'+3,1:0,Deflected shot on goal
-Premier League,Marcus Rashford,Southampton_H_1,12,9:0,25',2:0,Right-footed shot
-Premier League,Marcus Rashford,Newcastle_H_1,17,3:1,30',1:0,Right-footed shot
-Premier League,Marcus Rashford,Brighton_H_1,16,2:1,62',1:1,Right-footed shot
-Premier League,Marcus Rashford,Liverpool_H_1,6,2:4,68',2:3,Left-footed shot
-Premier League,Sadio Mané,Chelsea_A_1,3,0:2,50',0:1,Header
-Premier League,Sadio Mané,Arsenal_H_1,3,3:1,28',1:1,Left-footed shot
-Premier League,Sadio Mané,Everton_A_1,1,2:2,3',0:1,Right-footed shot
-Premier League,Sadio Mané,Crystal Palace_A_1,12,0:7,35',0:2,Right-footed shot
-Premier League,Sadio Mané,West Brom_H_1,19,1:1,12',1:0,Right-footed shot
-Premier League,Sadio Mané,Spurs_A_1,4,1:3,65',1:3,Left-footed shot
-Premier League,Sadio Mané,Leeds_A_1,11,1:1,31',0:1,Right-footed shot
-Premier League,Sadio Mané,Southampton_H_1,13,2:0,31',1:0,Header
-Premier League,Sadio Mané,Crystal Palace_H_1,13,2:0,36',1:0,Left-footed shot
-Premier League,Matheus Pereira,Everton_A_1,9,5:2,47',2:2,Direct free kick
-Premier League,Matheus Pereira,Wolves_A_1,14,2:3,8',0:1,Penalty
-Premier League,Matheus Pereira,West Ham_A_1,10,2:1,51',1:1,Left-footed shot
-Premier League,Matheus Pereira,Fulham_H_1,18,2:2,66',2:1,Left-footed shot
-Premier League,Matheus Pereira,Chelsea_A_1,4,2:5,45'+2,1:1,Left-footed shot
-Premier League,Matheus Pereira,Southampton_H_1,13,3:0,32',1:0,Penalty
-Premier League,Matheus Pereira,Aston Villa_A_1,11,2:2,23',1:1,Penalty
-Premier League,Matheus Pereira,Arsenal_A_1,10,3:1,67',2:1,Counter attack goal
-Premier League,Matheus Pereira,West Ham_H_1,7,1:3,27',1:0,Direct corner
-Premier League,Wilfried Zaha,Southampton_H_1,15,1:0,13',1:0,Right-footed shot
-Premier League,Wilfried Zaha,Man Utd_A_1,10,1:3,74',0:2,Penalty
-Premier League,Wilfried Zaha,Brighton_H_1,16,1:1,19',1:0,Penalty
-Premier League,Wilfried Zaha,Fulham_A_1,20,1:2,64',0:2,Left-footed shot
-Premier League,Wilfried Zaha,West Brom_A_1,18,1:5,55',1:2,Right-footed shot
-Premier League,Wilfried Zaha,Leicester_H_1,6,1:1,58',1:0,
-Premier League,Wilfried Zaha,West Ham_H_1,7,2:3,3',1:0,Right-footed shot
-Premier League,Wilfried Zaha,Leicester_A_1,3,2:1,12',0:1,Counter attack goal
-Premier League,Wilfried Zaha,Aston Villa_H_1,11,3:2,75',2:2,Right-footed shot
-Premier League,Gareth Bale,Brighton_H_1,16,2:1,73',2:1,Header
-Premier League,Gareth Bale,Burnley_H_1,15,4:0,2',1:0,Right-footed shot
-Premier League,Gareth Bale,Crystal Palace_H_1,13,4:1,25',1:0,Left-footed shot
-Premier League,Gareth Bale,Southampton_H_1,14,2:1,60',1:1,Left-footed shot
-Premier League,Gareth Bale,Sheff Utd_H_1,20,4:0,36',1:0,Left-footed shot
-Premier League,Gareth Bale,Leicester_A_1,5,2:4,87',2:3,Left-footed shot
-Premier League,Raheem Sterling,Leeds_A_1,7,1:1,17',0:1,Right-footed shot
-Premier League,Raheem Sterling,Arsenal_H_1,4,1:0,23',1:0,Left-footed shot
-Premier League,Raheem Sterling,Fulham_H_1,17,2:0,5',1:0,Right-footed shot
-Premier League,Raheem Sterling,Southampton_A_1,4,0:1,16',0:1,Right-footed shot
-Premier League,Raheem Sterling,Crystal Palace_H_1,13,4:0,88',4:0,Direct free kick
-Premier League,Raheem Sterling,West Brom_A_1,19,0:5,57',0:5,Right-footed shot
-Premier League,Raheem Sterling,Burnley_A_1,15,0:2,38',0:2,Right-footed shot
-Premier League,Raheem Sterling,Liverpool_A_1,4,1:4,76',1:3,Header
-Premier League,Raheem Sterling,Arsenal_A_1,11,0:1,2',0:1,Header
-Premier League,Raheem Sterling,Chelsea_H_1,4,1:2,44',1:0,Left-footed shot
-Premier League,Michail Antonio,Arsenal_A_1,1,2:1,45',1:1,Right-footed shot
-Premier League,Michail Antonio,Leicester_A_1,1,0:3,14',0:1,Header
-Premier League,Michail Antonio,Man City_H_1,3,1:1,18',1:0,Right-footed shot
-Premier League,Michail Antonio,Burnley_H_1,15,1:0,9',1:0,Right-footed shot
-Premier League,Michail Antonio,West Brom_H_1,19,2:1,66',2:1,Right-footed shot
-Premier League,Michail Antonio,Spurs_H_1,7,2:1,5',1:0,Left-footed shot
-Premier League,Michail Antonio,Man City_A_1,1,2:1,43',1:1,Left-footed shot
-Premier League,Michail Antonio,Burnley_A_1,15,1:2,21',1:1,Header
-Premier League,Michail Antonio,West Brom_A_1,19,1:3,88',1:3,Counter attack goal
-Premier League,Pierre-Emerick Aubameyang,Fulham_A_1,18,0:3,57',0:3,Right-footed shot
-Premier League,Pierre-Emerick Aubameyang,Man Utd_A_1,10,0:1,69',0:1,Penalty
-Premier League,Pierre-Emerick Aubameyang,Southampton_H_1,4,1:1,52',1:1,Right-footed shot
-Premier League,Pierre-Emerick Aubameyang,Newcastle_H_1,16,3:0,50',1:0,Counter attack goal
-Premier League,Pierre-Emerick Aubameyang,Leeds_H_1,10,4:2,13',1:0,Right-footed shot
-Premier League,Pierre-Emerick Aubameyang,Burnley_A_1,15,1:1,6',0:1,Right-footed shot
-Premier League,Pierre-Emerick Aubameyang,Newcastle_A_1,16,0:2,66',0:2,Right-footed shot
-Premier League,Edinson Cavani,Everton_A_1,5,1:3,90'+5,1:3,Counter attack goal
-Premier League,Edinson Cavani,Southampton_A_1,5,2:3,74',2:2,Header
-Premier League,Edinson Cavani,Fulham_A_1,18,1:2,21',1:1,Left-footed shot
-Premier League,Edinson Cavani,Southampton_H_1,12,9:0,39',4:0,Header
-Premier League,Edinson Cavani,Everton_H_1,6,3:3,24',1:0,Header
-Premier League,Edinson Cavani,Spurs_A_1,6,1:3,79',1:2,Header
-Premier League,Edinson Cavani,Burnley_H_1,16,3:1,90'+3,3:1,Right-footed shot
-Premier League,Edinson Cavani,Aston Villa_A_1,9,1:3,87',1:3,Header
-Premier League,Edinson Cavani,Fulham_H_1,18,1:1,15',1:0,Right-footed shot
-Premier League,Tomas Soucek,Fulham_H_1,17,1:0,90'+1,1:0,Right-footed shot
-Premier League,Tomas Soucek,Man Utd_H_1,4,1:3,38',1:0,Right-footed shot
-Premier League,Tomas Soucek,Leeds_A_1,13,1:2,25',1:1,Header
-Premier League,Tomas Soucek,Brighton_H_1,17,2:2,82',2:2,Header
-Premier League,Tomas Soucek,Everton_A_1,6,0:1,86',0:1,Right-footed shot
-Premier League,Tomas Soucek,Crystal Palace_A_1,13,2:3,9',1:1,Header
-Premier League,Tomas Soucek,Aston Villa_A_1,9,1:3,51',0:1,Right-footed shot
-Premier League,Tomas Soucek,Arsenal_H_1,10,3:3,32',3:0,Right-footed shot
-Premier League,Tomas Soucek,West Brom_A_1,19,1:3,45'+1,1:1,Left-footed shot
-Premier League,Christian Benteke,West Brom_A_1,18,1:5,59',1:3,Header
-Premier League,Christian Benteke,West Ham_A_1,9,1:1,34',0:1,Header
-Premier League,Christian Benteke,Brighton_A_1,16,1:2,90'+5,1:2,Right-footed shot
-Premier League,Christian Benteke,Spurs_A_1,8,4:1,45'+1,1:1,Header
-Premier League,Christian Benteke,Chelsea_H_1,5,1:4,63',1:3,Header
-Premier League,Christian Benteke,Sheff Utd_A_1,20,0:2,2',0:1,Right-footed shot
-Premier League,Christian Benteke,Southampton_A_1,14,3:1,2',0:1,Left-footed shot
-Premier League,Christian Benteke,Aston Villa_H_1,11,3:2,32',1:1,Header
-Premier League,Christian Benteke,Arsenal_H_1,9,1:3,62',1:1,Header
-Premier League,Nicolas Pépé,Sheff Utd_H_1,19,2:1,64',2:0,Left-footed shot
-Premier League,Nicolas Pépé,Everton_A_1,7,2:1,35',1:1,Penalty
-Premier League,Nicolas Pépé,Southampton_A_1,10,1:3,8',1:1,Left-footed shot
-Premier League,Nicolas Pépé,Wolves_A_1,14,2:1,32',0:1,Right-footed shot
-Premier League,Nicolas Pépé,Leicester_A_1,3,1:3,52',1:3,Left-footed shot
-Premier League,Nicolas Pépé,West Brom_H_1,19,3:1,35',2:0,Left-footed shot
-Premier League,Nicolas Pépé,Crystal Palace_A_1,13,1:3,35',0:1,Right-footed shot
-Premier League,Nicolas Pépé,Brighton_H_1,16,2:0,49',1:0,Right-footed shot
-Premier League,Anwar El Ghazi,Wolves_A_1,11,0:1,90'+4,0:1,Penalty
-Premier League,Anwar El Ghazi,West Brom_A_1,19,0:3,5',0:1,Right-footed shot
-Premier League,Anwar El Ghazi,Crystal Palace_H_1,12,3:0,76',3:0,Counter attack goal
-Premier League,Anwar El Ghazi,Chelsea_A_1,8,1:1,50',1:1,Right-footed shot
-Premier League,Anwar El Ghazi,Leeds_A_1,10,0:1,5',0:1,Left-footed shot
-Premier League,Anwar El Ghazi,West Brom_H_1,19,2:2,9',1:0,Penalty
-Premier League,Anwar El Ghazi,Everton_A_1,8,1:2,80',1:2,Right-footed shot
-Premier League,Anwar El Ghazi,Crystal Palace_A_1,13,3:2,34',1:2,Right-footed shot
-Premier League,Anwar El Ghazi,Chelsea_H_1,3,2:1,52',2:0,Penalty
-Premier League,Roberto Firmino,Sheff Utd_H_1,18,2:1,41',1:1,Right-footed shot
-Premier League,Roberto Firmino,Leicester_H_1,1,3:0,86',3:0,Header
-Premier League,Roberto Firmino,Spurs_H_1,1,2:1,90',2:1,Header
-Premier League,Roberto Firmino,Crystal Palace_A_1,12,0:7,44',0:3,Counter attack goal
-Premier League,Roberto Firmino,Spurs_A_1,4,1:3,45'+4,0:1,Right-footed shot
-Premier League,Roberto Firmino,Man Utd_A_1,2,2:4,45'+3,1:3,Header
-Premier League,Roberto Firmino,Burnley_A_1,15,0:3,43',0:1,Right-footed shot
-Premier League,Riyad Mahrez,Leicester_H_1,1,2:5,4',1:0,Right-footed shot
-Premier League,Riyad Mahrez,Burnley_H_1,17,5:0,6',1:0,Left-footed shot
-Premier League,Riyad Mahrez,West Brom_A_1,19,0:5,45'+2,0:4,Left-footed shot
-Premier League,Riyad Mahrez,Everton_A_1,4,1:3,63',1:2,Left-footed shot
-Premier League,Riyad Mahrez,Wolves_H_1,13,4:1,90',3:1,Left-footed shot
-Premier League,Riyad Mahrez,Southampton_H_1,13,5:2,40',2:1,Left-footed shot
-Premier League,Che Adams,Chelsea_A_1,7,3:3,57',2:2,Left-footed shot
-Premier League,Che Adams,Everton_H_1,1,2:0,35',2:0,Right-footed shot
-Premier League,Che Adams,Newcastle_H_1,11,2:0,7',1:0,Right-footed shot
-Premier League,Che Adams,Sheff Utd_H_1,20,3:0,34',1:0,Right-footed shot
-Premier League,Che Adams,Sheff Utd_A_1,20,0:2,49',0:2,Right-footed shot
-Premier League,Che Adams,Man City_A_1,1,5:2,56',4:2,Right-footed shot
-Premier League,Che Adams,Brighton_H_1,17,1:2,27',1:1,Right-footed shot
-Premier League,Che Adams,Crystal Palace_H_1,13,3:1,48',2:1,Right-footed shot
-Premier League,Che Adams,Fulham_H_1,18,3:1,27',1:0,Right-footed shot
-Premier League,Phil Foden,Wolves_A_1,6,1:3,32',0:2,Left-footed shot
-Premier League,Phil Foden,West Ham_A_1,11,1:1,51',1:1,Left-footed shot
-Premier League,Phil Foden,Chelsea_A_1,8,1:3,21',0:2,Left-footed shot
-Premier League,Phil Foden,Brighton_H_1,17,1:0,44',1:0,Right-footed shot
-Premier League,Phil Foden,Liverpool_A_1,4,1:4,83',1:4,Left-footed shot
-Premier League,Phil Foden,Everton_A_1,4,1:3,32',0:1,Right-footed shot
-Premier League,Phil Foden,Aston Villa_A_1,9,1:2,22',1:1,Right-footed shot
-Premier League,Phil Foden,Brighton_A_1,17,3:2,48',0:2,Counter attack goal
-Premier League,Phil Foden,Everton_H_1,8,5:0,53',3:0,Right-footed shot
-Premier League,Jesse Lingard,Aston Villa_A_1,9,1:3,56',0:2,Counter attack goal
-Premier League,Jesse Lingard,Spurs_H_1,7,2:1,47',2:0,Left-footed shot
-Premier League,Jesse Lingard,Leeds_H_1,11,2:0,21',1:0,Left-footed shot
-Premier League,Jesse Lingard,Arsenal_H_1,10,3:3,15',1:0,Right-footed shot
-Premier League,Jesse Lingard,Wolves_A_1,13,2:3,6',0:1,Solo run
-Premier League,Jesse Lingard,Leicester_H_1,3,3:2,29',1:0,Right-footed shot
-Premier League,Jesse Lingard,Newcastle_A_1,17,3:2,80',2:2,Penalty
-Premier League,Gabriel Jesus,Wolves_A_1,6,1:3,90'+5,1:3,Right-footed shot
-Premier League,Gabriel Jesus,Liverpool_H_1,1,1:1,31',1:1,Left-footed shot
-Premier League,Gabriel Jesus,Sheff Utd_H_1,20,1:0,9',1:0,Right-footed shot
-Premier League,Gabriel Jesus,Burnley_A_1,15,0:2,3',0:1,Header
-Premier League,Gabriel Jesus,Wolves_H_1,13,4:1,80',2:1,Left-footed shot
-Premier League,Gabriel Jesus,Fulham_A_1,18,0:3,56',0:2,Right-footed shot
-Premier League,Gabriel Jesus,Leicester_A_1,3,0:2,74',0:2,Right-footed shot
-Premier League,Gabriel Jesus,Everton_H_1,8,5:0,14',2:0,Counter attack goal
-Premier League,Harvey Barnes,Burnley_H_1,12,4:2,20',1:1,Right-footed shot
-Premier League,Harvey Barnes,Leeds_A_1,7,1:4,2',0:1,Right-footed shot
-Premier League,Harvey Barnes,Fulham_H_1,18,1:2,86',1:2,Left-footed shot
-Premier League,Harvey Barnes,Man Utd_H_1,2,2:2,31',1:1,Left-footed shot
-Premier League,Harvey Barnes,Crystal Palace_A_1,13,1:1,83',1:1,
-Premier League,Harvey Barnes,Southampton_H_1,8,2:0,90'+5,2:0,Counter attack goal
-Premier League,Harvey Barnes,Leeds_H_1,11,1:3,13',1:0,Right-footed shot
-Premier League,Harvey Barnes,Liverpool_H_1,4,3:1,85',3:1,Counter attack goal
-Premier League,Harvey Barnes,Aston Villa_A_1,9,1:2,23',0:2,Left-footed shot
-Premier League,Diogo Jota,Arsenal_H_1,3,3:1,88',3:1,Right-footed shot
-Premier League,Diogo Jota,Sheff Utd_H_1,18,2:1,64',2:1,Header
-Premier League,Diogo Jota,West Ham_H_1,14,2:1,85',2:1,Right-footed shot
-Premier League,Diogo Jota,Leicester_H_1,1,3:0,41',2:0,Header
-Premier League,Diogo Jota,Brighton_A_1,16,1:1,60',0:1,Right-footed shot
-Premier League,Diogo Jota,Wolves_A_1,12,0:1,45'+2,0:1,Left-footed shot
-Premier League,Diogo Jota,Arsenal_A_1,10,0:3,64',0:1,Header
-Premier League,Diogo Jota,Man Utd_A_1,2,2:4,34',1:1,Right-footed shot
-Premier League,Jack Harrison,Liverpool_A_1,3,4:3,12',1:1,Right-footed shot
-Premier League,Jack Harrison,Newcastle_H_1,12,5:2,88',5:2,Counter attack goal
-Premier League,Jack Harrison,West Brom_A_1,19,0:5,36',0:3,Left-footed shot
-Premier League,Jack Harrison,Newcastle_A_1,16,1:2,61',1:2,Left-footed shot
-Premier League,Jack Harrison,Leicester_A_1,3,1:3,84',1:3,Counter attack goal
-Premier League,Jack Harrison,Crystal Palace_H_1,12,2:0,3',1:0,Right-footed shot
-Premier League,Jack Harrison,Sheff Utd_H_1,20,2:1,12',1:0,Right-footed shot
-Premier League,Jack Harrison,Burnley_A_1,15,0:4,60',0:2,Right-footed shot
-Premier League,James Ward-Prowse,Everton_H_1,1,2:0,27',1:0,Right-footed shot
-Premier League,James Ward-Prowse,Aston Villa_A_1,4,3:4,33',0:2,Direct free kick
-Premier League,James Ward-Prowse,Man Utd_H_1,7,2:3,33',2:0,Direct free kick
-Premier League,James Ward-Prowse,Newcastle_A_1,17,3:2,48',3:2,Direct free kick
-Premier League,James Ward-Prowse,Sheff Utd_A_1,20,0:2,32',0:1,Penalty
-Premier League,James Ward-Prowse,Man City_A_1,1,5:2,25',1:1,Penalty
-Premier League,James Ward-Prowse,Leicester_H_1,3,1:1,61',1:0,Penalty
-Premier League,James Maddison,Man City_A_1,4,2:5,77',1:4,Right-footed shot
-Premier League,James Maddison,Brighton_H_1,16,3:0,27',1:0,Left-footed shot
-Premier League,James Maddison,Newcastle_A_1,15,1:2,55',0:1,Right-footed shot
-Premier League,James Maddison,Southampton_H_1,8,2:0,37',1:0,Right-footed shot
-Premier League,James Maddison,Chelsea_H_1,9,2:0,41',2:0,Right-footed shot
-Premier League,James Maddison,Liverpool_H_1,4,3:1,78',1:1,Direct free kick
-Premier League,James Maddison,Aston Villa_A_1,9,1:2,19',0:1,Right-footed shot
-Premier League,Jarrod Bowen,Wolves_H_1,11,4:0,17',1:0,Left-footed shot
-Premier League,Jarrod Bowen,Leicester_A_1,1,0:3,83',0:3,Counter attack goal
-Premier League,Jarrod Bowen,Aston Villa_H_1,8,2:1,46',2:1,
-Premier League,Jarrod Bowen,West Brom_H_1,19,2:1,45'+1,1:0,
-Premier League,Jarrod Bowen,Arsenal_H_1,10,3:3,17',2:0,Right-footed shot
-Premier League,Jarrod Bowen,Wolves_A_1,13,2:3,38',0:3,Left-footed shot
-Premier League,Jarrod Bowen,Leicester_H_1,3,3:2,48',3:0,Left-footed shot
-Premier League,Stuart Dallas,Leicester_H_1,3,1:4,48',1:2,Right-footed shot
-Premier League,Stuart Dallas,Newcastle_H_1,12,5:2,77',3:2,Header
-Premier League,Stuart Dallas,Man Utd_A_1,2,6:2,73',6:2,Right-footed shot
-Premier League,Stuart Dallas,Leicester_A_1,3,1:3,15',1:1,Right-footed shot
-Premier League,Stuart Dallas,Southampton_H_1,7,3:0,78',2:0,Left-footed shot
-Premier League,Stuart Dallas,Man City_A_1,1,1:2,42',0:1,Right-footed shot
-Premier League,Stuart Dallas,Spurs_H_1,7,3:1,13',1:0,Right-footed shot
-Premier League,Neal Maupay,Newcastle_A_1,5,0:3,4',0:1,Penalty
-Premier League,Neal Maupay,Man Utd_H_1,12,2:3,40',1:0,Penalty
-Premier League,Neal Maupay,Everton_A_1,3,4:2,41',1:1,Right-footed shot
-Premier League,Neal Maupay,West Ham_A_1,10,2:2,44',0:1,Right-footed shot
-Premier League,Neal Maupay,Wolves_H_1,12,3:3,46',2:3,Penalty
-Premier League,Neal Maupay,Leeds_A_1,11,0:1,17',0:1,Right-footed shot
-Premier League,Neal Maupay,Newcastle_H_1,17,3:0,68',3:0,Right-footed shot
-Premier League,David McGoldrick,Arsenal_A_1,4,2:1,83',2:1,Left-footed shot
-Premier League,David McGoldrick,Chelsea_A_1,8,4:1,9',0:1,Right-footed shot
-Premier League,David McGoldrick,Man Utd_H_1,5,2:3,5',1:0,Right-footed shot
-Premier League,David McGoldrick,Spurs_H_1,4,1:3,59',1:2,Header
-Premier League,David McGoldrick,Aston Villa_H_1,9,1:0,30',1:0,Right-footed shot
-Premier League,David McGoldrick,Brighton_H_1,16,1:0,19',1:0,Left-footed shot
-Premier League,David McGoldrick,Burnley_H_1,17,1:0,24',1:0,Right-footed shot
-Premier League,Joe Willock,Southampton_H_1,13,3:2,16',1:0,Right-footed shot
-Premier League,Joe Willock,Spurs_H_1,6,2:2,85',2:2,Left-footed shot
-Premier League,Joe Willock,West Ham_H_1,4,3:2,82',3:2,Header
-Premier League,Joe Willock,Liverpool_A_1,6,1:1,90'+5,1:1,Right-footed shot
-Premier League,Joe Willock,Leicester_A_1,3,2:4,22',0:1,Left-footed shot
-Premier League,Joe Willock,Man City_H_1,1,3:4,62',3:2,Penalty rebound
-Premier League,Joe Willock,Sheff Utd_H_1,20,1:0,45'+4,1:0,Header
-Premier League,Joe Willock,Fulham_A_1,18,0:2,23',0:1,Right-footed shot
-Premier League,Bertrand Traoré,West Brom_A_1,19,0:3,84',0:2,Left-footed shot
-Premier League,Bertrand Traoré,Crystal Palace_H_1,12,3:0,5',1:0,Counter attack goal
-Premier League,Bertrand Traoré,Man Utd_A_1,2,2:1,58',1:1,Left-footed shot
-Premier League,Bertrand Traoré,Newcastle_H_1,13,2:0,42',2:0,Right-footed shot
-Premier League,Bertrand Traoré,Leicester_H_1,3,1:2,48',1:2,Left-footed shot
-Premier League,Bertrand Traoré,Man Utd_H_1,2,1:3,24',1:0,Left-footed shot
-Premier League,Bertrand Traoré,Chelsea_H_1,3,2:1,43',1:0,Left-footed shot
-Premier League,Richarlison,Crystal Palace_A_1,6,1:2,40',1:2,Penalty
-Premier League,Richarlison,Leicester_A_1,3,0:2,21',0:1,Right-footed shot
-Premier League,Richarlison,Man City_H_1,3,1:3,37',1:1,Right-footed shot
-Premier League,Richarlison,Liverpool_A_1,6,0:2,3',0:1,
-Premier League,Richarlison,Southampton_H_1,14,1:0,9',1:0,Right-footed shot
-Premier League,Richarlison,West Brom_A_1,19,0:1,65',0:1,Header
-Premier League,Richarlison,Wolves_H_1,12,1:0,48',1:0,Header
-Premier League,Mason Greenwood,West Ham_A_1,7,1:3,68',1:2,Left-footed shot
-Premier League,Mason Greenwood,Brighton_H_1,16,2:1,83',2:1,Header
-Premier League,Mason Greenwood,Spurs_A_1,6,1:3,90'+6,1:3,Right-footed shot
-Premier League,Mason Greenwood,Burnley_H_1,16,3:1,48',1:0,Left-footed shot
-Premier League,Mason Greenwood,Aston Villa_A_1,9,1:3,56',1:2,Left-footed shot
-Premier League,Mason Greenwood,Leicester_H_1,4,1:2,15',1:1,Right-footed shot
-Premier League,Rodrigo,Man City_H_1,8,1:1,59',1:1,Right-footed shot
-Premier League,Rodrigo,Newcastle_H_1,12,5:2,61',2:1,Header
-Premier League,Rodrigo,West Brom_A_1,19,0:5,40',0:4,Left-footed shot
-Premier League,Rodrigo,Spurs_H_1,7,3:1,84',3:1,Left-footed shot
-Premier League,Rodrigo,Burnley_A_1,15,0:4,77',0:3,Left-footed shot
-Premier League,Rodrigo,West Brom_H_1,19,3:1,17',1:0,Header
-Premier League,Ferran Torres,Burnley_H_1,17,5:0,66',4:0,Right-footed shot
-Premier League,Ferran Torres,Newcastle_H_1,13,2:0,55',2:0,Right-footed shot
-Premier League,Ferran Torres,Leeds_H_1,11,1:2,76',1:1,Right-footed shot
-Premier League,Ferran Torres,Crystal Palace_A_1,14,0:2,59',0:2,Left-footed shot
-Premier League,Ferran Torres,Newcastle_A_1,16,3:4,42',1:2,Right-footed shot
-Premier League,Jorginho,Brighton_A_1,16,1:3,23',0:1,Penalty
-Premier League,Jorginho,Crystal Palace_H_1,5,4:0,78',3:0,Penalty
-Premier League,Jorginho,Spurs_A_1,5,0:1,24',0:1,Penalty
-Premier League,Jorginho,Sheff Utd_A_1,20,1:2,58',1:2,Penalty
-Premier League,Jorginho,Everton_H_1,6,2:0,65',2:0,Penalty
-Premier League,Jorginho,Leicester_H_1,3,2:1,66',2:0,Penalty
-Premier League,Timo Werner,Southampton_H_1,12,3:3,15',1:0,Right-footed shot
-Premier League,Timo Werner,Burnley_A_1,19,0:3,70',0:3,Right-footed shot
-Premier League,Timo Werner,Sheff Utd_H_1,19,4:1,80',4:1,Right-footed shot
-Premier League,Timo Werner,Newcastle_H_1,16,2:0,39',2:0,Right-footed shot
-Premier League,Timo Werner,West Ham_A_1,5,0:1,43',0:1,Right-footed shot
-Premier League,Jack Grealish,Fulham_A_1,18,0:3,4',0:1,Right-footed shot
-Premier League,Jack Grealish,Liverpool_H_1,2,7:2,66',6:2,Right-footed shot
-Premier League,Jack Grealish,Southampton_H_1,8,3:4,90'+7,3:4,Right-footed shot
-Premier League,Jack Grealish,West Ham_A_1,10,2:1,25',1:1,Right-footed shot
-Premier League,Jack Grealish,Burnley_A_1,15,3:2,68',1:2,Right-footed shot
-Premier League,Kevin De Bruyne,Wolves_A_1,6,1:3,20',0:1,Penalty
-Premier League,Kevin De Bruyne,Fulham_H_1,17,2:0,26',2:0,Penalty
-Premier League,Kevin De Bruyne,Chelsea_A_1,8,1:3,34',0:3,Counter attack goal
-Premier League,Kevin De Bruyne,Southampton_H_1,13,5:2,15',1:0,Left-footed shot
-Premier League,Kevin De Bruyne,Everton_H_1,8,5:0,11',1:0,Right-footed shot
-Premier League,Raphinha,Everton_A_1,6,0:1,79',0:1,Left-footed shot
-Premier League,Raphinha,West Brom_A_1,19,0:5,72',0:5,Left-footed shot
-Premier League,Raphinha,Newcastle_A_1,16,1:2,17',0:1,Counter attack goal
-Premier League,Raphinha,Everton_H_1,7,1:2,48',1:2,Left-footed shot
-Premier League,Raphinha,Southampton_H_1,7,3:0,84',3:0,Direct free kick
-Premier League,Raphinha,Fulham_A_1,18,1:2,58',1:2,Right-footed shot
-Premier League,Mason Mount,West Brom_A_1,20,3:3,55',3:1,Right-footed shot
-Premier League,Mason Mount,Fulham_A_1,18,0:1,78',0:1,Right-footed shot
-Premier League,Mason Mount,Sheff Utd_A_1,20,1:2,43',0:1,Left-footed shot
-Premier League,Mason Mount,Southampton_A_1,13,1:1,54',1:1,Penalty
-Premier League,Mason Mount,Liverpool_A_1,6,0:1,42',0:1,Right-footed shot
-Premier League,Mason Mount,West Brom_H_1,19,2:5,71',2:4,Left-footed shot
-Premier League,Gylfi Sigurdsson,Chelsea_H_1,3,1:0,22',1:0,Penalty
-Premier League,Gylfi Sigurdsson,Sheff Utd_A_1,20,0:1,80',0:1,Right-footed shot
-Premier League,Gylfi Sigurdsson,Leeds_A_1,10,1:2,9',0:1,Right-footed shot
-Premier League,Gylfi Sigurdsson,Liverpool_A_1,6,0:2,83',0:2,Penalty
-Premier League,Gylfi Sigurdsson,Spurs_H_1,7,2:2,31',1:1,Penalty
-Premier League,James Rodríguez,West Brom_H_1,20,5:2,45',2:1,Left-footed shot
-Premier League,James Rodríguez,Brighton_H_1,14,4:2,52',3:1,Left-footed shot
-Premier League,James Rodríguez,Leicester_H_1,3,1:1,30',1:0,Right-footed shot
-Premier League,James Rodríguez,Man Utd_A_1,2,3:3,52',2:2,Left-footed shot
-Premier League,James Rodríguez,Crystal Palace_H_1,12,1:1,56',1:0,
-Premier League,Youri Tielemans,Man City_A_1,4,2:5,88',2:5,Penalty
-Premier League,Youri Tielemans,Leeds_A_1,7,1:4,21',0:2,Left-footed shot
-Premier League,Youri Tielemans,Newcastle_A_1,15,1:2,72',0:2,Right-footed shot
-Premier League,Youri Tielemans,Everton_A_1,6,1:1,67',1:1,Right-footed shot
-Premier League,Youri Tielemans,Arsenal_H_1,11,1:3,6',1:0,Right-footed shot
-Premier League,Danny Welbeck,Aston Villa_A_1,6,1:2,12',0:1,Right-footed shot
-Premier League,Danny Welbeck,Sheff Utd_H_1,20,1:1,87',1:1,Left-footed shot
-Premier League,Danny Welbeck,Newcastle_H_1,17,3:0,51',2:0,Right-footed shot
-Premier League,Danny Welbeck,Man Utd_A_1,2,2:1,13',0:1,Header
-Premier League,Danny Welbeck,Leeds_H_1,9,2:0,79',2:0,Left-footed shot
-Premier League,Danny Welbeck,West Ham_H_1,6,1:1,84',1:0,Right-footed shot
-Premier League,Tammy Abraham,West Brom_A_1,20,3:3,90'+3,3:3,Tap-in
-Premier League,Tammy Abraham,Sheff Utd_H_1,19,4:1,23',1:1,Right-footed shot
-Premier League,Tammy Abraham,Newcastle_A_1,14,0:2,65',0:2,Counter attack goal
-Premier League,Tammy Abraham,West Ham_H_1,10,3:0,78',2:0,Right-footed shot
-Premier League,Tammy Abraham,Arsenal_A_1,15,3:1,85',3:1,Chest
-Premier League,Pedro Neto,Fulham_H_1,20,1:0,56',1:0,Left-footed shot
-Premier League,Pedro Neto,Southampton_H_1,4,1:1,75',1:1,Left-footed shot
-Premier League,Pedro Neto,Arsenal_A_1,13,1:2,27',0:1,Right-footed shot
-Premier League,Pedro Neto,Chelsea_H_1,6,2:1,90'+5,2:1,Counter attack goal
-Premier League,Pedro Neto,Southampton_A_1,12,1:2,66',1:2,Left-footed shot
-Premier League,Leandro Trossard,Chelsea_H_1,4,1:3,54',1:1,Left-footed shot
-Premier League,Leandro Trossard,Spurs_H_1,5,1:0,17',1:0,Right-footed shot
-Premier League,Leandro Trossard,Southampton_A_1,13,1:2,56',1:2,Right-footed shot
-Premier League,Leandro Trossard,Newcastle_H_1,17,3:0,45'+3,1:0,Right-footed shot
-Premier League,Leandro Trossard,Man City_H_1,1,3:2,50',1:2,Right-footed shot
-Premier League,Pablo Fornals,Leicester_A_1,1,0:3,34',0:2,Left-footed shot
-Premier League,Pablo Fornals,Liverpool_A_1,2,2:1,10',0:1,Right-footed shot
-Premier League,Pablo Fornals,Wolves_A_1,13,2:3,14',0:2,Right-footed shot
-Premier League,Pablo Fornals,Southampton_H_1,14,3:0,30',1:0,Right-footed shot
-Premier League,Bukayo Saka,Sheff Utd_H_1,19,2:1,61',1:0,Header
-Premier League,Bukayo Saka,Chelsea_H_1,6,3:1,56',3:0,Right-footed shot
-Premier League,Bukayo Saka,West Brom_A_1,19,0:4,28',0:2,Left-footed shot
-Premier League,Bukayo Saka,Newcastle_H_1,16,3:0,60',2:0,Left-footed shot
-Premier League,Bukayo Saka,Southampton_A_1,10,1:3,39',1:2,Right-footed shot
-Premier League,Bobby Reid,Leeds_A_1,11,4:3,62',4:2,Right-footed shot
-Premier League,Bobby Reid,West Brom_H_1,17,2:0,26',1:0,Header
-Premier League,Bobby Reid,Everton_H_1,8,2:3,15',1:1,Right-footed shot
-Premier League,Bobby Reid,Liverpool_H_1,2,1:1,25',1:0,Right-footed shot
-Premier League,Bobby Reid,West Brom_A_1,19,2:2,10',0:1,Right-footed shot
-Premier League,Rúben Neves,Brighton_A_1,17,3:3,44',1:3,Penalty
-Premier League,Rúben Neves,Everton_H_1,8,1:2,14',1:1,Right-footed shot
-Premier League,Rúben Neves,Arsenal_H_1,11,2:1,45'+5,1:1,Penalty
-Premier League,Rúben Neves,Southampton_A_1,12,1:2,53',1:1,Penalty
-Premier League,Rúben Neves,Newcastle_A_1,17,1:1,73',1:1,Header
-Premier League,Lewis Dunk,West Ham_A_1,10,2:2,70',1:2,Right-footed shot
-Premier League,Lewis Dunk,Wolves_H_1,12,3:3,70',3:3,Header
-Premier League,Lewis Dunk,Burnley_A_1,16,1:1,36',0:1,Header
-Premier League,Lewis Dunk,Southampton_A_1,13,1:2,16',0:1,Header
-Premier League,Lewis Dunk,Wolves_A_1,12,2:1,13',0:1,Header
-Premier League,Callum Robinson,Chelsea_H_1,10,3:3,4',1:0,Left-footed shot
-Premier League,Callum Robinson,Chelsea_A_1,4,2:5,63',1:3,Right-footed shot
-Premier League,Callum Robinson,Southampton_H_1,13,3:0,69',3:0,Left-footed shot
-Premier League,Kurt Zouma,Brighton_A_1,16,1:3,66',1:3,Right-footed shot
-Premier League,Kurt Zouma,Crystal Palace_H_1,5,4:0,66',2:0,Header
-Premier League,Kurt Zouma,Burnley_A_1,19,0:3,63',0:2,Header
-Premier League,Kurt Zouma,Leeds_H_1,12,3:1,61',2:1,Header
-Premier League,Kurt Zouma,Crystal Palace_A_1,12,1:4,30',0:3,Header
-Premier League,Eberechi Eze,Leeds_H_1,12,4:1,22',2:0,Direct free kick
-Premier League,Eberechi Eze,Sheff Utd_H_1,20,2:0,45'+6,2:0,Solo run
-Premier League,Eberechi Eze,Wolves_H_1,13,1:0,60',1:0,Left-footed shot
-Premier League,Eberechi Eze,Sheff Utd_A_1,20,0:2,88',0:2,Counter attack goal
-Premier League,Anthony Martial,Sheff Utd_A_1,20,2:3,33',1:2,Right-footed shot
-Premier League,Anthony Martial,Aston Villa_H_1,4,2:1,40',1:0,Header
-Premier League,Anthony Martial,Southampton_H_1,12,9:0,69',5:0,Right-footed shot
-Premier League,Mateusz Klich,Liverpool_A_1,3,4:3,66',3:3,Right-footed shot
-Premier League,Mateusz Klich,Fulham_H_1,19,4:3,41',2:1,Penalty
-Premier League,Mateusz Klich,West Ham_H_1,9,1:2,6',1:0,Penalty
-Premier League,Mateusz Klich,Burnley_A_1,15,0:4,44',0:1,Right-footed shot
-Premier League,Stuart Armstrong,Newcastle_H_1,11,2:0,82',2:0,Left-footed shot
-Premier League,Stuart Armstrong,Sheff Utd_H_1,20,3:0,62',2:0,Left-footed shot
-Premier League,Stuart Armstrong,Arsenal_H_1,11,1:3,3',1:0,Right-footed shot
-Premier League,Stuart Armstrong,Burnley_H_1,15,3:2,31',1:2,Right-footed shot
-Premier League,Kai Havertz,Southampton_H_1,12,3:3,59',3:2,Left-footed shot
-Premier League,Kai Havertz,Crystal Palace_A_1,12,1:4,8',0:1,Left-footed shot
-Premier League,Kai Havertz,Fulham_H_1,18,2:0,10',1:0,Left-footed shot
-Premier League,Ademola Lookman,Sheff Utd_A_1,18,1:1,77',0:1,Left-footed shot
-Premier League,Ademola Lookman,Leicester_A_1,4,1:2,30',0:1,Counter attack goal
-Premier League,Ademola Lookman,Man Utd_H_1,1,1:2,5',1:0,Right-footed shot
-Premier League,Ademola Lookman,Sheff Utd_H_1,20,1:0,61',1:0,Right-footed shot
-Premier League,Fábio Silva,Burnley_A_1,17,2:1,89',2:1,Penalty
-Premier League,Fábio Silva,West Brom_H_1,19,2:3,38',1:1,Right-footed shot
-Premier League,Fábio Silva,West Ham_H_1,5,2:3,68',2:3,Right-footed shot
-Premier League,Fábio Silva,West Brom_A_1,19,1:1,45'+2,0:1,Right-footed shot
-Premier League,Joelinton,Crystal Palace_A_1,12,0:2,89',0:2,Counter attack goal
-Premier League,Joelinton,Spurs_H_1,6,2:2,28',1:0,Right-footed shot
-Premier League,Joelinton,West Ham_H_1,4,3:2,41',2:0,Right-footed shot
-Premier League,Joelinton,Man City_H_1,1,3:4,45'+6,2:2,Penalty
-Premier League,Christian Pulisic,Leeds_H_1,12,3:1,90'+3,3:1,Left-footed shot
-Premier League,Christian Pulisic,West Brom_H_1,19,2:5,27',1:0,Right-footed shot
-Premier League,Christian Pulisic,Crystal Palace_A_1,12,1:4,10',0:2,Left-footed shot
-Premier League,Miguel Almirón,West Brom_H_1,19,2:1,1',1:0,Left-footed shot
-Premier League,Miguel Almirón,Leeds_H_1,12,1:2,57',1:1,Left-footed shot
-Premier League,Miguel Almirón,Southampton_H_1,13,3:2,26',2:0,Left-footed shot
-Premier League,Scott McTominay,Leeds_H_1,13,6:2,2',1:0,Right-footed shot
-Premier League,Scott McTominay,Southampton_H_1,12,9:0,71',6:0,Right-footed shot
-Premier League,Scott McTominay,Everton_H_1,6,3:3,70',3:2,Header
-Premier League,Sergio Agüero,Fulham_A_1,18,0:3,60',0:3,Penalty
-Premier League,Sergio Agüero,Crystal Palace_A_1,14,0:2,57',0:1,Right-footed shot
-Premier League,Sergio Agüero,Everton_H_1,8,5:0,71',4:0,Right-footed shot
-Premier League,John Stones,Crystal Palace_H_1,13,4:0,26',1:0,Header
-Premier League,John Stones,West Ham_H_1,4,2:1,68',2:1,Right-footed shot
-Premier League,John Stones,Fulham_A_1,18,0:3,47',0:1,Right-footed shot
-Premier League,Olivier Giroud,Leeds_H_1,12,3:1,27',1:1,Left-footed shot
-Premier League,Olivier Giroud,Wolves_A_1,13,2:1,49',0:1,Left-footed shot
-Premier League,Olivier Giroud,Aston Villa_H_1,5,1:1,34',1:0,Header
-Premier League,Olivier Giroud,Newcastle_H_1,16,2:0,31',1:0,Left-footed shot
-Premier League,Raúl Jiménez,Sheff Utd_A_1,20,0:2,3'+1,0:1,Right-footed shot
-Premier League,Raúl Jiménez,Man City_H_1,4,1:3,78',1:2,Header
-Premier League,Raúl Jiménez,Leeds_A_1,8,0:1,70',0:1,Right-footed shot
-Premier League,Raúl Jiménez,Newcastle_H_1,14,1:1,80',1:0,Right-footed shot
-Premier League,Pascal Groß,Liverpool_H_1,2,1:1,90'+3,1:1,Penalty
-Premier League,Pascal Groß,Southampton_H_1,8,1:2,26',1:0,Penalty
-Premier League,Pascal Groß,Leeds_H_1,9,2:0,14',1:0,Penalty
-Premier League,John McGinn,Liverpool_H_1,2,7:2,35',3:1,Left-footed shot
-Premier League,John McGinn,Man City_H_1,1,1:2,1',1:0,Left-footed shot
-Premier League,John McGinn,Crystal Palace_A_1,13,3:2,17',0:1,Left-footed shot
-Premier League,Ben Chilwell,Crystal Palace_H_1,5,4:0,50',1:0,Left-footed shot
-Premier League,Ben Chilwell,Sheff Utd_H_1,19,4:1,34',2:1,Right-footed shot
-Premier League,Ben Chilwell,Aston Villa_A_1,11,2:1,70',2:1,Left-footed shot
-Premier League,Paul Pogba,West Ham_A_1,7,1:3,65',1:1,Right-footed shot
-Premier League,Paul Pogba,Burnley_A_1,17,0:1,71',0:1,Right-footed shot
-Premier League,Paul Pogba,Fulham_A_1,18,1:2,65',1:2,Left-footed shot
-Premier League,Allan Saint-Maximin,Burnley_H_1,18,3:1,14',1:0,Right-footed shot
-Premier League,Allan Saint-Maximin,Man Utd_A_1,2,3:1,36',1:1,Right-footed shot
-Premier League,Allan Saint-Maximin,Burnley_A_1,15,1:2,64',1:2,Left-footed shot
-Premier League,Lucas Moura,Newcastle_H_1,13,1:1,25',1:0,Left-footed shot
-Premier League,Lucas Moura,West Ham_A_1,5,2:1,64',2:1,Header
-Premier League,Lucas Moura,Burnley_H_1,15,4:0,31',3:0,Left-footed shot
-Premier League,Ashley Westwood,Newcastle_A_1,12,3:1,61',1:1,Right-footed shot
-Premier League,Ashley Westwood,Wolves_A_1,12,0:4,85',0:4,Right-footed shot
-Premier League,Ashley Westwood,Fulham_A_1,18,0:2,35',0:1,Left-footed shot
-Premier League,Aleksandar Mitrovic,Leeds_A_1,11,4:3,34',1:1,Penalty
-Premier League,Aleksandar Mitrovic,Aston Villa_A_1,9,3:1,61',0:1,Left-footed shot
-Premier League,Hélder Costa,Fulham_H_1,19,4:3,5',1:0,Left-footed shot
-Premier League,Hélder Costa,Arsenal_A_1,11,4:2,69',4:2,Right-footed shot
-Premier League,Theo Walcott,Wolves_A_1,11,1:1,58',0:1,Right-footed shot
-Premier League,Theo Walcott,Arsenal_A_1,15,1:1,18',0:1,Right-footed shot
-Premier League,Theo Walcott,Fulham_H_1,18,3:1,82',3:1,Right-footed shot
-Premier League,Tanguy Ndombélé,Man Utd_A_1,9,1:6,4',1:1,Left-footed shot
-Premier League,Tanguy Ndombélé,Wolves_A_1,11,1:1,1',0:1,Right-footed shot
-Premier League,Tanguy Ndombélé,Sheff Utd_A_1,20,1:3,62',1:3,Right-footed shot
-Premier League,Matej Vydra,Leicester_H_1,3,1:1,4',1:0,Left-footed shot
-Premier League,Matej Vydra,Southampton_A_1,14,3:2,28',0:2,Left-footed shot
-Premier League,Matej Vydra,Newcastle_H_1,17,1:2,18',1:0,Right-footed shot
-Premier League,Daniel Podence,Crystal Palace_H_1,9,2:0,27',2:0,Left-footed shot
-Premier League,Daniel Podence,Arsenal_A_1,13,1:2,42',1:2,Right-footed shot
-Premier League,Daniel Podence,Chelsea_H_1,6,2:1,66',1:1,Right-footed shot
-Premier League,Mbaye Diagne,Man Utd_H_1,2,1:1,2',1:0,Header
-Premier League,Mbaye Diagne,Chelsea_A_1,4,2:5,68',1:4,Right-footed shot
-Premier League,Mbaye Diagne,Wolves_H_1,12,1:1,62',1:1,Header
-Premier League,Michael Keane,West Brom_H_1,20,5:2,54',3:2,Tap-in
-Premier League,Michael Keane,Liverpool_H_1,5,2:2,19',1:1,Header
-Premier League,Michael Keane,Wolves_A_1,13,1:2,77',1:2,Header
-Premier League,Kyle Bartley,Chelsea_H_1,10,3:3,27',3:0,Right-footed shot
-Premier League,Kyle Bartley,Fulham_H_1,18,2:2,47',1:1,Right-footed shot
-Premier League,Kyle Bartley,Brighton_H_1,16,1:0,11',1:0,Header
-Premier League,Ross Barkley,Liverpool_H_1,2,7:2,55',5:1,Left-footed shot
-Premier League,Ross Barkley,Leicester_A_1,3,0:1,90'+1,0:1,Right-footed shot
-Premier League,Ross Barkley,Southampton_A_1,12,0:1,41',0:1,Header
-Premier League,Daniel James,Leeds_H_1,13,6:2,66',5:1,Right-footed shot
-Premier League,Daniel James,Southampton_H_1,12,9:0,90'+3,9:0,Right-footed shot
-Premier League,Daniel James,Newcastle_H_1,17,3:1,57',2:1,Right-footed shot
-Premier League,Ivan Cavaleiro,Leicester_A_1,4,1:2,38',0:2,Penalty
-Premier League,Ivan Cavaleiro,Spurs_A_1,7,1:1,74',1:1,Header
-Premier League,Ivan Cavaleiro,West Brom_A_1,19,2:2,77',2:2,Header
-Premier League,Jannik Vestergaard,Chelsea_A_1,7,3:3,90'+2,3:3,Header
-Premier League,Jannik Vestergaard,Aston Villa_A_1,4,3:4,20',0:1,Header
-Premier League,Jannik Vestergaard,Brighton_A_1,16,1:2,45',1:1,Header
-Premier League,Angelo Ogbonna,Aston Villa_H_1,8,2:1,2',1:0,Header
-Premier League,Angelo Ogbonna,Leeds_A_1,13,1:2,80',1:2,Header
-Premier League,Angelo Ogbonna,West Brom_A_1,19,1:3,82',1:2,Header
-Premier League,Romain Saïss,Sheff Utd_A_1,20,0:2,6'+1,0:2,Header
-Premier League,Romain Saïss,Spurs_H_1,8,1:1,86',1:1,Header
-Premier League,Romain Saïss,Brighton_A_1,17,3:3,19',1:1,Header
-Premier League,Craig Dawson,Crystal Palace_A_1,13,2:3,65',1:3,Header
-Premier League,Craig Dawson,Liverpool_H_1,4,1:3,87',1:3,Right-footed shot
-Premier League,Craig Dawson,Leeds_H_1,11,2:0,28',2:0,Header
-Premier League,Ashley Barnes,Wolves_H_1,11,2:1,35',1:0,Header
-Premier League,Ashley Barnes,Liverpool_A_1,3,0:1,83',0:1,Penalty
-Premier League,Ashley Barnes,Fulham_H_1,18,1:1,52',1:1,Left-footed shot
-Premier League,Takumi Minamino,Crystal Palace_A_1,12,0:7,3',0:1,Right-footed shot
-Premier League,Takumi Minamino,Newcastle_A_1,17,3:2,30',2:1,Left-footed shot
-Premier League,Takumi Minamino,Chelsea_H_1,4,1:1,33',1:0,Right-footed shot
-Premier League,Billy Sharp,Fulham_H_1,20,1:1,85',1:1,Penalty
-Premier League,Billy Sharp,Newcastle_H_1,15,1:0,73',1:0,Penalty
-Premier League,Billy Sharp,West Brom_H_1,19,2:1,73',2:1,Right-footed shot
-Premier League,Sébastien Haller,Wolves_H_1,11,4:0,90'+3,4:0,Header
-Premier League,Sébastien Haller,Sheff Utd_A_1,20,0:1,56',0:1,Right-footed shot
-Premier League,Sébastien Haller,Crystal Palace_H_1,11,1:1,55',1:1,Right-footed shot
-Premier League,Josh Maja,Everton_A_1,8,0:2,48',0:1,Right-footed shot
-Premier League,Josh Maja,Arsenal_A_1,10,1:1,59',0:1,Penalty
-Premier League,Trent Alexander-Arnold,Spurs_A_1,4,1:3,47',0:2,Right-footed shot
-Premier League,Trent Alexander-Arnold,Aston Villa_H_1,9,2:1,90'+1,2:1,Right-footed shot
-Premier League,Bernardo Silva,Aston Villa_H_1,11,2:0,79',1:0,Left-footed shot
-Premier League,Bernardo Silva,Everton_A_1,4,1:3,77',1:3,Left-footed shot
-Premier League,Dwight McNeil,Aston Villa_H_1,8,3:2,76',2:2,Left-footed shot
-Premier League,Dwight McNeil,Everton_A_1,7,1:2,24',0:2,Left-footed shot
-Premier League,Pierre-Emile Höjbjerg,Liverpool_H_1,5,1:3,49',1:2,Right-footed shot
-Premier League,Pierre-Emile Höjbjerg,Wolves_H_1,12,2:0,62',2:0,Right-footed shot
-Premier League,Aaron Wan-Bissaka,Newcastle_A_1,10,1:4,90',1:3,Right-footed shot
-Premier League,Aaron Wan-Bissaka,Southampton_H_1,12,9:0,18',1:0,Right-footed shot
-Premier League,Emile Smith Rowe,West Brom_H_1,19,3:1,29',1:0,Left-footed shot
-Premier League,Emile Smith Rowe,Chelsea_A_1,3,0:1,16',0:1,Left-footed shot
-Premier League,Adama Traoré,Fulham_A_1,18,0:1,90'+2,0:1,Right-footed shot
-Premier League,Adama Traoré,Brighton_H_1,15,2:1,76',1:1,Right-footed shot
-Premier League,Ezgjan Alioski,Newcastle_H_1,12,5:2,85',4:2,Counter attack goal
-Premier League,Ezgjan Alioski,West Brom_A_1,19,0:5,31',0:2,Left-footed shot
-Premier League,Abdoulaye Doucouré,Fulham_A_1,17,2:3,35',1:3,Header
-Premier League,Abdoulaye Doucouré,Man Utd_A_1,2,3:3,49',2:1,Left-footed shot
-Premier League,Nathan Redmond,Sheff Utd_H_1,20,3:0,83',3:0,Right-footed shot
-Premier League,Nathan Redmond,Burnley_H_1,15,3:2,66',3:2,Right-footed shot
-Premier League,João Cancelo,West Brom_A_1,19,0:5,20',0:2,Left-footed shot
-Premier League,João Cancelo,Newcastle_A_1,16,3:4,39',1:1,Right-footed shot
-Premier League,Timothy Castagne,West Brom_A_1,19,0:3,56',0:1,Header
-Premier League,Timothy Castagne,Crystal Palace_H_1,14,2:1,50',1:1,Left-footed shot
-Premier League,Jeffrey Schlupp,Spurs_H_1,1,1:1,81',1:1,Tap-in
-Premier League,Jeffrey Schlupp,Sheff Utd_H_1,20,2:0,4',1:0,Right-footed shot
-Premier League,Jacob Murphy,Wolves_A_1,8,1:1,89',1:1,Direct free kick
-Premier League,Jacob Murphy,Burnley_A_1,15,1:2,59',1:1,Right-footed shot
-Premier League,Callum Hudson-Odoi,West Brom_A_1,20,3:3,70',3:2,Right-footed shot
-Premier League,Callum Hudson-Odoi,Man City_H_1,3,1:3,90'+2,1:3,Right-footed shot
-Premier League,Hakim Ziyech,Burnley_A_1,19,0:3,26',0:1,Left-footed shot
-Premier League,Hakim Ziyech,Man City_A_1,1,1:2,63',1:1,Left-footed shot
-Premier League,Serge Aurier,Man Utd_A_1,9,1:6,51',1:5,Right-footed shot
-Premier League,Serge Aurier,Sheff Utd_A_1,20,1:3,5',0:1,Header
-Premier League,Tyrone Mings,Fulham_A_1,18,0:3,48',0:3,Left-footed shot
-Premier League,Tyrone Mings,Southampton_H_1,8,3:4,62',1:4,Header
-Premier League,Rodri,Spurs_H_1,5,3:0,23',1:0,Penalty
-Premier League,Rodri,Aston Villa_A_1,9,1:2,40',1:2,Header
-Premier League,Conor Gallagher,Sheff Utd_H_1,20,1:0,13',1:0,Right-footed shot
-Premier League,Conor Gallagher,Crystal Palace_H_1,15,1:5,30',1:1,Right-footed shot
-Premier League,Jonny Evans,West Brom_H_1,19,3:0,26',2:0,Header
-Premier League,Jonny Evans,Southampton_A_1,13,1:1,68',1:1,Header
-Premier League,James Justin,Burnley_H_1,12,4:2,61',3:1,Right-footed shot
-Premier League,James Justin,Fulham_A_1,18,0:2,44',0:2,Right-footed shot
-Premier League,Michy Batshuayi,West Ham_H_1,7,2:3,90'+7,2:3,Left-footed shot
-Premier League,Michy Batshuayi,Everton_A_1,7,1:1,86',1:1,
-Premier League,Harry Maguire,Newcastle_A_1,10,1:4,23',1:1,Header
-Premier League,Harry Maguire,Sheff Utd_H_1,20,1:2,64',1:1,Header
-Premier League,Matt Phillips,Sheff Utd_A_1,20,2:1,41',0:1,Right-footed shot
-Premier League,Matt Phillips,Southampton_H_1,13,3:0,35',2:0,Right-footed shot
-Premier League,Declan Rice,Sheff Utd_H_1,20,3:0,41',1:0,Penalty
-Premier League,Declan Rice,Southampton_H_1,14,3:0,86',3:0,Right-footed shot
-Premier League,Ola Aina,West Brom_H_1,17,2:0,30',2:0,Left-footed shot
-Premier League,Ola Aina,Burnley_A_1,16,1:1,49',0:1,Chest
-Premier League,Ayoze Pérez,Sheff Utd_A_1,20,1:2,24',0:1,Right-footed shot
-Premier League,Ayoze Pérez,Sheff Utd_H_1,20,5:0,64',2:0,Counter attack goal
-Premier League,Jeff Hendrick,West Ham_A_1,6,0:2,87',0:2,Right-footed shot
-Premier League,Jeff Hendrick,Leeds_A_1,14,5:2,26',0:1,Right-footed shot
-Premier League,Trezeguet,Fulham_H_1,18,3:1,78',1:1,Left-footed shot
-Premier League,Solly March,Man Utd_H_1,12,2:3,90'+5,2:2,Header
-Premier League,Solly March,Aston Villa_A_1,6,1:2,56',1:2,Right-footed shot
-Premier League,Aaron Connolly,Newcastle_A_1,5,0:3,83',0:3,Right-footed shot
-Premier League,Aaron Connolly,Wolves_H_1,12,3:3,13',1:0,Right-footed shot
-Premier League,Eddie Nketiah,West Ham_H_1,18,2:1,85',2:1,Right-footed shot
-Premier League,Eddie Nketiah,Fulham_H_1,18,1:1,90'+7,1:1,Tap-in
-Premier League,Gabriel Martinelli,Sheff Utd_A_1,20,0:3,71',0:2,Left-footed shot
-Premier League,Gabriel Martinelli,Crystal Palace_A_1,13,1:3,90'+1,1:2,Right-footed shot
-Premier League,Benjamin Mendy,Burnley_H_1,17,5:0,41',3:0,Left-footed shot
-Premier League,Benjamin Mendy,Leicester_A_1,3,0:2,58',0:1,Right-footed shot
-Premier League,Georginio Wijnaldum,Wolves_H_1,9,4:0,58',2:0,Counter attack goal
-Premier League,Georginio Wijnaldum,West Ham_A_1,6,1:3,84',0:3,Right-footed shot
-Premier League,Ezri Konsa,Sheff Utd_H_1,17,1:0,63',1:0,Header
-Premier League,Ezri Konsa,Brighton_H_1,16,1:2,47',1:1,Right-footed shot
-Premier League,Jairo Riedewald,Fulham_A_1,20,1:2,8',0:1,Left-footed shot
-Premier League,Jairo Riedewald,Newcastle_A_1,16,1:2,21',1:1,Left-footed shot
-Premier League,Semi Ajayi,Liverpool_A_1,1,1:1,82',1:1,Header
-Premier League,Semi Ajayi,Wolves_A_1,14,2:3,52',2:2,Header
-Premier League,Ben Mee,Sheff Utd_H_1,20,1:0,32',1:0,Header
-Premier League,Ben Mee,Aston Villa_H_1,8,3:2,52',1:1,Header
-Premier League,Yerry Mina,Brighton_H_1,14,4:2,45'+2,2:1,Header
-Premier League,Yerry Mina,Arsenal_H_1,15,2:1,45',2:1,Header
-Premier League,Thiago Silva,Sheff Utd_H_1,19,4:1,77',3:1,Header
-Premier League,Thiago Silva,West Ham_H_1,10,3:0,10',1:0,Header
-Premier League,Gabriel,Fulham_A_1,18,0:3,49',0:2,Header
-Premier League,Gabriel,Wolves_H_1,11,1:2,30',1:1,Header
-Premier League,Jóhann Berg Gudmundsson,Brighton_H_1,15,1:1,53',1:1,Left-footed shot
-Premier League,Jóhann Berg Gudmundsson,Crystal Palace_A_1,13,0:3,5',0:1,Left-footed shot
-Premier League,Jamaal Lascelles,Wolves_H_1,12,1:1,52',1:0,Header
-Premier League,Jamaal Lascelles,Aston Villa_H_1,9,1:1,90'+4,1:1,Header
-Premier League,Hal Robson-Kanu,Liverpool_H_1,5,1:2,15',1:0,Left-footed shot
-Premier League,Hal Robson-Kanu,Leeds_A_1,10,3:1,90',3:1,Left-footed shot
-Premier League,Issa Diop,Sheff Utd_H_1,20,3:0,58',2:0,Header
-Premier League,Issa Diop,Newcastle_A_1,17,3:2,73',2:1,Header
-Premier League,Jayden Bogle,Brighton_A_1,16,1:1,63',0:1,Left-footed shot
-Premier League,Jayden Bogle,West Brom_H_1,19,2:1,56',1:1,Left-footed shot
-Premier League,Marcos Alonso,Burnley_H_1,14,2:0,84',2:0,Left-footed shot
-Premier League,Marcos Alonso,Man City_A_1,1,1:2,90'+2,1:2,Right-footed shot
-Premier League,Andrew Robertson,Arsenal_H_1,3,3:1,34',2:1,Left-footed shot
-Premier League,Saïd Benrahma,Brighton_A_1,17,1:1,87',1:1,Right-footed shot
-Premier League,Andros Townsend,Man Utd_A_1,10,1:3,7',0:1,Right-footed shot
-Premier League,Luke Shaw,Man City_A_1,1,0:2,50',0:2,Left-footed shot
-Premier League,Marc Albrighton,Newcastle_H_1,17,2:4,80',1:4,Right-footed shot
-Premier League,Willian,West Brom_H_1,19,3:1,90',3:1,Direct free kick
-Premier League,Kieran Tierney,West Brom_A_1,19,0:4,23',0:1,Right-footed shot
-Premier League,Wilfred Ndidi,Chelsea_H_1,9,2:0,6',1:0,Left-footed shot
-Premier League,Steven Bergwijn,Aston Villa_H_1,11,1:2,8',1:0,Right-footed shot
-Premier League,Darnell Furlong,Newcastle_A_1,14,2:1,50',1:1,Right-footed shot
-Premier League,Jordan Ayew,Leeds_H_1,12,4:1,70',4:1,Right-footed shot
-Premier League,Jonjo Shelvey,Crystal Palace_H_1,13,1:2,2',1:0,Right-footed shot
-Premier League,Héctor Bellerín,Leeds_H_1,10,4:2,45',3:0,Right-footed shot
-Premier League,Tariq Lamptey,Spurs_A_1,5,2:1,56',1:1,Right-footed shot
-Premier League,Reece James,Brighton_A_1,16,1:3,56',1:2,Right-footed shot
-Premier League,Granit Xhaka,Chelsea_H_1,6,3:1,44',2:0,Direct free kick
-Premier League,Jay Rodríguez,Crystal Palace_A_1,13,0:3,10',0:2,Header
-Premier League,Alex Iwobi,Wolves_A_1,13,1:2,6',0:1,Right-footed shot
-Premier League,Kalvin Phillips,West Brom_H_1,19,3:1,42',2:0,Direct free kick
-Premier League,Tyler Roberts,Southampton_A_1,14,0:2,90'+5,0:2,Right-footed shot
-Premier League,César Azpilicueta,Burnley_H_1,14,2:0,40',1:0,Right-footed shot
-Premier League,Curtis Jones,Sheff Utd_A_1,20,0:2,48',0:1,Right-footed shot
-Premier League,Martin Ødegaard,Spurs_H_1,6,2:1,44',1:1,Left-footed shot
-Premier League,Joel Matip,Wolves_H_1,9,4:0,67',3:0,Header
-Premier League,Juan Mata,Wolves_A_1,12,1:2,45'+4,1:2,Penalty
-Premier League,Jan Bednarek,Man Utd_H_1,7,2:3,23',1:0,Header
-Premier League,Nélson Semedo,Man Utd_H_1,2,1:2,39',1:1,Right-footed shot
-Premier League,Matthew Lowton,Crystal Palace_A_1,13,0:3,47',0:3,Right-footed shot
-Premier League,João Moutinho,Arsenal_H_1,11,2:1,49',2:1,Right-footed shot
-Premier League,Luka Milivojevic,West Brom_H_1,19,1:0,37',1:0,Penalty
-Premier League,Joachim Andersen,Leeds_H_1,11,1:2,38',1:1,Right-footed shot
-Premier League,Adam Lallana,Leicester_H_1,3,1:2,10',1:0,Right-footed shot
-Premier League,Victor Lindelöf,Leeds_H_1,13,6:2,37',4:0,Right-footed shot
-Premier League,Mario Lemina,Liverpool_A_1,7,0:1,45',0:1,Right-footed shot
-Premier League,Joël Veltman,Crystal Palace_H_1,14,1:2,55',1:1,Left-footed shot
-Premier League,Oliver Burke,Man Utd_A_1,2,1:2,74',1:2,Right-footed shot
-Premier League,Kyle Walker,Sheff Utd_A_1,18,0:1,28',0:1,Right-footed shot
-Premier League,Oliver McBurnie,Leicester_H_1,6,1:2,26',1:1,Header
-Premier League,Willy Boly,West Brom_H_1,19,2:3,43',2:1,Right-footed shot
-Premier League,Rayan Aït Nouri,Crystal Palace_H_1,9,2:0,18',1:0,Left-footed shot
-Premier League,Jordan Henderson,Crystal Palace_A_1,12,0:7,52',0:4,Right-footed shot
-Premier League,Alexis Mac Allister,Crystal Palace_A_1,13,1:1,90',1:1,Right-footed shot
-Premier League,Oriol Romeu,West Brom_H_1,17,2:0,69',2:0,Right-footed shot
-Premier League,Gary Cahill,Newcastle_A_1,16,1:2,25',1:2,Header
-Premier League,Donny van de Beek,Crystal Palace_H_1,8,1:3,80',1:2,Right-footed shot
-Premier League,Robbie Brady,Everton_H_1,10,1:1,3',1:0,Right-footed shot
-Premier League,Tyrick Mitchell,Aston Villa_H_1,11,3:2,84',3:2,Chest
-Premier League,Giovani Lo Celso,Man City_H_1,7,2:0,65',2:0,Left-footed shot
-Premier League,Nathan Tella,Fulham_H_1,18,3:1,60',2:0,Right-footed shot
-Premier League,Dwight Gayle,West Brom_H_1,19,2:1,82',2:1,Header
-Premier League,Nathaniel Phillips,Burnley_A_1,15,0:3,52',0:2,Header
-Premier League,Manuel Lanzini,Spurs_A_1,6,3:3,90'+4,3:3,Long distance kick
-Premier League,Willian José,Sheff Utd_H_1,20,1:0,59',1:0,Right-footed shot
-Premier League,Joe Bryan,Man Utd_A_1,2,1:1,76',1:1,Header
-Premier League,Keinan Davis,West Brom_H_1,19,2:2,90'+2,2:2,Left-footed shot
-Premier League,Sander Berge,Liverpool_A_1,4,2:1,13',0:1,Penalty
-Premier League,Dennis Praet,Burnley_H_1,12,4:2,79',4:2,Right-footed shot
-Premier League,Ryan Fredericks,Sheff Utd_H_1,20,3:0,90'+6,3:0,Right-footed shot
-Premier League,Alex Oxlade-Chamberlain,Burnley_A_1,15,0:3,88',0:3,Left-footed shot
-Premier League,Tom Cairney,Crystal Palace_H_1,15,1:2,90'+5,1:2,Left-footed shot
-Premier League,Conor Hourihane,Fulham_A_1,18,0:3,15',0:2,Right-footed shot
-Premier League,Conor Coady,Man City_A_1,1,4:1,61',1:1,Header
-Premier League,Yves Bissouma,Everton_A_1,3,4:2,90'+2,4:2,Right-footed shot
-Premier League,Cheikhou Kouyaté,Everton_H_1,2,1:2,26',1:1,Header
-Premier League,James Tarkowski,Man Utd_A_1,2,3:1,50',1:1,Header
-Premier League,Leander Dendoncker,West Ham_H_1,5,2:3,44',1:3,Header
-Premier League,Alisson,West Brom_A_1,19,1:2,90'+5,1:2,Header
-Premier League,Rúben Dias,West Ham_H_1,4,2:1,30',1:0,Header
-Premier League,Ruben Loftus-Cheek,Everton_H_1,8,2:3,70',2:3,Right-footed shot
-Premier League,Fred,Spurs_A_1,6,1:3,57',1:1,Left-footed shot
-Premier League,Adam Webster,Man City_H_1,1,3:2,72',2:2,Header
-Premier League,Mason Holgate,Leicester_A_1,3,0:2,72',0:2,Left-footed shot
-Premier League,Pascal Struijk,Arsenal_A_1,11,4:2,58',4:1,Header
-Premier League,Dan Burn,Man City_H_1,1,3:2,76',3:2,Right-footed shot
-Premier League,Moussa Djenepo,West Brom_H_1,17,2:0,41',1:0,Left-footed shot
-Premier League,Toby Alderweireld,Leeds_H_1,11,3:0,50',3:0,Header
-Premier League,Liam Cooper,Man Utd_A_1,2,6:2,41',4:1,Header
-Premier League,Thiago,Southampton_H_1,13,2:0,90',2:0,Right-footed shot
-Premier League,Ben Osborn,Leeds_A_1,11,2:1,45'+2,1:1,Right-footed shot
-Premier League,Erik Lamela,Arsenal_A_1,10,2:1,33',0:1,Left-footed shot
-Premier League,Mohamed Elneny,Newcastle_A_1,16,0:2,5',0:1,Right-footed shot
-Premier League,Caglar Söyüncü,Man Utd_A_1,2,1:2,66',1:2,Header
-Premier League,Ciaran Clark,Leeds_A_1,14,5:2,65',2:2,Header
-Premier League,Karlan Grant,Brighton_A_1,16,1:1,83',1:1,Right-footed shot
-Premier League,Grady Diangana,Everton_A_1,9,5:2,10',0:1,Left-footed shot
-Premier League,David Luiz,Leicester_A_1,3,1:3,39',1:1,Header
-Premier League,Antonio Rüdiger,Leicester_H_1,3,2:1,47',1:0,Left-footed shot
-Premier League,Fabian Schär,Fulham_A_1,18,0:2,88',0:2,Penalty
-Premier League,Andy Carroll,Leicester_H_1,5,1:2,82',1:2,Left-footed shot
-Premier League,Emil Krafth,Man City_H_1,1,3:4,25',1:0,Header
-Premier League,Diego Llorente,Liverpool_H_1,6,1:1,87',1:1,Header
-Premier League,Steven Alzate,Liverpool_A_1,3,0:1,56',0:1,Right-footed shot
-Premier League,Paul Dummett,Leicester_A_1,3,2:4,34',0:2,Header
-Premier League,Scott Dann,Leeds_H_1,12,4:1,12',1:0,Header
-Premier League,Luke Thomas,Man Utd_A_1,2,1:2,10',0:1,Left-footed shot
-Premier League,Ben Johnson,Brighton_H_1,17,2:2,60',1:1,Right-footed shot
-Premier League,Fabián Balbuena,Spurs_A_1,6,3:3,82',3:1,Header
-Premier League,Kean Bryan,Man Utd_A_1,2,1:2,23',0:1,Header
-Premier League,Daniel Amartey,Brighton_A_1,16,1:2,87',1:2,Header
-Premier League,Bernard,Man Utd_H_1,13,1:3,19',1:0,Right-footed shot
-Premier League,Morgan Gibbs-White,Brighton_H_1,15,2:1,90',2:1,Right-footed shot
-Premier League,Nathan Aké,Leicester_H_1,1,2:5,84',2:4,Header
-Premier League,Carlos Vinícius,Aston Villa_A_1,6,0:2,29',0:1,Right-footed shot
-Premier League,Kortney Hause,Crystal Palace_H_1,12,3:0,66',2:0,Header
-Premier League,Jean-Philippe Mateta,Brighton_A_1,16,1:2,28',0:1,Right-footed shot
-Premier League,Virgil van Dijk,Leeds_H_1,9,4:3,20',2:1,Header
-Premier League,Fábio Carvalho,Southampton_A_1,14,3:1,75',2:1,Right-footed shot
-Premier League,Daniel Jebbison,Everton_A_1,8,0:1,7',0:1,Right-footed shot
-Premier League,Jimmy Dunne,Leicester_A_1,2,4:2,73',3:2,Header
-Premier League,Anthony Elanga,Wolves_A_1,12,1:2,13',0:1,Header
+league,player,team_venue_goal_number,opponent_current_position,opponent_final_position,final_score,minute,current_score,goal_type
+Premier League,Harry Kane,Southampton_A_1,13,15,2:5,82',1:5,Tap-in
+Premier League,Harry Kane,Man Utd_A_1,9,2,1:6,30',1:3,Right-footed shot
+Premier League,Harry Kane,West Ham_H_1,11,6,3:3,8',2:0,Right-footed shot
+Premier League,Harry Kane,Brighton_H_1,16,16,2:1,13',1:0,Penalty
+Premier League,Harry Kane,West Brom_A_1,18,19,0:1,88',0:1,Header
+Premier League,Harry Kane,Arsenal_H_1,14,8,2:0,45'+1,2:0,Counter attack goal
+Premier League,Harry Kane,Crystal Palace_A_1,12,14,1:1,23',0:1,Long distance kick
+Premier League,Harry Kane,Leeds_H_1,11,9,3:0,29',1:0,Penalty
+Premier League,Harry Kane,Fulham_H_1,18,18,1:1,25',1:0,Header
+Premier League,Harry Kane,Sheff Utd_A_1,20,20,1:3,40',0:2,Right-footed shot
+Premier League,Harry Kane,West Brom_H_1,19,19,2:0,54',1:0,Right-footed shot
+Premier League,Harry Kane,Burnley_H_1,15,17,4:0,15',2:0,Right-footed shot
+Premier League,Harry Kane,Crystal Palace_H_1,13,14,4:1,52',3:1,Right-footed shot
+Premier League,Harry Kane,Aston Villa_A_1,6,11,0:2,68',0:2,Penalty
+Premier League,Harry Kane,Newcastle_A_1,17,12,2:2,30',1:1,Right-footed shot
+Premier League,Harry Kane,Everton_A_1,8,10,2:2,27',0:1,Left-footed shot
+Premier League,Harry Kane,Wolves_H_1,12,13,2:0,45',1:0,Right-footed shot
+Premier League,Harry Kane,Leicester_A_1,5,5,2:4,41',1:1,Right-footed shot
+Premier League,Mohamed Salah,Leeds_H_1,9,9,4:3,4',1:0,Penalty
+Premier League,Mohamed Salah,Aston Villa_A_1,6,11,7:2,33',2:1,Left-footed shot
+Premier League,Mohamed Salah,Everton_A_1,1,10,2:2,72',1:2,Left-footed shot
+Premier League,Mohamed Salah,West Ham_H_1,14,6,2:1,42',1:1,Penalty
+Premier League,Mohamed Salah,Man City_A_1,4,1,1:1,13',0:1,Penalty
+Premier League,Mohamed Salah,Wolves_H_1,9,13,4:0,24',1:0,Left-footed shot
+Premier League,Mohamed Salah,Fulham_A_1,17,18,1:1,79',1:1,Penalty
+Premier League,Mohamed Salah,Spurs_H_1,1,7,2:1,26',1:0,Left-footed shot
+Premier League,Mohamed Salah,Crystal Palace_A_1,12,14,0:7,81',0:6,Header
+Premier League,Mohamed Salah,West Ham_A_1,6,6,1:3,57',0:1,Left-footed shot
+Premier League,Mohamed Salah,Man City_H_1,1,1,1:4,63',1:1,Penalty
+Premier League,Mohamed Salah,Leicester_A_1,3,5,3:1,67',0:1,Left-footed shot
+Premier League,Mohamed Salah,Arsenal_A_1,10,8,0:3,68',0:2,Right-footed shot
+Premier League,Mohamed Salah,Aston Villa_H_1,9,11,2:1,57',1:1,Header
+Premier League,Mohamed Salah,Newcastle_H_1,15,12,1:1,3',1:0,Left-footed shot
+Premier League,Mohamed Salah,Man Utd_A_1,2,2,2:4,90',2:4,Counter attack goal
+Premier League,Mohamed Salah,West Brom_A_1,19,19,1:2,33',1:1,Left-footed shot
+Premier League,Bruno Fernandes,Brighton_A_1,8,16,2:3,90'+10,2:3,Penalty
+Premier League,Bruno Fernandes,Spurs_H_1,10,7,1:6,2',1:0,Penalty
+Premier League,Bruno Fernandes,Newcastle_A_1,10,12,1:4,86',1:2,Counter attack goal
+Premier League,Bruno Fernandes,Everton_A_1,5,10,1:3,25',1:1,Header
+Premier League,Bruno Fernandes,West Brom_H_1,18,19,1:0,56',1:0,Penalty
+Premier League,Bruno Fernandes,Southampton_A_1,5,15,2:3,59',2:1,Right-footed shot
+Premier League,Bruno Fernandes,Leeds_H_1,13,9,6:2,20',3:0,Right-footed shot
+Premier League,Bruno Fernandes,Leicester_A_1,3,5,2:2,79',1:2,Right-footed shot
+Premier League,Bruno Fernandes,Aston Villa_H_1,4,11,2:1,61',2:1,Penalty
+Premier League,Bruno Fernandes,Southampton_H_1,12,15,9:0,87',7:0,Penalty
+Premier League,Bruno Fernandes,Everton_H_1,6,10,3:3,45',2:0,Right-footed shot
+Premier League,Bruno Fernandes,West Brom_A_1,19,19,1:1,44',1:1,Left-footed shot
+Premier League,Bruno Fernandes,Newcastle_H_1,17,12,3:1,75',3:1,Penalty
+Premier League,Bruno Fernandes,Man City_A_1,1,1,0:2,2',0:1,Penalty
+Premier League,Bruno Fernandes,Aston Villa_A_1,9,11,1:3,52',1:1,Penalty
+Premier League,Bruno Fernandes,Liverpool_H_1,6,3,2:4,10',1:0,Right-footed shot
+Premier League,Heung-min Son,Southampton_A_1,13,15,2:5,45'+2,1:1,Right-footed shot
+Premier League,Heung-min Son,Man Utd_A_1,9,2,1:6,7',1:2,Left-footed shot
+Premier League,Heung-min Son,West Ham_H_1,11,6,3:3,1',1:0,Right-footed shot
+Premier League,Heung-min Son,Burnley_A_1,19,17,0:1,76',0:1,Header
+Premier League,Heung-min Son,Man City_H_1,7,1,2:0,5',1:0,Left-footed shot
+Premier League,Heung-min Son,Arsenal_H_1,14,8,2:0,13',1:0,Right-footed shot
+Premier League,Heung-min Son,Liverpool_A_1,2,3,2:1,33',1:1,Right-footed shot
+Premier League,Heung-min Son,Leeds_H_1,11,9,3:0,43',2:0,Right-footed shot
+Premier League,Heung-min Son,West Brom_H_1,19,19,2:0,58',2:0,Counter attack goal
+Premier League,Heung-min Son,Man Utd_H_1,2,2,1:3,40',1:0,Left-footed shot
+Premier League,Heung-min Son,Southampton_H_1,14,15,2:1,90',2:1,Penalty
+Premier League,Heung-min Son,Sheff Utd_H_1,20,20,4:0,77',4:0,Right-footed shot
+Premier League,Heung-min Son,Leeds_A_1,11,9,3:1,25',1:1,Right-footed shot
+Premier League,Patrick Bamford,Liverpool_A_1,3,3,4:3,30',2:2,Right-footed shot
+Premier League,Patrick Bamford,Fulham_H_1,19,18,4:3,50',3:1,
+Premier League,Patrick Bamford,Sheff Utd_A_1,17,20,0:1,88',0:1,
+Premier League,Patrick Bamford,Aston Villa_A_1,2,11,0:3,55',0:1,Left-footed shot
+Premier League,Patrick Bamford,Crystal Palace_A_1,14,14,4:1,27',2:1,Left-footed shot
+Premier League,Patrick Bamford,Chelsea_A_1,3,4,3:1,4',0:1,Left-footed shot
+Premier League,Patrick Bamford,Newcastle_H_1,12,12,5:2,35',1:1,Header
+Premier League,Patrick Bamford,Burnley_H_1,16,17,1:0,5',1:0,Penalty
+Premier League,Patrick Bamford,Leicester_A_1,3,5,1:3,70',1:2,Left-footed shot
+Premier League,Patrick Bamford,Crystal Palace_H_1,12,14,2:0,52',2:0,Left-footed shot
+Premier League,Patrick Bamford,Southampton_H_1,7,15,3:0,47',1:0,Left-footed shot
+Premier League,Patrick Bamford,Fulham_A_1,18,18,1:2,29',0:1,Left-footed shot
+Premier League,Patrick Bamford,Spurs_H_1,7,7,3:1,42',2:1,Left-footed shot
+Premier League,Patrick Bamford,Southampton_A_1,14,15,0:2,73',0:1,Left-footed shot
+Premier League,Patrick Bamford,West Brom_H_1,19,19,3:1,79',3:0,Penalty
+Premier League,Dominic Calvert-Lewin,Spurs_A_1,7,7,0:1,55',0:1,Header
+Premier League,Dominic Calvert-Lewin,West Brom_H_1,20,19,5:2,31',1:1,Right-footed shot
+Premier League,Dominic Calvert-Lewin,Crystal Palace_A_1,6,14,1:2,10',0:1,Right-footed shot
+Premier League,Dominic Calvert-Lewin,Brighton_H_1,14,16,4:2,16',1:0,Header
+Premier League,Dominic Calvert-Lewin,Liverpool_H_1,5,3,2:2,81',2:2,Header
+Premier League,Dominic Calvert-Lewin,Newcastle_A_1,15,12,2:1,90'+1,2:1,Right-footed shot
+Premier League,Dominic Calvert-Lewin,Fulham_A_1,17,18,2:3,1',0:1,Right-footed shot
+Premier League,Dominic Calvert-Lewin,Burnley_A_1,19,17,1:1,45'+3,1:1,Right-footed shot
+Premier League,Dominic Calvert-Lewin,Leeds_A_1,10,9,1:2,41',0:2,Header
+Premier League,Dominic Calvert-Lewin,Man Utd_A_1,2,2,3:3,90'+5,3:3,Left-footed shot
+Premier League,Dominic Calvert-Lewin,Burnley_H_1,15,17,1:2,32',1:2,Header
+Premier League,Dominic Calvert-Lewin,Aston Villa_H_1,10,11,1:2,19',1:1,Header
+Premier League,Dominic Calvert-Lewin,West Ham_A_1,5,6,0:1,24',0:1,Right-footed shot
+Premier League,Jamie Vardy,West Brom_A_1,19,19,0:3,74',0:2,Penalty
+Premier League,Jamie Vardy,Man City_A_1,4,1,2:5,37',1:1,Penalty
+Premier League,Jamie Vardy,Arsenal_A_1,6,8,0:1,80',0:1,Header
+Premier League,Jamie Vardy,Leeds_A_1,7,9,1:4,76',1:3,Right-footed shot
+Premier League,Jamie Vardy,Wolves_H_1,7,13,1:0,15',1:0,Penalty
+Premier League,Jamie Vardy,Sheff Utd_A_1,20,20,1:2,90',1:2,Right-footed shot
+Premier League,Jamie Vardy,Brighton_H_1,16,16,3:0,41',2:0,Left-footed shot
+Premier League,Jamie Vardy,Spurs_A_1,3,7,0:2,45'+4,0:1,Penalty
+Premier League,Jamie Vardy,Liverpool_H_1,4,3,3:1,81',2:1,Right-footed shot
+Premier League,Jamie Vardy,West Brom_H_1,19,19,3:0,23',1:0,Right-footed shot
+Premier League,Jamie Vardy,Spurs_H_1,7,7,2:4,18',1:0,Penalty
+Premier League,Ollie Watkins,Liverpool_H_1,2,3,7:2,4',1:0,Left-footed shot
+Premier League,Ollie Watkins,Southampton_H_1,8,15,3:4,90'+3,2:4,Penalty
+Premier League,Ollie Watkins,Arsenal_A_1,10,8,0:3,72',0:2,Header
+Premier League,Ollie Watkins,Newcastle_H_1,13,12,2:0,13',1:0,Header
+Premier League,Ollie Watkins,Burnley_A_1,15,17,3:2,14',0:1,Right-footed shot
+Premier League,Ollie Watkins,West Ham_H_1,6,6,1:3,81',1:2,Right-footed shot
+Premier League,Ollie Watkins,Arsenal_H_1,11,8,1:0,2',1:0,Right-footed shot
+Premier League,Ollie Watkins,Fulham_H_1,18,18,3:1,87',3:1,Right-footed shot
+Premier League,Ollie Watkins,Liverpool_A_1,7,3,2:1,43',0:1,Left-footed shot
+Premier League,Ollie Watkins,Everton_A_1,8,10,1:2,13',0:1,Right-footed shot
+Premier League,Ollie Watkins,Spurs_A_1,6,7,1:2,39',1:2,Left-footed shot
+Premier League,Ilkay Gündogan,West Brom_H_1,19,19,1:1,30',1:0,Right-footed shot
+Premier League,Ilkay Gündogan,Newcastle_H_1,13,12,2:0,14',1:0,Right-footed shot
+Premier League,Ilkay Gündogan,Chelsea_A_1,8,4,1:3,18',0:1,Right-footed shot
+Premier League,Ilkay Gündogan,Crystal Palace_H_1,13,14,4:0,56',2:0,Right-footed shot
+Premier League,Ilkay Gündogan,Aston Villa_H_1,11,11,2:0,90',2:0,Penalty
+Premier League,Ilkay Gündogan,West Brom_A_1,19,19,0:5,6',0:1,Right-footed shot
+Premier League,Ilkay Gündogan,Liverpool_A_1,4,3,1:4,49',0:1,Right-footed shot
+Premier League,Ilkay Gündogan,Spurs_H_1,5,7,3:0,50',2:0,Left-footed shot
+Premier League,Ilkay Gündogan,Southampton_H_1,13,15,5:2,45'+3,3:1,Right-footed shot
+Premier League,Ilkay Gündogan,Brighton_A_1,17,16,3:2,2',0:1,Header
+Premier League,Alexandre Lacazette,Fulham_A_1,18,18,0:3,8',0:1,Left-footed shot
+Premier League,Alexandre Lacazette,West Ham_H_1,18,6,2:1,25',1:0,Header
+Premier League,Alexandre Lacazette,Liverpool_A_1,5,3,3:1,25',0:1,Left-footed shot
+Premier League,Alexandre Lacazette,Chelsea_H_1,6,4,3:1,34',1:0,Penalty
+Premier League,Alexandre Lacazette,Brighton_A_1,16,16,0:1,66',0:1,Right-footed shot
+Premier League,Alexandre Lacazette,West Brom_A_1,19,19,0:4,60',0:3,Right-footed shot
+Premier League,Alexandre Lacazette,Southampton_A_1,10,15,1:3,72',1:3,Left-footed shot
+Premier League,Alexandre Lacazette,Leicester_A_1,3,5,1:3,45'+2,1:2,Penalty
+Premier League,Alexandre Lacazette,Spurs_H_1,6,7,2:1,64',2:1,Penalty
+Premier League,Alexandre Lacazette,West Ham_A_1,5,6,3:3,82',3:3,Header
+Premier League,Alexandre Lacazette,Sheff Utd_A_1,20,20,0:3,33',0:1,Right-footed shot
+Premier League,Callum Wilson,West Ham_A_1,6,6,0:2,56',0:1,Right-footed shot
+Premier League,Callum Wilson,Spurs_A_1,7,7,1:1,90'+7,1:1,Penalty
+Premier League,Callum Wilson,Burnley_H_1,18,17,3:1,65',2:1,Left-footed shot
+Premier League,Callum Wilson,Everton_H_1,1,10,2:1,56',1:0,Penalty
+Premier League,Callum Wilson,Crystal Palace_A_1,12,14,0:2,88',0:1,Left-footed shot
+Premier League,Callum Wilson,Fulham_H_1,18,18,1:1,64',1:1,Penalty
+Premier League,Callum Wilson,Everton_A_1,7,10,0:2,73',0:1,Header
+Premier League,Callum Wilson,Leicester_A_1,3,5,2:4,64',0:3,Counter attack goal
+Premier League,Danny Ings,Spurs_H_1,14,7,2:5,32',1:0,Right-footed shot
+Premier League,Danny Ings,Burnley_A_1,15,17,0:1,5',0:1,Right-footed shot
+Premier League,Danny Ings,Chelsea_A_1,7,4,3:3,43',2:1,Right-footed shot
+Premier League,Danny Ings,Aston Villa_A_1,4,11,3:4,58',0:4,Right-footed shot
+Premier League,Danny Ings,Brighton_A_1,16,16,1:2,81',1:2,Penalty
+Premier League,Danny Ings,Liverpool_H_1,1,3,1:0,2',1:0,Left-footed shot
+Premier League,Danny Ings,Wolves_H_1,14,13,1:2,25',1:0,Right-footed shot
+Premier League,Danny Ings,Burnley_H_1,15,17,3:2,42',2:2,Right-footed shot
+Premier League,Danny Ings,Spurs_A_1,7,7,2:1,30',0:1,Header
+Premier League,Danny Ings,Crystal Palace_H_1,13,14,3:1,19',1:1,Right-footed shot
+Premier League,Chris Wood,Leicester_A_1,2,5,4:2,10',0:1,Right-footed shot
+Premier League,Chris Wood,Crystal Palace_H_1,9,14,1:0,8',1:0,Right-footed shot
+Premier League,Chris Wood,Wolves_H_1,11,13,2:1,51',2:0,Right-footed shot
+Premier League,Chris Wood,Aston Villa_H_1,8,11,3:2,79',3:2,Header
+Premier League,Chris Wood,Arsenal_H_1,10,8,1:1,39',1:1,
+Premier League,Chris Wood,Everton_A_1,7,10,1:2,13',0:1,Right-footed shot
+Premier League,Chris Wood,Southampton_A_1,14,15,3:2,12',0:1,Penalty
+Premier League,Chris Wood,Wolves_A_1,12,13,0:4,15',0:1,Right-footed shot
+Premier League,Chris Wood,West Ham_H_1,5,6,1:2,19',1:0,Penalty
+Premier League,Chris Wood,Fulham_A_1,18,18,0:2,44',0:2,Right-footed shot
+Premier League,Kelechi Iheanacho,Fulham_A_1,18,18,0:2,17',0:1,Header
+Premier League,Kelechi Iheanacho,Burnley_A_1,15,17,1:1,34',1:1,Left-footed shot
+Premier League,Kelechi Iheanacho,Brighton_A_1,16,16,1:2,62',1:1,Left-footed shot
+Premier League,Kelechi Iheanacho,Sheff Utd_H_1,20,20,5:0,39',1:0,Right-footed shot
+Premier League,Kelechi Iheanacho,West Ham_A_1,4,6,3:2,70',3:1,Left-footed shot
+Premier League,Kelechi Iheanacho,West Brom_H_1,19,19,3:0,36',3:0,Left-footed shot
+Premier League,Kelechi Iheanacho,Crystal Palace_H_1,14,14,2:1,80',2:1,Left-footed shot
+Premier League,Kelechi Iheanacho,Newcastle_H_1,17,12,2:4,87',2:4,Left-footed shot
+Premier League,Kelechi Iheanacho,Chelsea_A_1,4,4,2:1,76',2:1,Left-footed shot
+Premier League,Marcus Rashford,Brighton_A_1,8,16,2:3,55',1:2,Left-footed shot
+Premier League,Marcus Rashford,Newcastle_A_1,10,12,1:4,90'+6,1:4,Right-footed shot
+Premier League,Marcus Rashford,West Ham_A_1,7,6,1:3,78',1:3,Right-footed shot
+Premier League,Marcus Rashford,Sheff Utd_A_1,20,20,2:3,26',1:1,Right-footed shot
+Premier League,Marcus Rashford,Leicester_A_1,3,5,2:2,23',0:1,Right-footed shot
+Premier League,Marcus Rashford,Wolves_H_1,11,13,1:0,90'+3,1:0,Deflected shot on goal
+Premier League,Marcus Rashford,Southampton_H_1,12,15,9:0,25',2:0,Right-footed shot
+Premier League,Marcus Rashford,Newcastle_H_1,17,12,3:1,30',1:0,Right-footed shot
+Premier League,Marcus Rashford,Brighton_H_1,16,16,2:1,62',1:1,Right-footed shot
+Premier League,Marcus Rashford,Liverpool_H_1,6,3,2:4,68',2:3,Left-footed shot
+Premier League,Sadio Mané,Chelsea_A_1,3,4,0:2,50',0:1,Header
+Premier League,Sadio Mané,Arsenal_H_1,3,8,3:1,28',1:1,Left-footed shot
+Premier League,Sadio Mané,Everton_A_1,1,10,2:2,3',0:1,Right-footed shot
+Premier League,Sadio Mané,Crystal Palace_A_1,12,14,0:7,35',0:2,Right-footed shot
+Premier League,Sadio Mané,West Brom_H_1,19,19,1:1,12',1:0,Right-footed shot
+Premier League,Sadio Mané,Spurs_A_1,4,7,1:3,65',1:3,Left-footed shot
+Premier League,Sadio Mané,Leeds_A_1,11,9,1:1,31',0:1,Right-footed shot
+Premier League,Sadio Mané,Southampton_H_1,13,15,2:0,31',1:0,Header
+Premier League,Sadio Mané,Crystal Palace_H_1,13,14,2:0,36',1:0,Left-footed shot
+Premier League,Matheus Pereira,Everton_A_1,9,10,5:2,47',2:2,Direct free kick
+Premier League,Matheus Pereira,Wolves_A_1,14,13,2:3,8',0:1,Penalty
+Premier League,Matheus Pereira,West Ham_A_1,10,6,2:1,51',1:1,Left-footed shot
+Premier League,Matheus Pereira,Fulham_H_1,18,18,2:2,66',2:1,Left-footed shot
+Premier League,Matheus Pereira,Chelsea_A_1,4,4,2:5,45'+2,1:1,Left-footed shot
+Premier League,Matheus Pereira,Southampton_H_1,13,15,3:0,32',1:0,Penalty
+Premier League,Matheus Pereira,Aston Villa_A_1,11,11,2:2,23',1:1,Penalty
+Premier League,Matheus Pereira,Arsenal_A_1,10,8,3:1,67',2:1,Counter attack goal
+Premier League,Matheus Pereira,West Ham_H_1,7,6,1:3,27',1:0,Direct corner
+Premier League,Wilfried Zaha,Southampton_H_1,15,15,1:0,13',1:0,Right-footed shot
+Premier League,Wilfried Zaha,Man Utd_A_1,10,2,1:3,74',0:2,Penalty
+Premier League,Wilfried Zaha,Brighton_H_1,16,16,1:1,19',1:0,Penalty
+Premier League,Wilfried Zaha,Fulham_A_1,20,18,1:2,64',0:2,Left-footed shot
+Premier League,Wilfried Zaha,West Brom_A_1,18,19,1:5,55',1:2,Right-footed shot
+Premier League,Wilfried Zaha,Leicester_H_1,6,5,1:1,58',1:0,
+Premier League,Wilfried Zaha,West Ham_H_1,7,6,2:3,3',1:0,Right-footed shot
+Premier League,Wilfried Zaha,Leicester_A_1,3,5,2:1,12',0:1,Counter attack goal
+Premier League,Wilfried Zaha,Aston Villa_H_1,11,11,3:2,75',2:2,Right-footed shot
+Premier League,Gareth Bale,Brighton_H_1,16,16,2:1,73',2:1,Header
+Premier League,Gareth Bale,Burnley_H_1,15,17,4:0,2',1:0,Right-footed shot
+Premier League,Gareth Bale,Crystal Palace_H_1,13,14,4:1,25',1:0,Left-footed shot
+Premier League,Gareth Bale,Southampton_H_1,14,15,2:1,60',1:1,Left-footed shot
+Premier League,Gareth Bale,Sheff Utd_H_1,20,20,4:0,36',1:0,Left-footed shot
+Premier League,Gareth Bale,Leicester_A_1,5,5,2:4,87',2:3,Left-footed shot
+Premier League,Raheem Sterling,Leeds_A_1,7,9,1:1,17',0:1,Right-footed shot
+Premier League,Raheem Sterling,Arsenal_H_1,4,8,1:0,23',1:0,Left-footed shot
+Premier League,Raheem Sterling,Fulham_H_1,17,18,2:0,5',1:0,Right-footed shot
+Premier League,Raheem Sterling,Southampton_A_1,4,15,0:1,16',0:1,Right-footed shot
+Premier League,Raheem Sterling,Crystal Palace_H_1,13,14,4:0,88',4:0,Direct free kick
+Premier League,Raheem Sterling,West Brom_A_1,19,19,0:5,57',0:5,Right-footed shot
+Premier League,Raheem Sterling,Burnley_A_1,15,17,0:2,38',0:2,Right-footed shot
+Premier League,Raheem Sterling,Liverpool_A_1,4,3,1:4,76',1:3,Header
+Premier League,Raheem Sterling,Arsenal_A_1,11,8,0:1,2',0:1,Header
+Premier League,Raheem Sterling,Chelsea_H_1,4,4,1:2,44',1:0,Left-footed shot
+Premier League,Michail Antonio,Arsenal_A_1,1,8,2:1,45',1:1,Right-footed shot
+Premier League,Michail Antonio,Leicester_A_1,1,5,0:3,14',0:1,Header
+Premier League,Michail Antonio,Man City_H_1,3,1,1:1,18',1:0,Right-footed shot
+Premier League,Michail Antonio,Burnley_H_1,15,17,1:0,9',1:0,Right-footed shot
+Premier League,Michail Antonio,West Brom_H_1,19,19,2:1,66',2:1,Right-footed shot
+Premier League,Michail Antonio,Spurs_H_1,7,7,2:1,5',1:0,Left-footed shot
+Premier League,Michail Antonio,Man City_A_1,1,1,2:1,43',1:1,Left-footed shot
+Premier League,Michail Antonio,Burnley_A_1,15,17,1:2,21',1:1,Header
+Premier League,Michail Antonio,West Brom_A_1,19,19,1:3,88',1:3,Counter attack goal
+Premier League,Pierre-Emerick Aubameyang,Fulham_A_1,18,18,0:3,57',0:3,Right-footed shot
+Premier League,Pierre-Emerick Aubameyang,Man Utd_A_1,10,2,0:1,69',0:1,Penalty
+Premier League,Pierre-Emerick Aubameyang,Southampton_H_1,4,15,1:1,52',1:1,Right-footed shot
+Premier League,Pierre-Emerick Aubameyang,Newcastle_H_1,16,12,3:0,50',1:0,Counter attack goal
+Premier League,Pierre-Emerick Aubameyang,Leeds_H_1,10,9,4:2,13',1:0,Right-footed shot
+Premier League,Pierre-Emerick Aubameyang,Burnley_A_1,15,17,1:1,6',0:1,Right-footed shot
+Premier League,Pierre-Emerick Aubameyang,Newcastle_A_1,16,12,0:2,66',0:2,Right-footed shot
+Premier League,Edinson Cavani,Everton_A_1,5,10,1:3,90'+5,1:3,Counter attack goal
+Premier League,Edinson Cavani,Southampton_A_1,5,15,2:3,74',2:2,Header
+Premier League,Edinson Cavani,Fulham_A_1,18,18,1:2,21',1:1,Left-footed shot
+Premier League,Edinson Cavani,Southampton_H_1,12,15,9:0,39',4:0,Header
+Premier League,Edinson Cavani,Everton_H_1,6,10,3:3,24',1:0,Header
+Premier League,Edinson Cavani,Spurs_A_1,6,7,1:3,79',1:2,Header
+Premier League,Edinson Cavani,Burnley_H_1,16,17,3:1,90'+3,3:1,Right-footed shot
+Premier League,Edinson Cavani,Aston Villa_A_1,9,11,1:3,87',1:3,Header
+Premier League,Edinson Cavani,Fulham_H_1,18,18,1:1,15',1:0,Right-footed shot
+Premier League,Tomas Soucek,Fulham_H_1,17,18,1:0,90'+1,1:0,Right-footed shot
+Premier League,Tomas Soucek,Man Utd_H_1,4,2,1:3,38',1:0,Right-footed shot
+Premier League,Tomas Soucek,Leeds_A_1,13,9,1:2,25',1:1,Header
+Premier League,Tomas Soucek,Brighton_H_1,17,16,2:2,82',2:2,Header
+Premier League,Tomas Soucek,Everton_A_1,6,10,0:1,86',0:1,Right-footed shot
+Premier League,Tomas Soucek,Crystal Palace_A_1,13,14,2:3,9',1:1,Header
+Premier League,Tomas Soucek,Aston Villa_A_1,9,11,1:3,51',0:1,Right-footed shot
+Premier League,Tomas Soucek,Arsenal_H_1,10,8,3:3,32',3:0,Right-footed shot
+Premier League,Tomas Soucek,West Brom_A_1,19,19,1:3,45'+1,1:1,Left-footed shot
+Premier League,Christian Benteke,West Brom_A_1,18,19,1:5,59',1:3,Header
+Premier League,Christian Benteke,West Ham_A_1,9,6,1:1,34',0:1,Header
+Premier League,Christian Benteke,Brighton_A_1,16,16,1:2,90'+5,1:2,Right-footed shot
+Premier League,Christian Benteke,Spurs_A_1,8,7,4:1,45'+1,1:1,Header
+Premier League,Christian Benteke,Chelsea_H_1,5,4,1:4,63',1:3,Header
+Premier League,Christian Benteke,Sheff Utd_A_1,20,20,0:2,2',0:1,Right-footed shot
+Premier League,Christian Benteke,Southampton_A_1,14,15,3:1,2',0:1,Left-footed shot
+Premier League,Christian Benteke,Aston Villa_H_1,11,11,3:2,32',1:1,Header
+Premier League,Christian Benteke,Arsenal_H_1,9,8,1:3,62',1:1,Header
+Premier League,Nicolas Pépé,Sheff Utd_H_1,19,20,2:1,64',2:0,Left-footed shot
+Premier League,Nicolas Pépé,Everton_A_1,7,10,2:1,35',1:1,Penalty
+Premier League,Nicolas Pépé,Southampton_A_1,10,15,1:3,8',1:1,Left-footed shot
+Premier League,Nicolas Pépé,Wolves_A_1,14,13,2:1,32',0:1,Right-footed shot
+Premier League,Nicolas Pépé,Leicester_A_1,3,5,1:3,52',1:3,Left-footed shot
+Premier League,Nicolas Pépé,West Brom_H_1,19,19,3:1,35',2:0,Left-footed shot
+Premier League,Nicolas Pépé,Crystal Palace_A_1,13,14,1:3,35',0:1,Right-footed shot
+Premier League,Nicolas Pépé,Brighton_H_1,16,16,2:0,49',1:0,Right-footed shot
+Premier League,Anwar El Ghazi,Wolves_A_1,11,13,0:1,90'+4,0:1,Penalty
+Premier League,Anwar El Ghazi,West Brom_A_1,19,19,0:3,5',0:1,Right-footed shot
+Premier League,Anwar El Ghazi,Crystal Palace_H_1,12,14,3:0,76',3:0,Counter attack goal
+Premier League,Anwar El Ghazi,Chelsea_A_1,8,4,1:1,50',1:1,Right-footed shot
+Premier League,Anwar El Ghazi,Leeds_A_1,10,9,0:1,5',0:1,Left-footed shot
+Premier League,Anwar El Ghazi,West Brom_H_1,19,19,2:2,9',1:0,Penalty
+Premier League,Anwar El Ghazi,Everton_A_1,8,10,1:2,80',1:2,Right-footed shot
+Premier League,Anwar El Ghazi,Crystal Palace_A_1,13,14,3:2,34',1:2,Right-footed shot
+Premier League,Anwar El Ghazi,Chelsea_H_1,3,4,2:1,52',2:0,Penalty
+Premier League,Roberto Firmino,Sheff Utd_H_1,18,20,2:1,41',1:1,Right-footed shot
+Premier League,Roberto Firmino,Leicester_H_1,1,5,3:0,86',3:0,Header
+Premier League,Roberto Firmino,Spurs_H_1,1,7,2:1,90',2:1,Header
+Premier League,Roberto Firmino,Crystal Palace_A_1,12,14,0:7,44',0:3,Counter attack goal
+Premier League,Roberto Firmino,Spurs_A_1,4,7,1:3,45'+4,0:1,Right-footed shot
+Premier League,Roberto Firmino,Man Utd_A_1,2,2,2:4,45'+3,1:3,Header
+Premier League,Roberto Firmino,Burnley_A_1,15,17,0:3,43',0:1,Right-footed shot
+Premier League,Riyad Mahrez,Leicester_H_1,1,5,2:5,4',1:0,Right-footed shot
+Premier League,Riyad Mahrez,Burnley_H_1,17,17,5:0,6',1:0,Left-footed shot
+Premier League,Riyad Mahrez,West Brom_A_1,19,19,0:5,45'+2,0:4,Left-footed shot
+Premier League,Riyad Mahrez,Everton_A_1,4,10,1:3,63',1:2,Left-footed shot
+Premier League,Riyad Mahrez,Wolves_H_1,13,13,4:1,90',3:1,Left-footed shot
+Premier League,Riyad Mahrez,Southampton_H_1,13,15,5:2,40',2:1,Left-footed shot
+Premier League,Che Adams,Chelsea_A_1,7,4,3:3,57',2:2,Left-footed shot
+Premier League,Che Adams,Everton_H_1,1,10,2:0,35',2:0,Right-footed shot
+Premier League,Che Adams,Newcastle_H_1,11,12,2:0,7',1:0,Right-footed shot
+Premier League,Che Adams,Sheff Utd_H_1,20,20,3:0,34',1:0,Right-footed shot
+Premier League,Che Adams,Sheff Utd_A_1,20,20,0:2,49',0:2,Right-footed shot
+Premier League,Che Adams,Man City_A_1,1,1,5:2,56',4:2,Right-footed shot
+Premier League,Che Adams,Brighton_H_1,17,16,1:2,27',1:1,Right-footed shot
+Premier League,Che Adams,Crystal Palace_H_1,13,14,3:1,48',2:1,Right-footed shot
+Premier League,Che Adams,Fulham_H_1,18,18,3:1,27',1:0,Right-footed shot
+Premier League,Phil Foden,Wolves_A_1,6,13,1:3,32',0:2,Left-footed shot
+Premier League,Phil Foden,West Ham_A_1,11,6,1:1,51',1:1,Left-footed shot
+Premier League,Phil Foden,Chelsea_A_1,8,4,1:3,21',0:2,Left-footed shot
+Premier League,Phil Foden,Brighton_H_1,17,16,1:0,44',1:0,Right-footed shot
+Premier League,Phil Foden,Liverpool_A_1,4,3,1:4,83',1:4,Left-footed shot
+Premier League,Phil Foden,Everton_A_1,4,10,1:3,32',0:1,Right-footed shot
+Premier League,Phil Foden,Aston Villa_A_1,9,11,1:2,22',1:1,Right-footed shot
+Premier League,Phil Foden,Brighton_A_1,17,16,3:2,48',0:2,Counter attack goal
+Premier League,Phil Foden,Everton_H_1,8,10,5:0,53',3:0,Right-footed shot
+Premier League,Jesse Lingard,Aston Villa_A_1,9,11,1:3,56',0:2,Counter attack goal
+Premier League,Jesse Lingard,Spurs_H_1,7,7,2:1,47',2:0,Left-footed shot
+Premier League,Jesse Lingard,Leeds_H_1,11,9,2:0,21',1:0,Left-footed shot
+Premier League,Jesse Lingard,Arsenal_H_1,10,8,3:3,15',1:0,Right-footed shot
+Premier League,Jesse Lingard,Wolves_A_1,13,13,2:3,6',0:1,Solo run
+Premier League,Jesse Lingard,Leicester_H_1,3,5,3:2,29',1:0,Right-footed shot
+Premier League,Jesse Lingard,Newcastle_A_1,17,12,3:2,80',2:2,Penalty
+Premier League,Gabriel Jesus,Wolves_A_1,6,13,1:3,90'+5,1:3,Right-footed shot
+Premier League,Gabriel Jesus,Liverpool_H_1,1,3,1:1,31',1:1,Left-footed shot
+Premier League,Gabriel Jesus,Sheff Utd_H_1,20,20,1:0,9',1:0,Right-footed shot
+Premier League,Gabriel Jesus,Burnley_A_1,15,17,0:2,3',0:1,Header
+Premier League,Gabriel Jesus,Wolves_H_1,13,13,4:1,80',2:1,Left-footed shot
+Premier League,Gabriel Jesus,Fulham_A_1,18,18,0:3,56',0:2,Right-footed shot
+Premier League,Gabriel Jesus,Leicester_A_1,3,5,0:2,74',0:2,Right-footed shot
+Premier League,Gabriel Jesus,Everton_H_1,8,10,5:0,14',2:0,Counter attack goal
+Premier League,Harvey Barnes,Burnley_H_1,12,17,4:2,20',1:1,Right-footed shot
+Premier League,Harvey Barnes,Leeds_A_1,7,9,1:4,2',0:1,Right-footed shot
+Premier League,Harvey Barnes,Fulham_H_1,18,18,1:2,86',1:2,Left-footed shot
+Premier League,Harvey Barnes,Man Utd_H_1,2,2,2:2,31',1:1,Left-footed shot
+Premier League,Harvey Barnes,Crystal Palace_A_1,13,14,1:1,83',1:1,
+Premier League,Harvey Barnes,Southampton_H_1,8,15,2:0,90'+5,2:0,Counter attack goal
+Premier League,Harvey Barnes,Leeds_H_1,11,9,1:3,13',1:0,Right-footed shot
+Premier League,Harvey Barnes,Liverpool_H_1,4,3,3:1,85',3:1,Counter attack goal
+Premier League,Harvey Barnes,Aston Villa_A_1,9,11,1:2,23',0:2,Left-footed shot
+Premier League,Diogo Jota,Arsenal_H_1,3,8,3:1,88',3:1,Right-footed shot
+Premier League,Diogo Jota,Sheff Utd_H_1,18,20,2:1,64',2:1,Header
+Premier League,Diogo Jota,West Ham_H_1,14,6,2:1,85',2:1,Right-footed shot
+Premier League,Diogo Jota,Leicester_H_1,1,5,3:0,41',2:0,Header
+Premier League,Diogo Jota,Brighton_A_1,16,16,1:1,60',0:1,Right-footed shot
+Premier League,Diogo Jota,Wolves_A_1,12,13,0:1,45'+2,0:1,Left-footed shot
+Premier League,Diogo Jota,Arsenal_A_1,10,8,0:3,64',0:1,Header
+Premier League,Diogo Jota,Man Utd_A_1,2,2,2:4,34',1:1,Right-footed shot
+Premier League,Jack Harrison,Liverpool_A_1,3,3,4:3,12',1:1,Right-footed shot
+Premier League,Jack Harrison,Newcastle_H_1,12,12,5:2,88',5:2,Counter attack goal
+Premier League,Jack Harrison,West Brom_A_1,19,19,0:5,36',0:3,Left-footed shot
+Premier League,Jack Harrison,Newcastle_A_1,16,12,1:2,61',1:2,Left-footed shot
+Premier League,Jack Harrison,Leicester_A_1,3,5,1:3,84',1:3,Counter attack goal
+Premier League,Jack Harrison,Crystal Palace_H_1,12,14,2:0,3',1:0,Right-footed shot
+Premier League,Jack Harrison,Sheff Utd_H_1,20,20,2:1,12',1:0,Right-footed shot
+Premier League,Jack Harrison,Burnley_A_1,15,17,0:4,60',0:2,Right-footed shot
+Premier League,James Ward-Prowse,Everton_H_1,1,10,2:0,27',1:0,Right-footed shot
+Premier League,James Ward-Prowse,Aston Villa_A_1,4,11,3:4,33',0:2,Direct free kick
+Premier League,James Ward-Prowse,Man Utd_H_1,7,2,2:3,33',2:0,Direct free kick
+Premier League,James Ward-Prowse,Newcastle_A_1,17,12,3:2,48',3:2,Direct free kick
+Premier League,James Ward-Prowse,Sheff Utd_A_1,20,20,0:2,32',0:1,Penalty
+Premier League,James Ward-Prowse,Man City_A_1,1,1,5:2,25',1:1,Penalty
+Premier League,James Ward-Prowse,Leicester_H_1,3,5,1:1,61',1:0,Penalty
+Premier League,James Maddison,Man City_A_1,4,1,2:5,77',1:4,Right-footed shot
+Premier League,James Maddison,Brighton_H_1,16,16,3:0,27',1:0,Left-footed shot
+Premier League,James Maddison,Newcastle_A_1,15,12,1:2,55',0:1,Right-footed shot
+Premier League,James Maddison,Southampton_H_1,8,15,2:0,37',1:0,Right-footed shot
+Premier League,James Maddison,Chelsea_H_1,9,4,2:0,41',2:0,Right-footed shot
+Premier League,James Maddison,Liverpool_H_1,4,3,3:1,78',1:1,Direct free kick
+Premier League,James Maddison,Aston Villa_A_1,9,11,1:2,19',0:1,Right-footed shot
+Premier League,Jarrod Bowen,Wolves_H_1,11,13,4:0,17',1:0,Left-footed shot
+Premier League,Jarrod Bowen,Leicester_A_1,1,5,0:3,83',0:3,Counter attack goal
+Premier League,Jarrod Bowen,Aston Villa_H_1,8,11,2:1,46',2:1,
+Premier League,Jarrod Bowen,West Brom_H_1,19,19,2:1,45'+1,1:0,
+Premier League,Jarrod Bowen,Arsenal_H_1,10,8,3:3,17',2:0,Right-footed shot
+Premier League,Jarrod Bowen,Wolves_A_1,13,13,2:3,38',0:3,Left-footed shot
+Premier League,Jarrod Bowen,Leicester_H_1,3,5,3:2,48',3:0,Left-footed shot
+Premier League,Stuart Dallas,Leicester_H_1,3,5,1:4,48',1:2,Right-footed shot
+Premier League,Stuart Dallas,Newcastle_H_1,12,12,5:2,77',3:2,Header
+Premier League,Stuart Dallas,Man Utd_A_1,2,2,6:2,73',6:2,Right-footed shot
+Premier League,Stuart Dallas,Leicester_A_1,3,5,1:3,15',1:1,Right-footed shot
+Premier League,Stuart Dallas,Southampton_H_1,7,15,3:0,78',2:0,Left-footed shot
+Premier League,Stuart Dallas,Man City_A_1,1,1,1:2,42',0:1,Right-footed shot
+Premier League,Stuart Dallas,Spurs_H_1,7,7,3:1,13',1:0,Right-footed shot
+Premier League,Neal Maupay,Newcastle_A_1,5,12,0:3,4',0:1,Penalty
+Premier League,Neal Maupay,Man Utd_H_1,12,2,2:3,40',1:0,Penalty
+Premier League,Neal Maupay,Everton_A_1,3,10,4:2,41',1:1,Right-footed shot
+Premier League,Neal Maupay,West Ham_A_1,10,6,2:2,44',0:1,Right-footed shot
+Premier League,Neal Maupay,Wolves_H_1,12,13,3:3,46',2:3,Penalty
+Premier League,Neal Maupay,Leeds_A_1,11,9,0:1,17',0:1,Right-footed shot
+Premier League,Neal Maupay,Newcastle_H_1,17,12,3:0,68',3:0,Right-footed shot
+Premier League,David McGoldrick,Arsenal_A_1,4,8,2:1,83',2:1,Left-footed shot
+Premier League,David McGoldrick,Chelsea_A_1,8,4,4:1,9',0:1,Right-footed shot
+Premier League,David McGoldrick,Man Utd_H_1,5,2,2:3,5',1:0,Right-footed shot
+Premier League,David McGoldrick,Spurs_H_1,4,7,1:3,59',1:2,Header
+Premier League,David McGoldrick,Aston Villa_H_1,9,11,1:0,30',1:0,Right-footed shot
+Premier League,David McGoldrick,Brighton_H_1,16,16,1:0,19',1:0,Left-footed shot
+Premier League,David McGoldrick,Burnley_H_1,17,17,1:0,24',1:0,Right-footed shot
+Premier League,Joe Willock,Southampton_H_1,13,15,3:2,16',1:0,Right-footed shot
+Premier League,Joe Willock,Spurs_H_1,6,7,2:2,85',2:2,Left-footed shot
+Premier League,Joe Willock,West Ham_H_1,4,6,3:2,82',3:2,Header
+Premier League,Joe Willock,Liverpool_A_1,6,3,1:1,90'+5,1:1,Right-footed shot
+Premier League,Joe Willock,Leicester_A_1,3,5,2:4,22',0:1,Left-footed shot
+Premier League,Joe Willock,Man City_H_1,1,1,3:4,62',3:2,Penalty rebound
+Premier League,Joe Willock,Sheff Utd_H_1,20,20,1:0,45'+4,1:0,Header
+Premier League,Joe Willock,Fulham_A_1,18,18,0:2,23',0:1,Right-footed shot
+Premier League,Bertrand Traoré,West Brom_A_1,19,19,0:3,84',0:2,Left-footed shot
+Premier League,Bertrand Traoré,Crystal Palace_H_1,12,14,3:0,5',1:0,Counter attack goal
+Premier League,Bertrand Traoré,Man Utd_A_1,2,2,2:1,58',1:1,Left-footed shot
+Premier League,Bertrand Traoré,Newcastle_H_1,13,12,2:0,42',2:0,Right-footed shot
+Premier League,Bertrand Traoré,Leicester_H_1,3,5,1:2,48',1:2,Left-footed shot
+Premier League,Bertrand Traoré,Man Utd_H_1,2,2,1:3,24',1:0,Left-footed shot
+Premier League,Bertrand Traoré,Chelsea_H_1,3,4,2:1,43',1:0,Left-footed shot
+Premier League,Richarlison,Crystal Palace_A_1,6,14,1:2,40',1:2,Penalty
+Premier League,Richarlison,Leicester_A_1,3,5,0:2,21',0:1,Right-footed shot
+Premier League,Richarlison,Man City_H_1,3,1,1:3,37',1:1,Right-footed shot
+Premier League,Richarlison,Liverpool_A_1,6,3,0:2,3',0:1,
+Premier League,Richarlison,Southampton_H_1,14,15,1:0,9',1:0,Right-footed shot
+Premier League,Richarlison,West Brom_A_1,19,19,0:1,65',0:1,Header
+Premier League,Richarlison,Wolves_H_1,12,13,1:0,48',1:0,Header
+Premier League,Mason Greenwood,West Ham_A_1,7,6,1:3,68',1:2,Left-footed shot
+Premier League,Mason Greenwood,Brighton_H_1,16,16,2:1,83',2:1,Header
+Premier League,Mason Greenwood,Spurs_A_1,6,7,1:3,90'+6,1:3,Right-footed shot
+Premier League,Mason Greenwood,Burnley_H_1,16,17,3:1,48',1:0,Left-footed shot
+Premier League,Mason Greenwood,Aston Villa_A_1,9,11,1:3,56',1:2,Left-footed shot
+Premier League,Mason Greenwood,Leicester_H_1,4,5,1:2,15',1:1,Right-footed shot
+Premier League,Rodrigo,Man City_H_1,8,1,1:1,59',1:1,Right-footed shot
+Premier League,Rodrigo,Newcastle_H_1,12,12,5:2,61',2:1,Header
+Premier League,Rodrigo,West Brom_A_1,19,19,0:5,40',0:4,Left-footed shot
+Premier League,Rodrigo,Spurs_H_1,7,7,3:1,84',3:1,Left-footed shot
+Premier League,Rodrigo,Burnley_A_1,15,17,0:4,77',0:3,Left-footed shot
+Premier League,Rodrigo,West Brom_H_1,19,19,3:1,17',1:0,Header
+Premier League,Ferran Torres,Burnley_H_1,17,17,5:0,66',4:0,Right-footed shot
+Premier League,Ferran Torres,Newcastle_H_1,13,12,2:0,55',2:0,Right-footed shot
+Premier League,Ferran Torres,Leeds_H_1,11,9,1:2,76',1:1,Right-footed shot
+Premier League,Ferran Torres,Crystal Palace_A_1,14,14,0:2,59',0:2,Left-footed shot
+Premier League,Ferran Torres,Newcastle_A_1,16,12,3:4,42',1:2,Right-footed shot
+Premier League,Jorginho,Brighton_A_1,16,16,1:3,23',0:1,Penalty
+Premier League,Jorginho,Crystal Palace_H_1,5,14,4:0,78',3:0,Penalty
+Premier League,Jorginho,Spurs_A_1,5,7,0:1,24',0:1,Penalty
+Premier League,Jorginho,Sheff Utd_A_1,20,20,1:2,58',1:2,Penalty
+Premier League,Jorginho,Everton_H_1,6,10,2:0,65',2:0,Penalty
+Premier League,Jorginho,Leicester_H_1,3,5,2:1,66',2:0,Penalty
+Premier League,Timo Werner,Southampton_H_1,12,15,3:3,15',1:0,Right-footed shot
+Premier League,Timo Werner,Burnley_A_1,19,17,0:3,70',0:3,Right-footed shot
+Premier League,Timo Werner,Sheff Utd_H_1,19,20,4:1,80',4:1,Right-footed shot
+Premier League,Timo Werner,Newcastle_H_1,16,12,2:0,39',2:0,Right-footed shot
+Premier League,Timo Werner,West Ham_A_1,5,6,0:1,43',0:1,Right-footed shot
+Premier League,Jack Grealish,Fulham_A_1,18,18,0:3,4',0:1,Right-footed shot
+Premier League,Jack Grealish,Liverpool_H_1,2,3,7:2,66',6:2,Right-footed shot
+Premier League,Jack Grealish,Southampton_H_1,8,15,3:4,90'+7,3:4,Right-footed shot
+Premier League,Jack Grealish,West Ham_A_1,10,6,2:1,25',1:1,Right-footed shot
+Premier League,Jack Grealish,Burnley_A_1,15,17,3:2,68',1:2,Right-footed shot
+Premier League,Kevin De Bruyne,Wolves_A_1,6,13,1:3,20',0:1,Penalty
+Premier League,Kevin De Bruyne,Fulham_H_1,17,18,2:0,26',2:0,Penalty
+Premier League,Kevin De Bruyne,Chelsea_A_1,8,4,1:3,34',0:3,Counter attack goal
+Premier League,Kevin De Bruyne,Southampton_H_1,13,15,5:2,15',1:0,Left-footed shot
+Premier League,Kevin De Bruyne,Everton_H_1,8,10,5:0,11',1:0,Right-footed shot
+Premier League,Raphinha,Everton_A_1,6,10,0:1,79',0:1,Left-footed shot
+Premier League,Raphinha,West Brom_A_1,19,19,0:5,72',0:5,Left-footed shot
+Premier League,Raphinha,Newcastle_A_1,16,12,1:2,17',0:1,Counter attack goal
+Premier League,Raphinha,Everton_H_1,7,10,1:2,48',1:2,Left-footed shot
+Premier League,Raphinha,Southampton_H_1,7,15,3:0,84',3:0,Direct free kick
+Premier League,Raphinha,Fulham_A_1,18,18,1:2,58',1:2,Right-footed shot
+Premier League,Mason Mount,West Brom_A_1,20,19,3:3,55',3:1,Right-footed shot
+Premier League,Mason Mount,Fulham_A_1,18,18,0:1,78',0:1,Right-footed shot
+Premier League,Mason Mount,Sheff Utd_A_1,20,20,1:2,43',0:1,Left-footed shot
+Premier League,Mason Mount,Southampton_A_1,13,15,1:1,54',1:1,Penalty
+Premier League,Mason Mount,Liverpool_A_1,6,3,0:1,42',0:1,Right-footed shot
+Premier League,Mason Mount,West Brom_H_1,19,19,2:5,71',2:4,Left-footed shot
+Premier League,Gylfi Sigurdsson,Chelsea_H_1,3,4,1:0,22',1:0,Penalty
+Premier League,Gylfi Sigurdsson,Sheff Utd_A_1,20,20,0:1,80',0:1,Right-footed shot
+Premier League,Gylfi Sigurdsson,Leeds_A_1,10,9,1:2,9',0:1,Right-footed shot
+Premier League,Gylfi Sigurdsson,Liverpool_A_1,6,3,0:2,83',0:2,Penalty
+Premier League,Gylfi Sigurdsson,Spurs_H_1,7,7,2:2,31',1:1,Penalty
+Premier League,James Rodríguez,West Brom_H_1,20,19,5:2,45',2:1,Left-footed shot
+Premier League,James Rodríguez,Brighton_H_1,14,16,4:2,52',3:1,Left-footed shot
+Premier League,James Rodríguez,Leicester_H_1,3,5,1:1,30',1:0,Right-footed shot
+Premier League,James Rodríguez,Man Utd_A_1,2,2,3:3,52',2:2,Left-footed shot
+Premier League,James Rodríguez,Crystal Palace_H_1,12,14,1:1,56',1:0,
+Premier League,Youri Tielemans,Man City_A_1,4,1,2:5,88',2:5,Penalty
+Premier League,Youri Tielemans,Leeds_A_1,7,9,1:4,21',0:2,Left-footed shot
+Premier League,Youri Tielemans,Newcastle_A_1,15,12,1:2,72',0:2,Right-footed shot
+Premier League,Youri Tielemans,Everton_A_1,6,10,1:1,67',1:1,Right-footed shot
+Premier League,Youri Tielemans,Arsenal_H_1,11,8,1:3,6',1:0,Right-footed shot
+Premier League,Danny Welbeck,Aston Villa_A_1,6,11,1:2,12',0:1,Right-footed shot
+Premier League,Danny Welbeck,Sheff Utd_H_1,20,20,1:1,87',1:1,Left-footed shot
+Premier League,Danny Welbeck,Newcastle_H_1,17,12,3:0,51',2:0,Right-footed shot
+Premier League,Danny Welbeck,Man Utd_A_1,2,2,2:1,13',0:1,Header
+Premier League,Danny Welbeck,Leeds_H_1,9,9,2:0,79',2:0,Left-footed shot
+Premier League,Danny Welbeck,West Ham_H_1,6,6,1:1,84',1:0,Right-footed shot
+Premier League,Tammy Abraham,West Brom_A_1,20,19,3:3,90'+3,3:3,Tap-in
+Premier League,Tammy Abraham,Sheff Utd_H_1,19,20,4:1,23',1:1,Right-footed shot
+Premier League,Tammy Abraham,Newcastle_A_1,14,12,0:2,65',0:2,Counter attack goal
+Premier League,Tammy Abraham,West Ham_H_1,10,6,3:0,78',2:0,Right-footed shot
+Premier League,Tammy Abraham,Arsenal_A_1,15,8,3:1,85',3:1,Chest
+Premier League,Pedro Neto,Fulham_H_1,20,18,1:0,56',1:0,Left-footed shot
+Premier League,Pedro Neto,Southampton_H_1,4,15,1:1,75',1:1,Left-footed shot
+Premier League,Pedro Neto,Arsenal_A_1,13,8,1:2,27',0:1,Right-footed shot
+Premier League,Pedro Neto,Chelsea_H_1,6,4,2:1,90'+5,2:1,Counter attack goal
+Premier League,Pedro Neto,Southampton_A_1,12,15,1:2,66',1:2,Left-footed shot
+Premier League,Leandro Trossard,Chelsea_H_1,4,4,1:3,54',1:1,Left-footed shot
+Premier League,Leandro Trossard,Spurs_H_1,5,7,1:0,17',1:0,Right-footed shot
+Premier League,Leandro Trossard,Southampton_A_1,13,15,1:2,56',1:2,Right-footed shot
+Premier League,Leandro Trossard,Newcastle_H_1,17,12,3:0,45'+3,1:0,Right-footed shot
+Premier League,Leandro Trossard,Man City_H_1,1,1,3:2,50',1:2,Right-footed shot
+Premier League,Pablo Fornals,Leicester_A_1,1,5,0:3,34',0:2,Left-footed shot
+Premier League,Pablo Fornals,Liverpool_A_1,2,3,2:1,10',0:1,Right-footed shot
+Premier League,Pablo Fornals,Wolves_A_1,13,13,2:3,14',0:2,Right-footed shot
+Premier League,Pablo Fornals,Southampton_H_1,14,15,3:0,30',1:0,Right-footed shot
+Premier League,Bukayo Saka,Sheff Utd_H_1,19,20,2:1,61',1:0,Header
+Premier League,Bukayo Saka,Chelsea_H_1,6,4,3:1,56',3:0,Right-footed shot
+Premier League,Bukayo Saka,West Brom_A_1,19,19,0:4,28',0:2,Left-footed shot
+Premier League,Bukayo Saka,Newcastle_H_1,16,12,3:0,60',2:0,Left-footed shot
+Premier League,Bukayo Saka,Southampton_A_1,10,15,1:3,39',1:2,Right-footed shot
+Premier League,Bobby Reid,Leeds_A_1,11,9,4:3,62',4:2,Right-footed shot
+Premier League,Bobby Reid,West Brom_H_1,17,19,2:0,26',1:0,Header
+Premier League,Bobby Reid,Everton_H_1,8,10,2:3,15',1:1,Right-footed shot
+Premier League,Bobby Reid,Liverpool_H_1,2,3,1:1,25',1:0,Right-footed shot
+Premier League,Bobby Reid,West Brom_A_1,19,19,2:2,10',0:1,Right-footed shot
+Premier League,Rúben Neves,Brighton_A_1,17,16,3:3,44',1:3,Penalty
+Premier League,Rúben Neves,Everton_H_1,8,10,1:2,14',1:1,Right-footed shot
+Premier League,Rúben Neves,Arsenal_H_1,11,8,2:1,45'+5,1:1,Penalty
+Premier League,Rúben Neves,Southampton_A_1,12,15,1:2,53',1:1,Penalty
+Premier League,Rúben Neves,Newcastle_A_1,17,12,1:1,73',1:1,Header
+Premier League,Lewis Dunk,West Ham_A_1,10,6,2:2,70',1:2,Right-footed shot
+Premier League,Lewis Dunk,Wolves_H_1,12,13,3:3,70',3:3,Header
+Premier League,Lewis Dunk,Burnley_A_1,16,17,1:1,36',0:1,Header
+Premier League,Lewis Dunk,Southampton_A_1,13,15,1:2,16',0:1,Header
+Premier League,Lewis Dunk,Wolves_A_1,12,13,2:1,13',0:1,Header
+Premier League,Callum Robinson,Chelsea_H_1,10,4,3:3,4',1:0,Left-footed shot
+Premier League,Callum Robinson,Chelsea_A_1,4,4,2:5,63',1:3,Right-footed shot
+Premier League,Callum Robinson,Southampton_H_1,13,15,3:0,69',3:0,Left-footed shot
+Premier League,Kurt Zouma,Brighton_A_1,16,16,1:3,66',1:3,Right-footed shot
+Premier League,Kurt Zouma,Crystal Palace_H_1,5,14,4:0,66',2:0,Header
+Premier League,Kurt Zouma,Burnley_A_1,19,17,0:3,63',0:2,Header
+Premier League,Kurt Zouma,Leeds_H_1,12,9,3:1,61',2:1,Header
+Premier League,Kurt Zouma,Crystal Palace_A_1,12,14,1:4,30',0:3,Header
+Premier League,Eberechi Eze,Leeds_H_1,12,9,4:1,22',2:0,Direct free kick
+Premier League,Eberechi Eze,Sheff Utd_H_1,20,20,2:0,45'+6,2:0,Solo run
+Premier League,Eberechi Eze,Wolves_H_1,13,13,1:0,60',1:0,Left-footed shot
+Premier League,Eberechi Eze,Sheff Utd_A_1,20,20,0:2,88',0:2,Counter attack goal
+Premier League,Anthony Martial,Sheff Utd_A_1,20,20,2:3,33',1:2,Right-footed shot
+Premier League,Anthony Martial,Aston Villa_H_1,4,11,2:1,40',1:0,Header
+Premier League,Anthony Martial,Southampton_H_1,12,15,9:0,69',5:0,Right-footed shot
+Premier League,Mateusz Klich,Liverpool_A_1,3,3,4:3,66',3:3,Right-footed shot
+Premier League,Mateusz Klich,Fulham_H_1,19,18,4:3,41',2:1,Penalty
+Premier League,Mateusz Klich,West Ham_H_1,9,6,1:2,6',1:0,Penalty
+Premier League,Mateusz Klich,Burnley_A_1,15,17,0:4,44',0:1,Right-footed shot
+Premier League,Stuart Armstrong,Newcastle_H_1,11,12,2:0,82',2:0,Left-footed shot
+Premier League,Stuart Armstrong,Sheff Utd_H_1,20,20,3:0,62',2:0,Left-footed shot
+Premier League,Stuart Armstrong,Arsenal_H_1,11,8,1:3,3',1:0,Right-footed shot
+Premier League,Stuart Armstrong,Burnley_H_1,15,17,3:2,31',1:2,Right-footed shot
+Premier League,Kai Havertz,Southampton_H_1,12,15,3:3,59',3:2,Left-footed shot
+Premier League,Kai Havertz,Crystal Palace_A_1,12,14,1:4,8',0:1,Left-footed shot
+Premier League,Kai Havertz,Fulham_H_1,18,18,2:0,10',1:0,Left-footed shot
+Premier League,Ademola Lookman,Sheff Utd_A_1,18,20,1:1,77',0:1,Left-footed shot
+Premier League,Ademola Lookman,Leicester_A_1,4,5,1:2,30',0:1,Counter attack goal
+Premier League,Ademola Lookman,Man Utd_H_1,1,2,1:2,5',1:0,Right-footed shot
+Premier League,Ademola Lookman,Sheff Utd_H_1,20,20,1:0,61',1:0,Right-footed shot
+Premier League,Fábio Silva,Burnley_A_1,17,17,2:1,89',2:1,Penalty
+Premier League,Fábio Silva,West Brom_H_1,19,19,2:3,38',1:1,Right-footed shot
+Premier League,Fábio Silva,West Ham_H_1,5,6,2:3,68',2:3,Right-footed shot
+Premier League,Fábio Silva,West Brom_A_1,19,19,1:1,45'+2,0:1,Right-footed shot
+Premier League,Joelinton,Crystal Palace_A_1,12,14,0:2,89',0:2,Counter attack goal
+Premier League,Joelinton,Spurs_H_1,6,7,2:2,28',1:0,Right-footed shot
+Premier League,Joelinton,West Ham_H_1,4,6,3:2,41',2:0,Right-footed shot
+Premier League,Joelinton,Man City_H_1,1,1,3:4,45'+6,2:2,Penalty
+Premier League,Christian Pulisic,Leeds_H_1,12,9,3:1,90'+3,3:1,Left-footed shot
+Premier League,Christian Pulisic,West Brom_H_1,19,19,2:5,27',1:0,Right-footed shot
+Premier League,Christian Pulisic,Crystal Palace_A_1,12,14,1:4,10',0:2,Left-footed shot
+Premier League,Miguel Almirón,West Brom_H_1,19,19,2:1,1',1:0,Left-footed shot
+Premier League,Miguel Almirón,Leeds_H_1,12,9,1:2,57',1:1,Left-footed shot
+Premier League,Miguel Almirón,Southampton_H_1,13,15,3:2,26',2:0,Left-footed shot
+Premier League,Scott McTominay,Leeds_H_1,13,9,6:2,2',1:0,Right-footed shot
+Premier League,Scott McTominay,Southampton_H_1,12,15,9:0,71',6:0,Right-footed shot
+Premier League,Scott McTominay,Everton_H_1,6,10,3:3,70',3:2,Header
+Premier League,Sergio Agüero,Fulham_A_1,18,18,0:3,60',0:3,Penalty
+Premier League,Sergio Agüero,Crystal Palace_A_1,14,14,0:2,57',0:1,Right-footed shot
+Premier League,Sergio Agüero,Everton_H_1,8,10,5:0,71',4:0,Right-footed shot
+Premier League,John Stones,Crystal Palace_H_1,13,14,4:0,26',1:0,Header
+Premier League,John Stones,West Ham_H_1,4,6,2:1,68',2:1,Right-footed shot
+Premier League,John Stones,Fulham_A_1,18,18,0:3,47',0:1,Right-footed shot
+Premier League,Olivier Giroud,Leeds_H_1,12,9,3:1,27',1:1,Left-footed shot
+Premier League,Olivier Giroud,Wolves_A_1,13,13,2:1,49',0:1,Left-footed shot
+Premier League,Olivier Giroud,Aston Villa_H_1,5,11,1:1,34',1:0,Header
+Premier League,Olivier Giroud,Newcastle_H_1,16,12,2:0,31',1:0,Left-footed shot
+Premier League,Raúl Jiménez,Sheff Utd_A_1,20,20,0:2,3'+1,0:1,Right-footed shot
+Premier League,Raúl Jiménez,Man City_H_1,4,1,1:3,78',1:2,Header
+Premier League,Raúl Jiménez,Leeds_A_1,8,9,0:1,70',0:1,Right-footed shot
+Premier League,Raúl Jiménez,Newcastle_H_1,14,12,1:1,80',1:0,Right-footed shot
+Premier League,Pascal Groß,Liverpool_H_1,2,3,1:1,90'+3,1:1,Penalty
+Premier League,Pascal Groß,Southampton_H_1,8,15,1:2,26',1:0,Penalty
+Premier League,Pascal Groß,Leeds_H_1,9,9,2:0,14',1:0,Penalty
+Premier League,John McGinn,Liverpool_H_1,2,3,7:2,35',3:1,Left-footed shot
+Premier League,John McGinn,Man City_H_1,1,1,1:2,1',1:0,Left-footed shot
+Premier League,John McGinn,Crystal Palace_A_1,13,14,3:2,17',0:1,Left-footed shot
+Premier League,Ben Chilwell,Crystal Palace_H_1,5,14,4:0,50',1:0,Left-footed shot
+Premier League,Ben Chilwell,Sheff Utd_H_1,19,20,4:1,34',2:1,Right-footed shot
+Premier League,Ben Chilwell,Aston Villa_A_1,11,11,2:1,70',2:1,Left-footed shot
+Premier League,Paul Pogba,West Ham_A_1,7,6,1:3,65',1:1,Right-footed shot
+Premier League,Paul Pogba,Burnley_A_1,17,17,0:1,71',0:1,Right-footed shot
+Premier League,Paul Pogba,Fulham_A_1,18,18,1:2,65',1:2,Left-footed shot
+Premier League,Allan Saint-Maximin,Burnley_H_1,18,17,3:1,14',1:0,Right-footed shot
+Premier League,Allan Saint-Maximin,Man Utd_A_1,2,2,3:1,36',1:1,Right-footed shot
+Premier League,Allan Saint-Maximin,Burnley_A_1,15,17,1:2,64',1:2,Left-footed shot
+Premier League,Lucas Moura,Newcastle_H_1,13,12,1:1,25',1:0,Left-footed shot
+Premier League,Lucas Moura,West Ham_A_1,5,6,2:1,64',2:1,Header
+Premier League,Lucas Moura,Burnley_H_1,15,17,4:0,31',3:0,Left-footed shot
+Premier League,Ashley Westwood,Newcastle_A_1,12,12,3:1,61',1:1,Right-footed shot
+Premier League,Ashley Westwood,Wolves_A_1,12,13,0:4,85',0:4,Right-footed shot
+Premier League,Ashley Westwood,Fulham_A_1,18,18,0:2,35',0:1,Left-footed shot
+Premier League,Aleksandar Mitrovic,Leeds_A_1,11,9,4:3,34',1:1,Penalty
+Premier League,Aleksandar Mitrovic,Aston Villa_A_1,9,11,3:1,61',0:1,Left-footed shot
+Premier League,Hélder Costa,Fulham_H_1,19,18,4:3,5',1:0,Left-footed shot
+Premier League,Hélder Costa,Arsenal_A_1,11,8,4:2,69',4:2,Right-footed shot
+Premier League,Theo Walcott,Wolves_A_1,11,13,1:1,58',0:1,Right-footed shot
+Premier League,Theo Walcott,Arsenal_A_1,15,8,1:1,18',0:1,Right-footed shot
+Premier League,Theo Walcott,Fulham_H_1,18,18,3:1,82',3:1,Right-footed shot
+Premier League,Tanguy Ndombélé,Man Utd_A_1,9,2,1:6,4',1:1,Left-footed shot
+Premier League,Tanguy Ndombélé,Wolves_A_1,11,13,1:1,1',0:1,Right-footed shot
+Premier League,Tanguy Ndombélé,Sheff Utd_A_1,20,20,1:3,62',1:3,Right-footed shot
+Premier League,Matej Vydra,Leicester_H_1,3,5,1:1,4',1:0,Left-footed shot
+Premier League,Matej Vydra,Southampton_A_1,14,15,3:2,28',0:2,Left-footed shot
+Premier League,Matej Vydra,Newcastle_H_1,17,12,1:2,18',1:0,Right-footed shot
+Premier League,Daniel Podence,Crystal Palace_H_1,9,14,2:0,27',2:0,Left-footed shot
+Premier League,Daniel Podence,Arsenal_A_1,13,8,1:2,42',1:2,Right-footed shot
+Premier League,Daniel Podence,Chelsea_H_1,6,4,2:1,66',1:1,Right-footed shot
+Premier League,Mbaye Diagne,Man Utd_H_1,2,2,1:1,2',1:0,Header
+Premier League,Mbaye Diagne,Chelsea_A_1,4,4,2:5,68',1:4,Right-footed shot
+Premier League,Mbaye Diagne,Wolves_H_1,12,13,1:1,62',1:1,Header
+Premier League,Michael Keane,West Brom_H_1,20,19,5:2,54',3:2,Tap-in
+Premier League,Michael Keane,Liverpool_H_1,5,3,2:2,19',1:1,Header
+Premier League,Michael Keane,Wolves_A_1,13,13,1:2,77',1:2,Header
+Premier League,Kyle Bartley,Chelsea_H_1,10,4,3:3,27',3:0,Right-footed shot
+Premier League,Kyle Bartley,Fulham_H_1,18,18,2:2,47',1:1,Right-footed shot
+Premier League,Kyle Bartley,Brighton_H_1,16,16,1:0,11',1:0,Header
+Premier League,Ross Barkley,Liverpool_H_1,2,3,7:2,55',5:1,Left-footed shot
+Premier League,Ross Barkley,Leicester_A_1,3,5,0:1,90'+1,0:1,Right-footed shot
+Premier League,Ross Barkley,Southampton_A_1,12,15,0:1,41',0:1,Header
+Premier League,Daniel James,Leeds_H_1,13,9,6:2,66',5:1,Right-footed shot
+Premier League,Daniel James,Southampton_H_1,12,15,9:0,90'+3,9:0,Right-footed shot
+Premier League,Daniel James,Newcastle_H_1,17,12,3:1,57',2:1,Right-footed shot
+Premier League,Ivan Cavaleiro,Leicester_A_1,4,5,1:2,38',0:2,Penalty
+Premier League,Ivan Cavaleiro,Spurs_A_1,7,7,1:1,74',1:1,Header
+Premier League,Ivan Cavaleiro,West Brom_A_1,19,19,2:2,77',2:2,Header
+Premier League,Jannik Vestergaard,Chelsea_A_1,7,4,3:3,90'+2,3:3,Header
+Premier League,Jannik Vestergaard,Aston Villa_A_1,4,11,3:4,20',0:1,Header
+Premier League,Jannik Vestergaard,Brighton_A_1,16,16,1:2,45',1:1,Header
+Premier League,Angelo Ogbonna,Aston Villa_H_1,8,11,2:1,2',1:0,Header
+Premier League,Angelo Ogbonna,Leeds_A_1,13,9,1:2,80',1:2,Header
+Premier League,Angelo Ogbonna,West Brom_A_1,19,19,1:3,82',1:2,Header
+Premier League,Romain Saïss,Sheff Utd_A_1,20,20,0:2,6'+1,0:2,Header
+Premier League,Romain Saïss,Spurs_H_1,8,7,1:1,86',1:1,Header
+Premier League,Romain Saïss,Brighton_A_1,17,16,3:3,19',1:1,Header
+Premier League,Craig Dawson,Crystal Palace_A_1,13,14,2:3,65',1:3,Header
+Premier League,Craig Dawson,Liverpool_H_1,4,3,1:3,87',1:3,Right-footed shot
+Premier League,Craig Dawson,Leeds_H_1,11,9,2:0,28',2:0,Header
+Premier League,Ashley Barnes,Wolves_H_1,11,13,2:1,35',1:0,Header
+Premier League,Ashley Barnes,Liverpool_A_1,3,3,0:1,83',0:1,Penalty
+Premier League,Ashley Barnes,Fulham_H_1,18,18,1:1,52',1:1,Left-footed shot
+Premier League,Takumi Minamino,Crystal Palace_A_1,12,14,0:7,3',0:1,Right-footed shot
+Premier League,Takumi Minamino,Newcastle_A_1,17,12,3:2,30',2:1,Left-footed shot
+Premier League,Takumi Minamino,Chelsea_H_1,4,4,1:1,33',1:0,Right-footed shot
+Premier League,Billy Sharp,Fulham_H_1,20,18,1:1,85',1:1,Penalty
+Premier League,Billy Sharp,Newcastle_H_1,15,12,1:0,73',1:0,Penalty
+Premier League,Billy Sharp,West Brom_H_1,19,19,2:1,73',2:1,Right-footed shot
+Premier League,Sébastien Haller,Wolves_H_1,11,13,4:0,90'+3,4:0,Header
+Premier League,Sébastien Haller,Sheff Utd_A_1,20,20,0:1,56',0:1,Right-footed shot
+Premier League,Sébastien Haller,Crystal Palace_H_1,11,14,1:1,55',1:1,Right-footed shot
+Premier League,Josh Maja,Everton_A_1,8,10,0:2,48',0:1,Right-footed shot
+Premier League,Josh Maja,Arsenal_A_1,10,8,1:1,59',0:1,Penalty
+Premier League,Trent Alexander-Arnold,Spurs_A_1,4,7,1:3,47',0:2,Right-footed shot
+Premier League,Trent Alexander-Arnold,Aston Villa_H_1,9,11,2:1,90'+1,2:1,Right-footed shot
+Premier League,Bernardo Silva,Aston Villa_H_1,11,11,2:0,79',1:0,Left-footed shot
+Premier League,Bernardo Silva,Everton_A_1,4,10,1:3,77',1:3,Left-footed shot
+Premier League,Dwight McNeil,Aston Villa_H_1,8,11,3:2,76',2:2,Left-footed shot
+Premier League,Dwight McNeil,Everton_A_1,7,10,1:2,24',0:2,Left-footed shot
+Premier League,Pierre-Emile Höjbjerg,Liverpool_H_1,5,3,1:3,49',1:2,Right-footed shot
+Premier League,Pierre-Emile Höjbjerg,Wolves_H_1,12,13,2:0,62',2:0,Right-footed shot
+Premier League,Aaron Wan-Bissaka,Newcastle_A_1,10,12,1:4,90',1:3,Right-footed shot
+Premier League,Aaron Wan-Bissaka,Southampton_H_1,12,15,9:0,18',1:0,Right-footed shot
+Premier League,Emile Smith Rowe,West Brom_H_1,19,19,3:1,29',1:0,Left-footed shot
+Premier League,Emile Smith Rowe,Chelsea_A_1,3,4,0:1,16',0:1,Left-footed shot
+Premier League,Adama Traoré,Fulham_A_1,18,18,0:1,90'+2,0:1,Right-footed shot
+Premier League,Adama Traoré,Brighton_H_1,15,16,2:1,76',1:1,Right-footed shot
+Premier League,Ezgjan Alioski,Newcastle_H_1,12,12,5:2,85',4:2,Counter attack goal
+Premier League,Ezgjan Alioski,West Brom_A_1,19,19,0:5,31',0:2,Left-footed shot
+Premier League,Abdoulaye Doucouré,Fulham_A_1,17,18,2:3,35',1:3,Header
+Premier League,Abdoulaye Doucouré,Man Utd_A_1,2,2,3:3,49',2:1,Left-footed shot
+Premier League,Nathan Redmond,Sheff Utd_H_1,20,20,3:0,83',3:0,Right-footed shot
+Premier League,Nathan Redmond,Burnley_H_1,15,17,3:2,66',3:2,Right-footed shot
+Premier League,João Cancelo,West Brom_A_1,19,19,0:5,20',0:2,Left-footed shot
+Premier League,João Cancelo,Newcastle_A_1,16,12,3:4,39',1:1,Right-footed shot
+Premier League,Timothy Castagne,West Brom_A_1,19,19,0:3,56',0:1,Header
+Premier League,Timothy Castagne,Crystal Palace_H_1,14,14,2:1,50',1:1,Left-footed shot
+Premier League,Jeffrey Schlupp,Spurs_H_1,1,7,1:1,81',1:1,Tap-in
+Premier League,Jeffrey Schlupp,Sheff Utd_H_1,20,20,2:0,4',1:0,Right-footed shot
+Premier League,Jacob Murphy,Wolves_A_1,8,13,1:1,89',1:1,Direct free kick
+Premier League,Jacob Murphy,Burnley_A_1,15,17,1:2,59',1:1,Right-footed shot
+Premier League,Callum Hudson-Odoi,West Brom_A_1,20,19,3:3,70',3:2,Right-footed shot
+Premier League,Callum Hudson-Odoi,Man City_H_1,3,1,1:3,90'+2,1:3,Right-footed shot
+Premier League,Hakim Ziyech,Burnley_A_1,19,17,0:3,26',0:1,Left-footed shot
+Premier League,Hakim Ziyech,Man City_A_1,1,1,1:2,63',1:1,Left-footed shot
+Premier League,Serge Aurier,Man Utd_A_1,9,2,1:6,51',1:5,Right-footed shot
+Premier League,Serge Aurier,Sheff Utd_A_1,20,20,1:3,5',0:1,Header
+Premier League,Tyrone Mings,Fulham_A_1,18,18,0:3,48',0:3,Left-footed shot
+Premier League,Tyrone Mings,Southampton_H_1,8,15,3:4,62',1:4,Header
+Premier League,Rodri,Spurs_H_1,5,7,3:0,23',1:0,Penalty
+Premier League,Rodri,Aston Villa_A_1,9,11,1:2,40',1:2,Header
+Premier League,Conor Gallagher,Sheff Utd_H_1,20,20,1:0,13',1:0,Right-footed shot
+Premier League,Conor Gallagher,Crystal Palace_H_1,15,14,1:5,30',1:1,Right-footed shot
+Premier League,Jonny Evans,West Brom_H_1,19,19,3:0,26',2:0,Header
+Premier League,Jonny Evans,Southampton_A_1,13,15,1:1,68',1:1,Header
+Premier League,James Justin,Burnley_H_1,12,17,4:2,61',3:1,Right-footed shot
+Premier League,James Justin,Fulham_A_1,18,18,0:2,44',0:2,Right-footed shot
+Premier League,Michy Batshuayi,West Ham_H_1,7,6,2:3,90'+7,2:3,Left-footed shot
+Premier League,Michy Batshuayi,Everton_A_1,7,10,1:1,86',1:1,
+Premier League,Harry Maguire,Newcastle_A_1,10,12,1:4,23',1:1,Header
+Premier League,Harry Maguire,Sheff Utd_H_1,20,20,1:2,64',1:1,Header
+Premier League,Matt Phillips,Sheff Utd_A_1,20,20,2:1,41',0:1,Right-footed shot
+Premier League,Matt Phillips,Southampton_H_1,13,15,3:0,35',2:0,Right-footed shot
+Premier League,Declan Rice,Sheff Utd_H_1,20,20,3:0,41',1:0,Penalty
+Premier League,Declan Rice,Southampton_H_1,14,15,3:0,86',3:0,Right-footed shot
+Premier League,Ola Aina,West Brom_H_1,17,19,2:0,30',2:0,Left-footed shot
+Premier League,Ola Aina,Burnley_A_1,16,17,1:1,49',0:1,Chest
+Premier League,Ayoze Pérez,Sheff Utd_A_1,20,20,1:2,24',0:1,Right-footed shot
+Premier League,Ayoze Pérez,Sheff Utd_H_1,20,20,5:0,64',2:0,Counter attack goal
+Premier League,Jeff Hendrick,West Ham_A_1,6,6,0:2,87',0:2,Right-footed shot
+Premier League,Jeff Hendrick,Leeds_A_1,14,9,5:2,26',0:1,Right-footed shot
+Premier League,Trezeguet,Fulham_H_1,18,18,3:1,78',1:1,Left-footed shot
+Premier League,Solly March,Man Utd_H_1,12,2,2:3,90'+5,2:2,Header
+Premier League,Solly March,Aston Villa_A_1,6,11,1:2,56',1:2,Right-footed shot
+Premier League,Aaron Connolly,Newcastle_A_1,5,12,0:3,83',0:3,Right-footed shot
+Premier League,Aaron Connolly,Wolves_H_1,12,13,3:3,13',1:0,Right-footed shot
+Premier League,Eddie Nketiah,West Ham_H_1,18,6,2:1,85',2:1,Right-footed shot
+Premier League,Eddie Nketiah,Fulham_H_1,18,18,1:1,90'+7,1:1,Tap-in
+Premier League,Gabriel Martinelli,Sheff Utd_A_1,20,20,0:3,71',0:2,Left-footed shot
+Premier League,Gabriel Martinelli,Crystal Palace_A_1,13,14,1:3,90'+1,1:2,Right-footed shot
+Premier League,Benjamin Mendy,Burnley_H_1,17,17,5:0,41',3:0,Left-footed shot
+Premier League,Benjamin Mendy,Leicester_A_1,3,5,0:2,58',0:1,Right-footed shot
+Premier League,Georginio Wijnaldum,Wolves_H_1,9,13,4:0,58',2:0,Counter attack goal
+Premier League,Georginio Wijnaldum,West Ham_A_1,6,6,1:3,84',0:3,Right-footed shot
+Premier League,Ezri Konsa,Sheff Utd_H_1,17,20,1:0,63',1:0,Header
+Premier League,Ezri Konsa,Brighton_H_1,16,16,1:2,47',1:1,Right-footed shot
+Premier League,Jairo Riedewald,Fulham_A_1,20,18,1:2,8',0:1,Left-footed shot
+Premier League,Jairo Riedewald,Newcastle_A_1,16,12,1:2,21',1:1,Left-footed shot
+Premier League,Semi Ajayi,Liverpool_A_1,1,3,1:1,82',1:1,Header
+Premier League,Semi Ajayi,Wolves_A_1,14,13,2:3,52',2:2,Header
+Premier League,Ben Mee,Sheff Utd_H_1,20,20,1:0,32',1:0,Header
+Premier League,Ben Mee,Aston Villa_H_1,8,11,3:2,52',1:1,Header
+Premier League,Yerry Mina,Brighton_H_1,14,16,4:2,45'+2,2:1,Header
+Premier League,Yerry Mina,Arsenal_H_1,15,8,2:1,45',2:1,Header
+Premier League,Thiago Silva,Sheff Utd_H_1,19,20,4:1,77',3:1,Header
+Premier League,Thiago Silva,West Ham_H_1,10,6,3:0,10',1:0,Header
+Premier League,Gabriel,Fulham_A_1,18,18,0:3,49',0:2,Header
+Premier League,Gabriel,Wolves_H_1,11,13,1:2,30',1:1,Header
+Premier League,Jóhann Berg Gudmundsson,Brighton_H_1,15,16,1:1,53',1:1,Left-footed shot
+Premier League,Jóhann Berg Gudmundsson,Crystal Palace_A_1,13,14,0:3,5',0:1,Left-footed shot
+Premier League,Jamaal Lascelles,Wolves_H_1,12,13,1:1,52',1:0,Header
+Premier League,Jamaal Lascelles,Aston Villa_H_1,9,11,1:1,90'+4,1:1,Header
+Premier League,Hal Robson-Kanu,Liverpool_H_1,5,3,1:2,15',1:0,Left-footed shot
+Premier League,Hal Robson-Kanu,Leeds_A_1,10,9,3:1,90',3:1,Left-footed shot
+Premier League,Issa Diop,Sheff Utd_H_1,20,20,3:0,58',2:0,Header
+Premier League,Issa Diop,Newcastle_A_1,17,12,3:2,73',2:1,Header
+Premier League,Jayden Bogle,Brighton_A_1,16,16,1:1,63',0:1,Left-footed shot
+Premier League,Jayden Bogle,West Brom_H_1,19,19,2:1,56',1:1,Left-footed shot
+Premier League,Marcos Alonso,Burnley_H_1,14,17,2:0,84',2:0,Left-footed shot
+Premier League,Marcos Alonso,Man City_A_1,1,1,1:2,90'+2,1:2,Right-footed shot
+Premier League,Andrew Robertson,Arsenal_H_1,3,8,3:1,34',2:1,Left-footed shot
+Premier League,Saïd Benrahma,Brighton_A_1,17,16,1:1,87',1:1,Right-footed shot
+Premier League,Andros Townsend,Man Utd_A_1,10,2,1:3,7',0:1,Right-footed shot
+Premier League,Luke Shaw,Man City_A_1,1,1,0:2,50',0:2,Left-footed shot
+Premier League,Marc Albrighton,Newcastle_H_1,17,12,2:4,80',1:4,Right-footed shot
+Premier League,Willian,West Brom_H_1,19,19,3:1,90',3:1,Direct free kick
+Premier League,Kieran Tierney,West Brom_A_1,19,19,0:4,23',0:1,Right-footed shot
+Premier League,Wilfred Ndidi,Chelsea_H_1,9,4,2:0,6',1:0,Left-footed shot
+Premier League,Steven Bergwijn,Aston Villa_H_1,11,11,1:2,8',1:0,Right-footed shot
+Premier League,Darnell Furlong,Newcastle_A_1,14,12,2:1,50',1:1,Right-footed shot
+Premier League,Jordan Ayew,Leeds_H_1,12,9,4:1,70',4:1,Right-footed shot
+Premier League,Jonjo Shelvey,Crystal Palace_H_1,13,14,1:2,2',1:0,Right-footed shot
+Premier League,Héctor Bellerín,Leeds_H_1,10,9,4:2,45',3:0,Right-footed shot
+Premier League,Tariq Lamptey,Spurs_A_1,5,7,2:1,56',1:1,Right-footed shot
+Premier League,Reece James,Brighton_A_1,16,16,1:3,56',1:2,Right-footed shot
+Premier League,Granit Xhaka,Chelsea_H_1,6,4,3:1,44',2:0,Direct free kick
+Premier League,Jay Rodríguez,Crystal Palace_A_1,13,14,0:3,10',0:2,Header
+Premier League,Alex Iwobi,Wolves_A_1,13,13,1:2,6',0:1,Right-footed shot
+Premier League,Kalvin Phillips,West Brom_H_1,19,19,3:1,42',2:0,Direct free kick
+Premier League,Tyler Roberts,Southampton_A_1,14,15,0:2,90'+5,0:2,Right-footed shot
+Premier League,César Azpilicueta,Burnley_H_1,14,17,2:0,40',1:0,Right-footed shot
+Premier League,Curtis Jones,Sheff Utd_A_1,20,20,0:2,48',0:1,Right-footed shot
+Premier League,Martin Ødegaard,Spurs_H_1,6,7,2:1,44',1:1,Left-footed shot
+Premier League,Joel Matip,Wolves_H_1,9,13,4:0,67',3:0,Header
+Premier League,Juan Mata,Wolves_A_1,12,13,1:2,45'+4,1:2,Penalty
+Premier League,Jan Bednarek,Man Utd_H_1,7,2,2:3,23',1:0,Header
+Premier League,Nélson Semedo,Man Utd_H_1,2,2,1:2,39',1:1,Right-footed shot
+Premier League,Matthew Lowton,Crystal Palace_A_1,13,14,0:3,47',0:3,Right-footed shot
+Premier League,João Moutinho,Arsenal_H_1,11,8,2:1,49',2:1,Right-footed shot
+Premier League,Luka Milivojevic,West Brom_H_1,19,19,1:0,37',1:0,Penalty
+Premier League,Joachim Andersen,Leeds_H_1,11,9,1:2,38',1:1,Right-footed shot
+Premier League,Adam Lallana,Leicester_H_1,3,5,1:2,10',1:0,Right-footed shot
+Premier League,Victor Lindelöf,Leeds_H_1,13,9,6:2,37',4:0,Right-footed shot
+Premier League,Mario Lemina,Liverpool_A_1,7,3,0:1,45',0:1,Right-footed shot
+Premier League,Joël Veltman,Crystal Palace_H_1,14,14,1:2,55',1:1,Left-footed shot
+Premier League,Oliver Burke,Man Utd_A_1,2,2,1:2,74',1:2,Right-footed shot
+Premier League,Kyle Walker,Sheff Utd_A_1,18,20,0:1,28',0:1,Right-footed shot
+Premier League,Oliver McBurnie,Leicester_H_1,6,5,1:2,26',1:1,Header
+Premier League,Willy Boly,West Brom_H_1,19,19,2:3,43',2:1,Right-footed shot
+Premier League,Rayan Aït Nouri,Crystal Palace_H_1,9,14,2:0,18',1:0,Left-footed shot
+Premier League,Jordan Henderson,Crystal Palace_A_1,12,14,0:7,52',0:4,Right-footed shot
+Premier League,Alexis Mac Allister,Crystal Palace_A_1,13,14,1:1,90',1:1,Right-footed shot
+Premier League,Oriol Romeu,West Brom_H_1,17,19,2:0,69',2:0,Right-footed shot
+Premier League,Gary Cahill,Newcastle_A_1,16,12,1:2,25',1:2,Header
+Premier League,Donny van de Beek,Crystal Palace_H_1,8,14,1:3,80',1:2,Right-footed shot
+Premier League,Robbie Brady,Everton_H_1,10,10,1:1,3',1:0,Right-footed shot
+Premier League,Tyrick Mitchell,Aston Villa_H_1,11,11,3:2,84',3:2,Chest
+Premier League,Giovani Lo Celso,Man City_H_1,7,1,2:0,65',2:0,Left-footed shot
+Premier League,Nathan Tella,Fulham_H_1,18,18,3:1,60',2:0,Right-footed shot
+Premier League,Dwight Gayle,West Brom_H_1,19,19,2:1,82',2:1,Header
+Premier League,Nathaniel Phillips,Burnley_A_1,15,17,0:3,52',0:2,Header
+Premier League,Manuel Lanzini,Spurs_A_1,6,7,3:3,90'+4,3:3,Long distance kick
+Premier League,Willian José,Sheff Utd_H_1,20,20,1:0,59',1:0,Right-footed shot
+Premier League,Joe Bryan,Man Utd_A_1,2,2,1:1,76',1:1,Header
+Premier League,Keinan Davis,West Brom_H_1,19,19,2:2,90'+2,2:2,Left-footed shot
+Premier League,Sander Berge,Liverpool_A_1,4,3,2:1,13',0:1,Penalty
+Premier League,Dennis Praet,Burnley_H_1,12,17,4:2,79',4:2,Right-footed shot
+Premier League,Ryan Fredericks,Sheff Utd_H_1,20,20,3:0,90'+6,3:0,Right-footed shot
+Premier League,Alex Oxlade-Chamberlain,Burnley_A_1,15,17,0:3,88',0:3,Left-footed shot
+Premier League,Tom Cairney,Crystal Palace_H_1,15,14,1:2,90'+5,1:2,Left-footed shot
+Premier League,Conor Hourihane,Fulham_A_1,18,18,0:3,15',0:2,Right-footed shot
+Premier League,Conor Coady,Man City_A_1,1,1,4:1,61',1:1,Header
+Premier League,Yves Bissouma,Everton_A_1,3,10,4:2,90'+2,4:2,Right-footed shot
+Premier League,Cheikhou Kouyaté,Everton_H_1,2,10,1:2,26',1:1,Header
+Premier League,James Tarkowski,Man Utd_A_1,2,2,3:1,50',1:1,Header
+Premier League,Leander Dendoncker,West Ham_H_1,5,6,2:3,44',1:3,Header
+Premier League,Alisson,West Brom_A_1,19,19,1:2,90'+5,1:2,Header
+Premier League,Rúben Dias,West Ham_H_1,4,6,2:1,30',1:0,Header
+Premier League,Ruben Loftus-Cheek,Everton_H_1,8,10,2:3,70',2:3,Right-footed shot
+Premier League,Fred,Spurs_A_1,6,7,1:3,57',1:1,Left-footed shot
+Premier League,Adam Webster,Man City_H_1,1,1,3:2,72',2:2,Header
+Premier League,Mason Holgate,Leicester_A_1,3,5,0:2,72',0:2,Left-footed shot
+Premier League,Pascal Struijk,Arsenal_A_1,11,8,4:2,58',4:1,Header
+Premier League,Dan Burn,Man City_H_1,1,1,3:2,76',3:2,Right-footed shot
+Premier League,Moussa Djenepo,West Brom_H_1,17,19,2:0,41',1:0,Left-footed shot
+Premier League,Toby Alderweireld,Leeds_H_1,11,9,3:0,50',3:0,Header
+Premier League,Liam Cooper,Man Utd_A_1,2,2,6:2,41',4:1,Header
+Premier League,Thiago,Southampton_H_1,13,15,2:0,90',2:0,Right-footed shot
+Premier League,Ben Osborn,Leeds_A_1,11,9,2:1,45'+2,1:1,Right-footed shot
+Premier League,Erik Lamela,Arsenal_A_1,10,8,2:1,33',0:1,Left-footed shot
+Premier League,Mohamed Elneny,Newcastle_A_1,16,12,0:2,5',0:1,Right-footed shot
+Premier League,Caglar Söyüncü,Man Utd_A_1,2,2,1:2,66',1:2,Header
+Premier League,Ciaran Clark,Leeds_A_1,14,9,5:2,65',2:2,Header
+Premier League,Karlan Grant,Brighton_A_1,16,16,1:1,83',1:1,Right-footed shot
+Premier League,Grady Diangana,Everton_A_1,9,10,5:2,10',0:1,Left-footed shot
+Premier League,David Luiz,Leicester_A_1,3,5,1:3,39',1:1,Header
+Premier League,Antonio Rüdiger,Leicester_H_1,3,5,2:1,47',1:0,Left-footed shot
+Premier League,Fabian Schär,Fulham_A_1,18,18,0:2,88',0:2,Penalty
+Premier League,Andy Carroll,Leicester_H_1,5,5,1:2,82',1:2,Left-footed shot
+Premier League,Emil Krafth,Man City_H_1,1,1,3:4,25',1:0,Header
+Premier League,Diego Llorente,Liverpool_H_1,6,3,1:1,87',1:1,Header
+Premier League,Steven Alzate,Liverpool_A_1,3,3,0:1,56',0:1,Right-footed shot
+Premier League,Paul Dummett,Leicester_A_1,3,5,2:4,34',0:2,Header
+Premier League,Scott Dann,Leeds_H_1,12,9,4:1,12',1:0,Header
+Premier League,Luke Thomas,Man Utd_A_1,2,2,1:2,10',0:1,Left-footed shot
+Premier League,Ben Johnson,Brighton_H_1,17,16,2:2,60',1:1,Right-footed shot
+Premier League,Fabián Balbuena,Spurs_A_1,6,7,3:3,82',3:1,Header
+Premier League,Kean Bryan,Man Utd_A_1,2,2,1:2,23',0:1,Header
+Premier League,Daniel Amartey,Brighton_A_1,16,16,1:2,87',1:2,Header
+Premier League,Bernard,Man Utd_H_1,13,2,1:3,19',1:0,Right-footed shot
+Premier League,Morgan Gibbs-White,Brighton_H_1,15,16,2:1,90',2:1,Right-footed shot
+Premier League,Nathan Aké,Leicester_H_1,1,5,2:5,84',2:4,Header
+Premier League,Carlos Vinícius,Aston Villa_A_1,6,11,0:2,29',0:1,Right-footed shot
+Premier League,Kortney Hause,Crystal Palace_H_1,12,14,3:0,66',2:0,Header
+Premier League,Jean-Philippe Mateta,Brighton_A_1,16,16,1:2,28',0:1,Right-footed shot
+Premier League,Virgil van Dijk,Leeds_H_1,9,9,4:3,20',2:1,Header
+Premier League,Fábio Carvalho,Southampton_A_1,14,15,3:1,75',2:1,Right-footed shot
+Premier League,Daniel Jebbison,Everton_A_1,8,10,0:1,7',0:1,Right-footed shot
+Premier League,Jimmy Dunne,Leicester_A_1,2,5,4:2,73',3:2,Header
+Premier League,Anthony Elanga,Wolves_A_1,12,13,1:2,13',0:1,Header
