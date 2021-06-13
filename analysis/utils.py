@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 
 def aggregate_goal_involvements(df):
@@ -22,5 +23,13 @@ def aggregate_goal_involvements(df):
 	return aggregates
 
 
-def aggregate_goals_scored(df):
-	pass
+def aggregate_goals_types(df):
+	df = df[['player', 'goal_type']]
+	df['number_goals'] = 1
+
+	aggregates = df.groupby(['player', 'goal_type']).agg('sum')
+	aggregates.reset_index(inplace=True)
+	aggregates = pd.pivot_table(aggregates, index=['player'], columns=['goal_type'], values='number_goals', aggfunc=np.sum)
+	aggregates.fillna(0, inplace=True)
+
+	return aggregates
